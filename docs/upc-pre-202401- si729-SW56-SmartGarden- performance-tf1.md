@@ -31,3 +31,21 @@ Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfag
 **Segmento 2 - Experto**  
 <img src="..//assets/chapter-02/Scenario-mapping/Asis2.png" alt="As-IS Scenario Mapping 2">
 
+## 2.4. Ubiquitous Language.
+
+<table border="1px">
+    <tbody>
+        <tr>
+            <td>Término</td>
+            <td>Definición</td>
+        </tr>
+        <tr>
+            <td>Principiante</td>
+            <td>Cualquier persona que utiliza la plataforma para aprender sobre hipdoponia</td>
+        </tr>
+        <tr>
+            <td>Experto</td>
+            <td>Cualquier persona que utiliza la plataforma para brindar guias sobre hidroponia</td>
+        </tr>
+    </tbody>
+</table>

@@ -363,3 +363,20 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
 </table>
 
+## 3.3. Impact Mapping
+
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+
+
+**Segmento 1: Principiante**
+
+
+<img src="../assets/chapter-03/Impactmap1.png" alt="Imagen Impact Mapping 1">
+
+
+**Segmento 2: Experto**
+
+
+<img src="../assets/chapter-03/Impactmap2.png" alt="Imagen Impact Mapping 2">
+
+

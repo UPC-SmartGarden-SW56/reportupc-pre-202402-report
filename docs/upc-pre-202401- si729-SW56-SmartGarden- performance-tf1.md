@@ -1,3 +1,46 @@
+### 2.2.2 Registro de entrevistas.
+
+En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
+
+### Entrevistas segmento 1: Principiante
+### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: 
+* Apellidos: 
+
+Datos del entrevistado:
+* Nombres: 
+* Apellidos: 
+* Edad: 
+* Distrito de residencia: 
+* Enlace a la entrevista: 
+* Duración de la entrevista: 
+
+<img src="../assets/chapter-02/interviews/CAMBIAR.jpg" alt="CAMBIAR">
+
+**Informe del resumen de la entrevista:**
+
+### Entrevistas segmento 2: Experto
+### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres:
+* Apellidos:
+
+Datos del entrevistado:
+* Nombres:
+* Apellidos:
+* Edad:
+* Distrito de residencia:
+* Enlace a la entrevista:
+* Duración de la entrevista:
+
+<img src="../assets/chapter-02/interviews/CAMBIAR.jpg" alt="CAMBIAR">
+
+**Informe del resumen de la entrevista:**
+
+
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender

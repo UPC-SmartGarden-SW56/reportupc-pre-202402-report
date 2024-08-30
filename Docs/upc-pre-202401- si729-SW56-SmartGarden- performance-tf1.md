@@ -9,7 +9,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 **Segmento 2: User**
 
-<img src="../assets/chapter-03/To-be-scenario/ToBe2.jpg" alt="Imagen To Be Mapping 2">
+<img src="../assets/chapter-03/To-be-scenario/Tobe2.jpg" alt="Imagen To Be Mapping 2">
 
 ## 3.2. User Stories
 
@@ -379,4 +379,120 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 <img src="../assets/chapter-03/Impactmap2.png" alt="Imagen Impact Mapping 2">
 
+## 3.4. Product Backlog
+
+<table border="1px" style="text-align: center; width: 100%;">
+<tr>
+    <td valign="top"> #Orden </td>
+    <td valign="top"> User Story Id </td>
+    <td valign="top"> Título </td>
+    <td valign="top"> Descripción </td>
+    <td valign="top"> StoryPoints (1/2/3/5/8 </td>
+  </tr>
+    <tr>
+    <td valign="top"> 01 </td>
+    <td valign="top"> US01 </td>
+    <td valign="top"> Implementación de la sección "Inicio" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Inicio" Para tener una primera vista del producto.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 02 </td>
+    <td valign="top"> US02 </td>
+    <td valign="top"> Implementación de la sección "Sobre nosotros" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Sobre nosotros" Para tener información de la startup Smart Garden.</td>
+    <td valign="top"> 1 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 03 </td>
+    <td valign="top"> US03 </td>
+    <td valign="top"> Implementación de la sección "Servicios" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Servicios" Para tener información de los servicios ofrecidos por la aplicación.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 04 </td>
+    <td valign="top"> US04 </td>
+    <td valign="top"> Implementación de la sección "Planes" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Planes" Para tener información de las membresías de la aplicación</td>
+    <td valign="top"> 3 </td>
+  </tr>
+<tr>
+    <td valign="top"> 05 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Implementación de la sección "About the Team" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About the Team" Para tener información de los miembros que conforman la startup.</td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 06 </td>
+    <td valign="top"> US06 </td>
+    <td valign="top"> Landing Page Responsiva a diferentes tamaños de pantalla</td>
+    <td valign="top"> Como visitante interesado Quiero que la landing page tenga un diseño responsivo Para acceder a ella desde cualquier dispositivo.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 07 </td>
+    <td valign="top"> US07 </td>
+    <td valign="top"> Acceder a la aplicación desde la landing page </td>
+    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación Smart Garden desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 08 </td>
+    <td valign="top"> US08 </td>
+    <td valign="top"> Registrar usuario </td>
+    <td valign="top"> Cómo visitante de la aplicación web de Smart Garden Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Principiante/Experto</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 09 </td>
+    <td valign="top"> US09 </td>
+    <td valign="top"> Iniciar sesión </td>
+    <td valign="top"> Cómo Principiante/Experto de Smart Garden Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 10 </td>
+    <td valign="top"> US10 </td>
+    <td valign="top"> Visualizar perfil de usuario </td>
+    <td valign="top"> Cómo Principiante/Experto de Smart Garden Quiero visualizar mi perfil personal Para visualizar mis datos actuales</td>
+    <td valign="top"> 5 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 11 </td>
+    <td valign="top"> US11 </td>
+    <td valign="top"> Cambiar datos personales </td>
+    <td valign="top"> Cómo Principiante/Experto de Smart Garden Quiero cambiar los datos asociados a mi perfil Para actualizar la información</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 12 </td>
+    <td valign="top"> US12 </td>
+    <td valign="top"> Eliminar cuenta de usuario </td>
+    <td valign="top"> Cómo Principiante/Experto de Smart Garden Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 13 </td>
+    <td valign="top"> US13 </td>
+    <td valign="top"> Publicar curso</td>
+    <td valign="top"> Cómo Experto en hidroponia Quiero crear publicaciones con sobre como crear un huerto hidropónico de un tipo específico Para que pueda ser comprado por un Principiante</td>
+    <td valign="top"> 5 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 14 </td>
+    <td valign="top"> US14 </td>
+    <td valign="top"> Visualizar cursos publicados </td>
+    <td valign="top"> Cómo Experto Quiero visualizar mis publicaciones con la información y especificaciones de mis cursos Para verificar que toda la información ingresada es correcta y actualizada.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 15 </td>
+    <td valign="top"> US15 </td>
+    <td valign="top"> Editar curso </td>
+    <td valign="top"> Cómo Experto de un scooter eléctrico Quiero editar la publicación un curso Para que la información proporcionada a los clientes esté siempre actualizada.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+</table>
 

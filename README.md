@@ -141,3 +141,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
 
 - [5.4. Video about the product](#54-video-about-the-product)
+
+
+## Capítulo II : Requirements Elicitation & Analysis 	

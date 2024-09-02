@@ -154,3 +154,18 @@ SmartGarden es un startup que nace con el objetivo de brindar conocimientos a pe
 Visión: Queremos ser pioneros en la integración de la educación y la tecnología para impulsar la revolución verde en espacios interiores, redefiniendo cómo se cultivan, consumen y comparten diferentes tipos de cultivos.
 
 Misión: Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
+
+### 1.1.2 Perfiles de integrantes del equipo 
+## 1.2 Solution Profile     
+
+•	Nombre del Producto:
+El nombre de nuestra aplicación web es “SmartGarden” porque hacemos referencia a los cultivos empleados por los usuarios durante sus proyectos caseros, quienes simultáneamente irán creciendo con la plataforma, adquiriendo constantes conocimientos y habilidades en la hidroponía.
+
+•	Descripción del Producto: 
+Esta propuesta cuenta con un servicio innovador y novedoso, la aplicación les ofrece a los usuarios la posibilidad de crear proyectos domésticos en base a la hidroponía, empezando desde un nivel de principiante hasta poder convertirse un experto en el tema. Nuestro servicio cuenta con un servicio intuitivo y sencillo para los usuarios de la aplicación.
+
+•	Monetización:
+Nuestra aplicación generará ganancias por medio de planes de suscripción tanto para los expertos como para los usuarios que deseen adquirir un curso. A los expertos además se le cobrará una comisión por cada usuario que adquiera un curso. Lo que haría que nuestra plataforma siga funcionando y los expertos puedan seguir subiendo cursos para nuestros usuarios. 	
+
+![Carlos](https://media.discordapp.net/attachments/1226580112670064641/1227827927803105330/3.png?ex=66330d5d&is=6620985d&hm=e41def947fa9a4030e7f2bc801b2e6af24eab8c6f6bbe733d265f87a50a77d94&=&format=webp&quality=lossless)
+

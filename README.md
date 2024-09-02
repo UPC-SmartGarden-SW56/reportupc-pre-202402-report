@@ -210,26 +210,38 @@ La hidroponía es una de las actividades que posee una cantidad considerable de 
 
 **Business Assumptions:**
 1.Los usuarios de la plataforma web  están interesados en iniciar un proyecto doméstico de hidroponía.
+
 2.Los usuarios desean obtener cursos  ofrecidos por expertos calificados en hidroponía.
+
 3.Los usuarios desean una interfaz sencilla e intuitiva, capaz de ser responsive y fácil para la búsqueda de cursos.
+
 4.Los usuarios desean funcionalidades adicionales como un foro para la comunidad de hidroponía, así como material extra sobre los cursos.
+
 5.Los usuarios desean poder ver y analizar las características de los cursos de forma clara y precisa.
+
 6.La aplicación web debe ser compatible con distintos navegadores.
+
 7.Los usuarios están dispuesto a pagar por el material y los cursos de hidroponía dentro de la plataforma web.
+
 8.Los usuarios desean poder tener el curso para siempre luego de ser adquirido por ellos.
 
 **User Assumptions**
 
 **¿Quién es el usuario?**
 Los usuarios interesados en nuestra plataforma web son aquellos que buscan toda la información necesaria para iniciar un proyecto sobre hidroponía casera, dicha información está dentro de los cursos subidos por los expertos en hidroponía, así como también tendrán un foro de comunidad para intercambiar conocimientos. Nuestros usuarios son: personas con intereses y desean iniciar en el mundo de la hidroponía, y expertos que desean compartir sus conocimientos a los interesados.
+
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 Nuestra plataforma es aplicable tanto como un hobby inicial, hasta convertirse en un proyecto a largo plazo con mayor inversión de tiempo.
+
 **¿Qué problema tiene nuestro proyecto? ¿Cómo se resuelve?**
 El problema que tiene nuestro proyecto es la dificultad de encontrar información acerca de la hidroponía en casa y como poder empezar tus proyectos domésticos. Este problema se resuelve brindando una plataforma donde dichos aficionados puedan conectarse con expertos en el tema y con esto poder guiarlos en sus proyectos. Esto posibilita el formar una comunidad en la cual puedes compartir tus experiencias, consejos, etc.
+
 **¿Qué características son importantes?**
 La característica más importante es la posibilidad de crear comunidades, dentro de las cuales se pueden compartir diversas características entre los usuarios.
+
 **¿Cuándo y cómo es usado nuestro producto?**
 Nuestro producto se adecua a los usuarios, por lo que puede ellos pueden usarlos en las fechas que ellos prefieran, y cuando consideren que sea conveniente iniciar adecuadamente el proyecto que planean. Al mismo tiempo, los expertos también pueden decidir en qué momento compartir sus conocimientos, realizando buenos cursos para los principiantes.
+
 **¿Cómo debería verse nuestro producto?**
 Nuestra plataforma debe cumplir con su propósito sin presentar errores en su funcionamiento. El producto debe tener un uso sencillo e intuitivo para los usuarios.
 

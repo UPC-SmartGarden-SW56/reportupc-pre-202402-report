@@ -270,3 +270,7 @@ Creemos que nuestra aplicación será sencilla e intuitiva de usar para nuestros
 **Hypothesis Statement 5:**
 Creemos que nuestra plataforma podrá seguir funcionando a lo largo del tiempo y ayudando a los usuarios. Sabremos que tuvimos éxito cuando la plataforma pueda cubrir los gastos de esta.
 
+#### 1.2.2.4. Lean UX Canvas 
+
+![Canvas](https://media.discordapp.net/attachments/1091453401205854218/1280307575966924910/image.png?ex=66d79ad9&is=66d64959&hm=01d2871658b948639ecd94d64b5893790695ec7e04f5667d3867116e421baf38&=&format=webp&quality=lossless&width=835&height=473)
+

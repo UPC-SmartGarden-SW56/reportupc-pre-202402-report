@@ -171,6 +171,8 @@ Nuestra aplicación generará ganancias por medio de planes de suscripción tant
 
 ### 1.2.1 Antecedentes y Problemática
 
+En esta parte utilizamos el 5w 2h para conocer los puntos importantes del problema al cual nos enfrentamos:
+
 What?(Que)
 ¿Cuál es el problema?
 El problema que existe en los usuarios interesados en la hidroponía es la falta de conocimiento acerca de la creación de proyectos domésticos, así como la forma de cultivar y como mantenerlos a lo largo del tiempo.

@@ -169,4 +169,34 @@ Nuestra aplicación generará ganancias por medio de planes de suscripción tant
 
 ![SmartGarden](https://media.discordapp.net/attachments/1091453401205854218/1280230298478575656/image.png?ex=66d752e0&is=66d60160&hm=112e8d5df88bbfe4925432d51492dbb324e876e369f9b55a4d100f9ecb781c26&=&format=webp&quality=lossless)
 
+### 1.2.1 Antecedentes y Problemática
+
+What?(Que)
+¿Cuál es el problema?
+El problema que existe en los usuarios interesados en la hidroponía es la falta de conocimiento acerca de la creación de proyectos domésticos, así como la forma de cultivar y como mantenerlos a lo largo del tiempo.
+
+When?(Cuando)
+¿Cuándo sucede el problema?
+El problema se presenta cuando los interesados en la hidroponía buscan información sobre esta y no logra encontrar lo que necesita, impidiendo poder tener proyectos domésticos en casa.
+
+Where?(Donde)
+¿Dónde está el problema? 
+El problema se da a lugar en la nula o escasa información que se llega a recopilar en los distintos sitios web sobre la hidroponía, impidiendo que los interesados en esto no puedan tener proyectos domésticos de hidroponía.
+
+Who? (Quién)
+¿Quién lo utilizará?
+Los involucrados serán los usuarios del sistema, los cuales serían nuestros 2 segmentos objetivos, aficionados a la hidroponía y expertos que desean compartir sus conocimientos. Nuestra aplicación solucionará el problema de la información sobre la escasa información de la hidroponía
+
+Why?(Por qué)
+¿Por qué es un problema?
+Casi siempre los usuarios no logran encontrar la información que requieren sobre la hidroponía y un posible jardín hidropónico, por lo que deben buscar por mucho tiempo en internet o preguntando por información a sus familiares o amistades.
+
+How?(Cómo)
+¿Cómo nuestro producto podrá ayudar?
+La información sobre la hidroponía suele ser complicado para los aficionados o principiantes en cultivos de hidroponía para poder iniciar sus proyectos domésticos. Debido a este problema, surge nuestra plataforma web, el cual servirá como apoyo a todos los usuarios que quieren poner en práctica su pasión.
+
+How much?(Cuánto)
+¿Cuál es la magnitud del problema?
+El problema es considerable puesto que afecta a muchas personas interesadas en la hidroponía, todo esto debido a la nula o escasa información sobre los cultivos hidropónicos. Para muchos aficionados esta falta de conexión puede derivar en dificultades para poder llegar a empezar sus proyectos domésticos.
+
 

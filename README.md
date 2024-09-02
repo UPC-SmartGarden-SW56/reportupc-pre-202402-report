@@ -167,5 +167,6 @@ Esta propuesta cuenta con un servicio innovador y novedoso, la aplicación les o
 •	Monetización:
 Nuestra aplicación generará ganancias por medio de planes de suscripción tanto para los expertos como para los usuarios que deseen adquirir un curso. A los expertos además se le cobrará una comisión por cada usuario que adquiera un curso. Lo que haría que nuestra plataforma siga funcionando y los expertos puedan seguir subiendo cursos para nuestros usuarios. 	
 
-![Carlos](https://media.discordapp.net/attachments/1226580112670064641/1227827927803105330/3.png?ex=66330d5d&is=6620985d&hm=e41def947fa9a4030e7f2bc801b2e6af24eab8c6f6bbe733d265f87a50a77d94&=&format=webp&quality=lossless)
+![SmartGarden](https://media.discordapp.net/attachments/1091453401205854218/1280230298478575656/image.png?ex=66d752e0&is=66d60160&hm=112e8d5df88bbfe4925432d51492dbb324e876e369f9b55a4d100f9ecb781c26&=&format=webp&quality=lossless)
+
 

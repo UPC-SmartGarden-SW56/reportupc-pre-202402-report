@@ -153,5 +153,4 @@ SmartGarden es un startup que nace con el objetivo de brindar conocimientos a pe
 
 Visión: Queremos ser pioneros en la integración de la educación y la tecnología para impulsar la revolución verde en espacios interiores, redefiniendo cómo se cultivan, consumen y comparten diferentes tipos de cultivos.
 
-Misión: Ofrecer una plataforma educativa innovadora y completa que empodere a personas interesadas en la hidroponía doméstica.
-
+Misión: Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .

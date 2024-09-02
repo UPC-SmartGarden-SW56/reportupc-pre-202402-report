@@ -144,6 +144,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 
 
-## [Capítulo I: Introducción](#capítulo-i-introducción)
-- [1.1. Startup Profile](#11-startup-profile)
-   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup

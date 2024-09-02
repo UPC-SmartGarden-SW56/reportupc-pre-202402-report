@@ -143,4 +143,17 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [5.4. Video about the product](#54-video-about-the-product)
 
 
-## Capítulo II : Requirements Elicitation & Analysis 	
+# Capítulo II : Requirements Elicitation & Analysis 	
+
+## 2.1 Competidores
+
+Luego de una investigación rigurosa en el mercado peruano, hemos encontrado 3 proyectos similares a SmartGarden.
+
+A continuación, se mostrarán los competidores:
+
+•	Hidroponika:
+
+![Hidroponika](https://media.discordapp.net/attachments/1091453401205854218/1280315633988272253/image.png?ex=66d7a25a&is=66d650da&hm=68bda59b32e24cccb0244548a6fe6664d6f1efd6f88d3d3f2b7b727ee8def823&=&format=webp&quality=lossless)
+
+Es una aplicación web que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
+

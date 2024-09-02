@@ -286,4 +286,3 @@ Segmento objetivo #2: **Expertos en hidroponía (+18 años)**
 
 Nuestro segundo segmento objetivo abarca a los expertos en la hidroponía, los cuales necesitan una plataforma que funciones como intermediario, donde poder subir sus cursos y contenido para las personas interesadas en hidroponía.
 
-

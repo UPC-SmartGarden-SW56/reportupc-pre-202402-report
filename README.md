@@ -246,3 +246,21 @@ Nuestro producto se adecua a los usuarios, por lo que puede ellos pueden usarlos
 **¿Cómo debería verse nuestro producto?**
 Nuestra plataforma debe cumplir con su propósito sin presentar errores en su funcionamiento. El producto debe tener un uso sencillo e intuitivo para los usuarios.
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hypothesis Statement 1:**
+
+Creemos que nuestra plataforma será de mucha utilidad para las personas principiantes en el tema de hidroponía doméstica. Sabremos que tuvimos éxito cuando las reseñas positivas que se realizan a los usuarios sean mayores al 80%.
+
+**Hypothesis Statement 2:**
+Creemos que los expertos en el tema podrán ayudar de manera significativa para el aprendizaje de los usuarios principiantes. Sabremos que tuvimos éxito cuando los cursos ofrecidos tengan inscritos más del 70% de usuarios.
+
+**Hypothesis Statement 3:**
+Creemos que nuestra aplicación será utilizada por personas mayores de 18 años, siendo este nuestro segmento objetivo. Sabremos que tuvimos éxito cuando el promedio de edad de los usuarios coincida con nuestro objetivo.
+
+**Hypothesis Statement 4:**
+Creemos que nuestra aplicación será sencilla e intuitiva de usar para nuestros usuarios. Sabremos que tuvimos éxito cuando en las encuestas de la plataforma los usuarios satisfechos sean más del 80%.
+
+**Hypothesis Statement 5:**
+Creemos que nuestra plataforma podrá seguir funcionando a lo largo del tiempo y ayudando a los usuarios. Sabremos que tuvimos éxito cuando la plataforma pueda cubrir los gastos de esta.
+

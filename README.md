@@ -201,4 +201,35 @@ La información sobre la hidroponía suele ser complicado para los aficionados o
 ¿Cuál es la magnitud del problema?
 El problema es considerable puesto que afecta a muchas personas interesadas en la hidroponía, todo esto debido a la nula o escasa información sobre los cultivos hidropónicos. Para muchos aficionados esta falta de conexión puede derivar en dificultades para poder llegar a empezar sus proyectos domésticos.
 
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+
+La hidroponía es una de las actividades que posee una cantidad considerable de aficionados e interesados, a su vez también existen personas los cuales desean adentrarse en el mundo de la hidroponía y la creación de proyectos domésticos. De acuerdo a distintos medios de comunicación, la hidroponía es el futuro de la agricultura sostenible, debido a que necesita hasta un 90% menos de agua que los métodos de agricultura convencionales. Además, afirman que la hidroponía es un modelo que se adapta a pequeños espacios, permitiendo de esta manera una mayor eficiencia en la regulación de la nutrición y el crecimiento de los cultivos con mayor rapidez. Aunque, constantemente las personas interesadas a la hidroponía se enfrentan al problema de la escasa o nula información de los recursos que necesitan. También, la falta de interacción entre una comunidad activa de personas con ideas afines hace este proceso aislado. Debido a esto es que nuestra startup busca solucionar estos problemas con nuestra plataforma web, la cual será el nexo entre personas interesadas en hidroponía y expertos en este tema.
+
+#### 1.2.2.2 Lean UX Assumptions
+
+**Business Assumptions:**
+1.Los usuarios de la plataforma web  están interesados en iniciar un proyecto doméstico de hidroponía.
+2.Los usuarios desean obtener cursos  ofrecidos por expertos calificados en hidroponía.
+3.Los usuarios desean una interfaz sencilla e intuitiva, capaz de ser responsive y fácil para la búsqueda de cursos.
+4.Los usuarios desean funcionalidades adicionales como un foro para la comunidad de hidroponía, así como material extra sobre los cursos.
+5.Los usuarios desean poder ver y analizar las características de los cursos de forma clara y precisa.
+6.La aplicación web debe ser compatible con distintos navegadores.
+7.Los usuarios están dispuesto a pagar por el material y los cursos de hidroponía dentro de la plataforma web.
+8.Los usuarios desean poder tener el curso para siempre luego de ser adquirido por ellos.
+
+**User Assumptions**
+
+**¿Quién es el usuario?**
+Los usuarios interesados en nuestra plataforma web son aquellos que buscan toda la información necesaria para iniciar un proyecto sobre hidroponía casera, dicha información está dentro de los cursos subidos por los expertos en hidroponía, así como también tendrán un foro de comunidad para intercambiar conocimientos. Nuestros usuarios son: personas con intereses y desean iniciar en el mundo de la hidroponía, y expertos que desean compartir sus conocimientos a los interesados.
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+Nuestra plataforma es aplicable tanto como un hobby inicial, hasta convertirse en un proyecto a largo plazo con mayor inversión de tiempo.
+**¿Qué problema tiene nuestro proyecto? ¿Cómo se resuelve?**
+El problema que tiene nuestro proyecto es la dificultad de encontrar información acerca de la hidroponía en casa y como poder empezar tus proyectos domésticos. Este problema se resuelve brindando una plataforma donde dichos aficionados puedan conectarse con expertos en el tema y con esto poder guiarlos en sus proyectos. Esto posibilita el formar una comunidad en la cual puedes compartir tus experiencias, consejos, etc.
+**¿Qué características son importantes?**
+La característica más importante es la posibilidad de crear comunidades, dentro de las cuales se pueden compartir diversas características entre los usuarios.
+**¿Cuándo y cómo es usado nuestro producto?**
+Nuestro producto se adecua a los usuarios, por lo que puede ellos pueden usarlos en las fechas que ellos prefieran, y cuando consideren que sea conveniente iniciar adecuadamente el proyecto que planean. Al mismo tiempo, los expertos también pueden decidir en qué momento compartir sus conocimientos, realizando buenos cursos para los principiantes.
+**¿Cómo debería verse nuestro producto?**
+Nuestra plataforma debe cumplir con su propósito sin presentar errores en su funcionamiento. El producto debe tener un uso sencillo e intuitivo para los usuarios.
 

@@ -209,6 +209,7 @@ La hidroponía es una de las actividades que posee una cantidad considerable de 
 #### 1.2.2.2 Lean UX Assumptions
 
 **Business Outcomes:**
+
 1.Los usuarios de la plataforma web  están interesados en iniciar un proyecto doméstico de hidroponía.
 
 2.Los usuarios desean obtener cursos  ofrecidos por expertos calificados en hidroponía.

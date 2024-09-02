@@ -173,31 +173,31 @@ Nuestra aplicación generará ganancias por medio de planes de suscripción tant
 
 En esta parte utilizamos el 5w 2h para conocer los puntos importantes del problema al cual nos enfrentamos:
 
-What?(Que)
+**What?(Que)**
 ¿Cuál es el problema?
 El problema que existe en los usuarios interesados en la hidroponía es la falta de conocimiento acerca de la creación de proyectos domésticos, así como la forma de cultivar y como mantenerlos a lo largo del tiempo.
 
-When?(Cuando)
+**When?(Cuando)**
 ¿Cuándo sucede el problema?
 El problema se presenta cuando los interesados en la hidroponía buscan información sobre esta y no logra encontrar lo que necesita, impidiendo poder tener proyectos domésticos en casa.
 
-Where?(Donde)
+**Where?(Donde)**
 ¿Dónde está el problema? 
 El problema se da a lugar en la nula o escasa información que se llega a recopilar en los distintos sitios web sobre la hidroponía, impidiendo que los interesados en esto no puedan tener proyectos domésticos de hidroponía.
 
-Who? (Quién)
+**Who? (Quién)**
 ¿Quién lo utilizará?
 Los involucrados serán los usuarios del sistema, los cuales serían nuestros 2 segmentos objetivos, aficionados a la hidroponía y expertos que desean compartir sus conocimientos. Nuestra aplicación solucionará el problema de la información sobre la escasa información de la hidroponía
 
-Why?(Por qué)
+**Why?(Por qué)**
 ¿Por qué es un problema?
 Casi siempre los usuarios no logran encontrar la información que requieren sobre la hidroponía y un posible jardín hidropónico, por lo que deben buscar por mucho tiempo en internet o preguntando por información a sus familiares o amistades.
 
-How?(Cómo)
+**How?(Cómo)**
 ¿Cómo nuestro producto podrá ayudar?
 La información sobre la hidroponía suele ser complicado para los aficionados o principiantes en cultivos de hidroponía para poder iniciar sus proyectos domésticos. Debido a este problema, surge nuestra plataforma web, el cual servirá como apoyo a todos los usuarios que quieren poner en práctica su pasión.
 
-How much?(Cuánto)
+**How much?(Cuánto)**
 ¿Cuál es la magnitud del problema?
 El problema es considerable puesto que afecta a muchas personas interesadas en la hidroponía, todo esto debido a la nula o escasa información sobre los cultivos hidropónicos. Para muchos aficionados esta falta de conexión puede derivar en dificultades para poder llegar a empezar sus proyectos domésticos.
 

@@ -256,7 +256,7 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 **Segmento de interesados en la hidroponía:**
 
-![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280408660954320910/image.png?ex=66d7f8fd&is=66d6a77d&hm=714138d5667b1e162af2a9c7b85bf07ccc88efa21015aa299fe26d3ffc821210&=&format=webp&quality=lossless&width=301&height=473) 
+![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280410313505902653/User_Persona-Interesado.png?ex=66d7fa87&is=66d6a907&hm=16bc642a100e30aed003d6b21ea867b10bdb0a3463ef4ad987da1d6dba4e6295&=&format=webp&quality=lossless&width=355&height=473) 
 
 **Segmento de expertos en hidroponía:**
 

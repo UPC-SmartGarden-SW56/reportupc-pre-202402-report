@@ -171,7 +171,7 @@ Es un portal que ofrece distintos tipos de información acerca de los distintos 
 Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
 
 ### 2.1.1 Análisis competitivo
-| Competitve Analysis Landscape |              |             |                        |                      |                    |
+| Competitve Analysis Landscape                                                                               |
 |------------------------------|--------------|-------------|------------------------|----------------------|--------------------|
 |                              |              | **Nombre empresa**    | **Get Your Guide**    | **Tours By Locals** | **Viator**         |
 |                              |              |                    | ![Get Your Guide](https://media.discordapp.net/attachments/1226580112670064641/1227828214810939402/11.png?ex=6629d322&is=66175e22&hm=d95791e5790fbe66a968799c8a8b00de66c2a16ba4ac6047443d789b6021b023&=&format=webp&quality=lossless) | ![Tours By Locals](https://media.discordapp.net/attachments/1226580112670064641/1227828238177538048/12.png?ex=6629d327&is=66175e27&hm=c5a72382b2cc43368ee2d9ce90822737727e3d204a2679d78d9322d54f9d89a3&=&format=webp&quality=lossless) | ![Viator](https://media.discordapp.net/attachments/1226580112670064641/1227828255445356584/13.png?ex=6629d32c&is=66175e2c&hm=9b19a712c6406176aacee997fb71d00778a3fb5830d31a9e712b257ad58f2a96&=&format=webp&quality=lossless) |

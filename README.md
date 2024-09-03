@@ -187,4 +187,24 @@ Es un portal que ofrece una gran cantidad de productos para la hidroponía como 
 |                              | **Oportunidades** | Falta de información por expertos en el tema. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional. | Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc. | Falta de lugares donde dicten cursos de una gran variedad de temas. Los eventos presenciales muchas veces no son tan completos como sí lo es el de Intagri. | Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes. |
 |                              | **Amenazas** | Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico del startup. | Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica. | Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones. | Los mismos productos podrán ser encontrados en otros tipos de páginas |
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+Debido a las diversas opciones que tienen los usuarios para poder satisfacer la necesidad del usuario cuando busque un lugar donde encontrar todo lo relacionado a la hidroponía y poder estar en una posición competitiva decidimos realizar los siguientes métodos:
+
+**Liderazgo en costes:**
+
+•	Tenemos la capacidad de promover que los expertos ofrezcan sus cursos de manera accesible económicamente a los usuarios. De igual manera se ofrecerán a nuestros clientes distintos precios según la categoría de estos. Nos orientamos principalmente a satisfacer las necesidades de las personas en busca de investigaciones, información y cursos que les ayuden a tener más conocimientos acerca de la hidroponía.
+
+**Estrategia de diferenciación:**
+
+•	Tenemos en cuenta que, si queremos sobresalir de entre nuestros competidores, debemos establecer funcionalidades que otras aplicaciones no tengan o mejorarlas. Alguna de estas características es sobre el gran catálogo de temas, opiniones e investigaciones acerca de esta técnica de hidroponía. Todo esto vendrá respaldado por especialistas en el tema, es decir que cada punto que el usuario observe estará validado y puede ser usado en alguna investigación o simplemente para poder informarse. Asimismo, contaremos con una amplia cantidad de cursos en línea que serán dictadas por los especialistas que confíen en nosotros y nos ayuden a formar una mejor plataforma de información. También contaremos con un foro donde toda la comunidad pueda compartir sus conocimientos y dudas.
+
+**Estrategia de enfoque:**
+
+•	Somos conscientes que el crecimiento de la tecnología y el incremento en el uso de computadoras y smartphones, han generado una gran demanda en los servicios de gestión y guía hidropónica. Por ello, tenemos en cuenta que una buena plataforma web sería de gran ayuda para las personas que desde sus propios dispositivos puedan investigar y conocer más acerca de nuestro tema principal.
+
+**Táctica de expansión:**
+
+•	Pensamos en expandir nuestra plataforma web a partir de buenas calificaciones que tengan nuestros usuarios hacia la aplicación, así como promover la plataforma mediante anuncios en las principales redes sociales.
+
 

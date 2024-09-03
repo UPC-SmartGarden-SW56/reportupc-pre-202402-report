@@ -262,6 +262,8 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ![User Persona Experto](https://media.discordapp.net/attachments/1091453401205854218/1280411032325459988/User_Persona-Experto.png?ex=66d7fb32&is=66d6a9b2&hm=456fe715569123ee4c2461a27ebbc9873ade9ed3fcb9a1bffe685b27be6b3184&=&format=webp&quality=lossless&width=315&height=473)
 
+### 2.3.2 User Task Matrix
 
+| Tareas                 | Frecuencia            |  Importancia |
 
 

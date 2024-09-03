@@ -274,7 +274,7 @@ Creemos que nuestra plataforma podrá seguir funcionando a lo largo del tiempo y
 
 ![Canvas](https://media.discordapp.net/attachments/1091453401205854218/1280307575966924910/image.png?ex=66d79ad9&is=66d64959&hm=01d2871658b948639ecd94d64b5893790695ec7e04f5667d3867116e421baf38&=&format=webp&quality=lossless&width=835&height=473)
 
-## 1.3 Segmento Objetivo 
+## 1.3 Segmentos Objetivo 
 
 Nuestra aplicación se centra en la gestión de cultivos o proyectos domésticos de hidroponía, lo que nos lleva a tener 2 segmentos clave. 
 

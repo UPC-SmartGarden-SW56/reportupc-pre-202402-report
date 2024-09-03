@@ -170,3 +170,5 @@ Es un portal que ofrece distintos tipos de información acerca de los distintos 
 
 Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
 
+### 2.1.1 Análisis competitivo
+

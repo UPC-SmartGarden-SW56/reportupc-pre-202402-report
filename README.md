@@ -264,12 +264,33 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.3.2 User Task Matrix
 
-**User Persona: Interesado en Hidroponía** 
+**User Persona: Interesados en Hidroponía** 
+
 | Tareas| Frecuencia | Importancia |
 | ---------- | ------ | ---------- |
 | Investigar sobre la hidroponía | Alta | Media |
+| Buscar recursos extra en línea | Media | Alta |
+| Consultar con la comunidad | Media | Alta |
+| Seleccionar el tipo de cultivo | Alta | Media |
+| Adquirir suministros y equipos | Media | Alta |
+| Montar el sistema Hidropónico | Alta | Alta |
+| Cultivar y mantener las plantas | Alta | Alta |
+| Solucionar problemas (plagas, nutrientes) | Media | Alta |
+| Experimentar con nuevas técnicas de hidroponía | Media | Media |
+| Revisar valoraciones y reseñas de la plataforma | Baja | Alta |
 
+**User persona: Expertos en la hidroponía que desean compartir sus conocimientos**
 
+| Tareas| Frecuencia | Importancia |
+| ---------- | ------ | ---------- |
+| Compartir consejos en foros y redes sociales | Alta | Alta |
+| Enviar comentarios en el foro | Alta | Alta |
+| Responder consultas personales | Alta | Media |
+| Crear contenido educativo (artículos, videos) | Media | Alta |
+| Diseñar y estructurar cursos | Media | Alta |
+| Ofrecer cursos en línea | Media | Alta |
+| Mantener y actualizar contenido | Alta | Media |
+| Evaluar la eficacia de la enseñanza | Media | Alta |
 
 
 

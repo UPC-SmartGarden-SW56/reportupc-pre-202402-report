@@ -264,16 +264,10 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.3.2 User Task Matrix
 
-|             Tareas                       |   Frecuencia        |       Importancia    | 
-|------------------------------------|----------|-------------|------------------------|
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
-|                                    |          |             |                        |
+| Color | Descripcion |
+| ----- | ----------- |
+| Color Primario | verde, usaremos este color ya que se asocia con el naturaleza, ademas evoca una sensación de calma y serenidad  |
+| Color Segundario | Blanco, usaremos este color ya que es un color clásico y atemporal que también puede crear entornos tranquilos. Al combinar el blanco con otros tonos suaves se puede crear un ambiente aún más  acogedor. |
 
 
 

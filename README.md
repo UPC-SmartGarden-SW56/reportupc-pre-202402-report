@@ -264,6 +264,6 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.3.2 User Task Matrix
 
-| Tareas                 | Frecuencia            |  Importancia |
+|----------- Tareas ----------------|------------- Frecuencia--------------- |--------------Importancia-------------- |
 
 

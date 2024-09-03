@@ -151,9 +151,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 AquaBloom es un startup que nace con el objetivo de brindar conocimientos a personas que tengan un interés en la hidroponía. Ofrecemos a los usuarios una experiencia de aprendizaje integral que combina cursos en línea, libros y un foro para la comunidad. Desde personas principiantes hasta expertos, nuestra plataforma web, brinda las herramientas y recursos necesarios para adentrarse en el mundo de la hidroponía. A través de contenido didáctico de alta calidad y asesoramiento, estamos transformando la forma en que las personas realizan sus cultivos y promoviendo la autosuficiencia en lugares urbanos y rurales.
   
 
-Visión: Queremos ser pioneros en la integración de la educación y la tecnología para impulsar la revolución verde en espacios interiores, redefiniendo cómo se cultivan, consumen y comparten diferentes tipos de cultivos.
+**Visión:** Queremos ser pioneros en la integración de la educación y la tecnología para impulsar la revolución verde en espacios interiores, redefiniendo cómo se cultivan, consumen y comparten diferentes tipos de cultivos.
 
-Misión: Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
+**Misión:** Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
 
 ### 1.1.2 Perfiles de integrantes del equipo 
 ## 1.2 Solution Profile     

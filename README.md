@@ -250,3 +250,18 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.2.3 Análisis de entrevistas
 
+## 2.3 Needfinding 
+
+### 2.3.1 User Personas
+
+**Segmento de interesados en la hidroponía:**
+
+![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280408660954320910/image.png?ex=66d7f8fd&is=66d6a77d&hm=714138d5667b1e162af2a9c7b85bf07ccc88efa21015aa299fe26d3ffc821210&=&format=webp&quality=lossless&width=301&height=473) 
+
+**Segmento de expertos en hidroponía:**
+
+![User Persona Experto](https://media.discordapp.net/attachments/1091453401205854218/1280408700107882608/image.png?ex=66d7f906&is=66d6a786&hm=fd787973edd7038b5062f67bdda0f48b8d63cff5b9c927857fff7485b4882ba2&=&format=webp&quality=lossless&width=312&height=473)
+
+
+
+

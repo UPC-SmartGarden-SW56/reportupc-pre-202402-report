@@ -207,4 +207,46 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 •	Pensamos en expandir nuestra plataforma web a partir de buenas calificaciones que tengan nuestros usuarios hacia la aplicación, así como promover la plataforma mediante anuncios en las principales redes sociales.
 
+## 2.2 Entrevistas 
+
+### 2.2.1 Diseño de entrevistas
+
+**Interesados en Hidroponía**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+5. ¿Por qué deseas empezar una granja en casa?
+6. ¿Qué tipo de plantas te gustaría cultivar en un sistema hidropónico?
+7. Hasta el momento ¿Qué recursos utilizas para aprender más sobre hidroponía?
+8. ¿Cuáles son los principales inconvenientes que se le presentan para conseguir información acerca de hidroponía y granjas en casa?
+9. ¿Qué beneficios podría obtener al poder reunir la información necesaria de forma más eficiente?
+10. ¿Qué expectativas tienes sobre el mantenimiento y cuidado de un sistema hidropónico?
+11. ¿Qué herramienta digital puede ayudar con un futuro proyecto de hidroponía?
+12. Además de la hidroponía ¿Que otros intereses relacionados a las plantas tiene?
+13. ¿Te sería de utilidad una aplicación en la cual puedas obtener este tipo de servicios, además de contar con comunidades y guías de expertos?
+14. ¿Qué facilidades y características considera que deben estar presente en una aplicación como la descrita?
+
+    
+**Expertos en Hidroponía** 
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+5. ¿Cómo iniciaste con el tema de hidroponía y granjas domésticas? ¿Es complicado?
+6. ¿Cómo llevas a cabo tu proyecto actual?
+7. ¿Cuáles son los principales inconvenientes que se le presentan al mantener una proyecto de hidroponía doméstica?
+8. ¿Cómo evalúas la eficiencia y productividad de tus cultivos hidropónicos?
+9. ¿Te pareció complicado adquirir todo el conocimiento con el que cuentas ahora sobre el tema?
+10. ¿Qué tipo de ayuda te hubiera gustado tener en tu proceso de aprendizaje y mientras construías tu proyecto?
+11. ¿Es de tu interés brindar apoyo hacia las personas principiantes en hidroponía? ¿Por qué?
+12. ¿Qué tipo de material o que tipo de contenido usarías para enseñar? 
+13. ¿Te sería de utilidad una aplicación en la cual puedas conectarte con los principiantes, además de contar con comunidades?
+14. ¿Qué facilidades y características considera que deben estar presente en una aplicación como la descrita?
+
+### 2.2.2 Registro de entrevistas 
+
+### 2.2.3 Análisis de entrevistas
 

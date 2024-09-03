@@ -160,7 +160,7 @@ AquaBloom es un startup que nace con el objetivo de brindar conocimientos a pers
 |--------------|--------------|--------------|--------------|
 | ************ | ************ | ************ | ************ |
 | Alexander Paolo Justo Yauricasa | U20191C054 | soy buena gente | ************ |
-| ************ | ************ | ************ | ************ |
+| Carlos Alejandro De La Cruz Villarreal | u20211c036 | Soy un estudiante la carrera de Ingeniería de Software en la UPC; considero que soy una persona responsable y con una fuerte motivación para culminar todos mis trabajos universitarios. Me comprometo a cumplir y motivar a mis compañeros de grupo para poder lograr el objetivo del curso. | ************ |
 | ************ | ************ | ************ | ************ |
 | ************ | ************ | ************ | ************ |
 

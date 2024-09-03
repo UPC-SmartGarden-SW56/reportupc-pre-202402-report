@@ -256,11 +256,11 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 **Segmento de interesados en la hidroponía:**
 
-![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280410313505902653/User_Persona-Interesado.png?ex=66d7fa87&is=66d6a907&hm=16bc642a100e30aed003d6b21ea867b10bdb0a3463ef4ad987da1d6dba4e6295&=&format=webp&quality=lossless&width=355&height=473) 
+![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280410987937140766/User_Persona-Interesado.png?ex=66d7fb28&is=66d6a9a8&hm=8990a42e130008a34a42df166ce33c2ef1357dcb012ce361f33950ea1977d153&=&format=webp&quality=lossless&width=315&height=473) 
 
 **Segmento de expertos en hidroponía:**
 
-![User Persona Experto](https://media.discordapp.net/attachments/1091453401205854218/1280408700107882608/image.png?ex=66d7f906&is=66d6a786&hm=fd787973edd7038b5062f67bdda0f48b8d63cff5b9c927857fff7485b4882ba2&=&format=webp&quality=lossless&width=312&height=473)
+![User Persona Experto](https://media.discordapp.net/attachments/1091453401205854218/1280411032325459988/User_Persona-Experto.png?ex=66d7fb32&is=66d6a9b2&hm=456fe715569123ee4c2461a27ebbc9873ade9ed3fcb9a1bffe685b27be6b3184&=&format=webp&quality=lossless&width=315&height=473)
 
 
 

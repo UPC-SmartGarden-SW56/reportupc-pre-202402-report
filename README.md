@@ -156,6 +156,14 @@ AquaBloom es un startup que nace con el objetivo de brindar conocimientos a pers
 **Misión:** Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
 
 ### 1.1.2 Perfiles de integrantes del equipo 
+| Nombre       | Código       | Descripcion  |Imagen        |
+|--------------|--------------|--------------|--------------|
+| ************ | ************ | ************ | ************ |
+| ************ | ************ | ************ | ************ |
+| ************ | ************ | ************ | ************ |
+| ************ | ************ | ************ | ************ |
+| ************ | ************ | ************ | ************ |
+
 ## 1.2 Solution Profile     
 
 •	**Nombre del Producto:**

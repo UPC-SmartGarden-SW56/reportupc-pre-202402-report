@@ -160,6 +160,7 @@ Es una aplicación web que cuenta con una gama completa de productos y servicios
 •	**Intagri:**
 ![Intagri](https://media.discordapp.net/attachments/1091453401205854218/1280322762321428602/image.png?ex=66d7a8fd&is=66d6577d&hm=984b0e85f8750075a5abfa3e0d0a8e066c12494121ceb9da64353e240c18c766&=&format=webp&quality=lossless)
 
+
 Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
 
 •   **Mundo Hidroponia:**

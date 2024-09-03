@@ -265,10 +265,10 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 ### 2.3.2 User Task Matrix
 
 **User Persona: Interesado en Hidroponía** 
-| Tipografia | Fuente | 
-| ---------- | ------ | 
-| Tipografia Principal | Fuente: Open Runde / Tamaño: 25 px - 55 px | 
-| Tipografia Segundario | Fuente: Arima / Tamño: 12 px - 20 px | 
+| Tareas| Frecuencia | Importancia |
+| ---------- | ------ | ---------- |
+| Investigar sobre la hidroponía | Alta | Media |
+
 
 
 

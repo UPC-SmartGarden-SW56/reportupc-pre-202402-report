@@ -270,8 +270,8 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Nombre:     | Raul Ayala       |
 | Edad:       | 25 |
 | Distrito: | Lima |
-| Timing: 5:50| |
-|<a href="" border="0"></a>|
+| Timing: | 5:50|
+|Caputura| <img src="" alt="EntrevistaRaul" border="0"> |
 |Resumen: | En esta ocasión entrevistó a la especialista Raul Ayala. En la entrevista el resalta la importancia de la hidroponia para producir alimentos agricolas en espacios resucidos. Así mismo, Raul menciona que una aplicación de hidroponia podría ayudar a llegar a gente de todo tipo, tanto practicantes o especialistas. Por último, el dice que se encuentra interesada en una plataforma digital que abarque muchos temas de hidroponia, que ayude tanto a pacientes como a especialistas.|
 | Link: https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4BwubY12gX8/view?usp=sharing  |
 

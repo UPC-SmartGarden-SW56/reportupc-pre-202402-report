@@ -250,8 +250,16 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ***Enlace Entrevistas:*** https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx?usp=sharing
  
-**Entrevista a Usuarios**
-
+**Entrevista a Interesado en Hidroponía**
+| Registro de entrevista 1 | | 
+|:------------ |:------------:|
+| Nombre:     | Paul Gamero Lizana      |
+| Edad:       | 21 |
+| Distrito: | San Martín de Porres |
+| Timing: | 3:41 |
+|![Foto entrevista](https://media.discordapp.net/attachments/1091453401205854218/1280987829039665253/image.png?ex=66da1462&is=66d8c2e2&hm=ae54be9f78acff1d5319792f20f495f9bb9b455cf8fd2aa7cf3626fc0c76600a&=&format=webp&quality=lossless&width=842&height=473)|
+|Resumen: | El interesado en adentrarse en el mundo de la hidroponía, Paul Gamero nos comenta que muchas veces ha tenido el sueño de empezar un granja en su casa, porque le interesa alimentarse de productos naturales. Sin embargo, no encuentra mucha información adecuada que le puede guiar en convertir su sueño en realidad. También nos comenta que le gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho tiempo en buscar guías o consejos para sus cultivos hidropónicos .|
+| Link | https://youtu.be/rvpSkUZ6XuM |
 
 **Entrevista a Expertos**
 
@@ -260,7 +268,7 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Nombre:     | Nelida Ruiz Agurto       |
 | Edad:       | 78 |
 | Distrito: | Callao |
-| Timing: | |
+| Timing: | 7:46 |
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/Kbd2hJ8/Captura-de-pantalla-2024-09-04-112710.png" alt="Captura-de-pantalla-2024-09-04-112710" border="0"></a>|
 |Resumen: | La experta en hidroponía, Nelida Ruiz nos comenta que para el proceso de su propio aprendizaje tuvo que recurrir a varias personas y materiales, además le parece importante que haya un gusto por esta actividad para que sean aún más fácil de aprender. Le hubiera gustado tener a una persona que la oriente en su camino de aprendizaje así como ella está dispuesta a hacer con las personas que necesiten una guía.|
 | Link: |

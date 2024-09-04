@@ -248,6 +248,8 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.2.2 Registro de entrevistas 
 
+***Enlace Entrevistas:*** https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx?usp=sharing
+ 
 **Entrevista a Usuarios**
 
 
@@ -262,6 +264,16 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 |<a href="https://imgbb.com/"><img src="https://i.ibb.co/Kbd2hJ8/Captura-de-pantalla-2024-09-04-112710.png" alt="Captura-de-pantalla-2024-09-04-112710" border="0"></a>|
 |Resumen: | La experta en hidroponía, Nelida Ruiz nos comenta que para el proceso de su propio aprendizaje tuvo que recurrir a varias personas y materiales, además le parece importante que haya un gusto por esta actividad para que sean aún más fácil de aprender. Le hubiera gustado tener a una persona que la oriente en su camino de aprendizaje así como ella está dispuesta a hacer con las personas que necesiten una guía.|
 | Link: |
+
+| Registro de entrevista 2 | | 
+|:------------ |:------------:|
+| Nombre:     | Raul Ayala       |
+| Edad:       | 25 |
+| Distrito: | Lima |
+| Timing: 5:50| |
+|<a href="" border="0"></a>|
+|Resumen: | En esta ocasión entrevistó a la especialista Raul Ayala. En la entrevista el resalta la importancia de la hidroponia para producir alimentos agricolas en espacios resucidos. Así mismo, Raul menciona que una aplicación de hidroponia podría ayudar a llegar a gente de todo tipo, tanto practicantes o especialistas. Por último, el dice que se encuentra interesada en una plataforma digital que abarque muchos temas de hidroponia, que ayude tanto a pacientes como a especialistas.|
+| Link: https://drive.google.com/file/d/11QXtqWpK_JMpYyd_M54Ko4BwubY12gX8/view?usp=sharing  |
 
 
 

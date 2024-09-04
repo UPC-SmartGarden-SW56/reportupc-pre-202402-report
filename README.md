@@ -257,7 +257,7 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Edad:       | 21 |
 | Distrito: | San Martín de Porres |
 | Timing: | 3:41 |
-|![Foto entrevista](https://media.discordapp.net/attachments/1091453401205854218/1280987829039665253/image.png?ex=66da1462&is=66d8c2e2&hm=ae54be9f78acff1d5319792f20f495f9bb9b455cf8fd2aa7cf3626fc0c76600a&=&format=webp&quality=lossless&width=842&height=473)|
+| Captura | ![Foto entrevista](https://media.discordapp.net/attachments/1091453401205854218/1280987829039665253/image.png?ex=66da1462&is=66d8c2e2&hm=ae54be9f78acff1d5319792f20f495f9bb9b455cf8fd2aa7cf3626fc0c76600a&=&format=webp&quality=lossless&width=842&height=473)|
 |Resumen: | El interesado en adentrarse en el mundo de la hidroponía, Paul Gamero, nos comenta que muchas veces ha tenido el sueño de empezar un granja en su casa, porque le interesa alimentarse de productos naturales. Sin embargo, no encuentra mucha información adecuada que le puede guiar en convertir su sueño en realidad. También nos comenta que le gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho tiempo en buscar guías o consejos para sus cultivos hidropónicos .|
 | Link | https://youtu.be/rvpSkUZ6XuM |
 
@@ -267,7 +267,7 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Edad:       | 21 |
 | Distrito: | Surco|
 | Timing: | 3:10 |
-|![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
+| Captura | ![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
 |Resumen: | El interesado en la hidroponía, David Burgos, nos comparte que le intereso la hidroponía a través de redes sociales, puesto que en los trends le encantó las granjas hidropónicas. Adicionalmente nos dice que muchas veces cuando quiere empezar con su proyecto, hay demasiada información y eso hace que desista de su proyecto. Finalmente confiesa que sería una estupenda idea que se creara una plataforma sobre todo lo relacionado a la hidroponía, así como un foro donde puedan compartir sus experiencias con los demás usuarios|
 | Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
 

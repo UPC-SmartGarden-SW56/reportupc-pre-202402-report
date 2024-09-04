@@ -279,7 +279,7 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Edad:       | 78 |
 | Distrito: | Callao |
 | Timing: | 7:46 |
-|<a href="https://imgbb.com/"><img src="https://i.ibb.co/Kbd2hJ8/Captura-de-pantalla-2024-09-04-112710.png" alt="Captura-de-pantalla-2024-09-04-112710" border="0"></a>|
+|Captura:| <img src="assets/chapter-02/Entrevistados/entrevista experto1.png" alt="Entrevista Nelida">|
 |Resumen: | La experta en hidroponía, Nelida Ruiz nos comenta que para el proceso de su propio aprendizaje tuvo que recurrir a varias personas y materiales, además le parece importante que haya un gusto por esta actividad para que sean aún más fácil de aprender. Le hubiera gustado tener a una persona que la oriente en su camino de aprendizaje así como ella está dispuesta a hacer con las personas que necesiten una guía.|
 | Link: |
 

@@ -248,6 +248,11 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.2.2 Registro de entrevistas 
 
+**Entrevista a Usuarios**
+
+**Entrevista a Expertos**
+
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3 Needfinding 

@@ -261,6 +261,16 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 |Resumen: | El interesado en adentrarse en el mundo de la hidroponía, Paul Gamero nos comenta que muchas veces ha tenido el sueño de empezar un granja en su casa, porque le interesa alimentarse de productos naturales. Sin embargo, no encuentra mucha información adecuada que le puede guiar en convertir su sueño en realidad. También nos comenta que le gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho tiempo en buscar guías o consejos para sus cultivos hidropónicos .|
 | Link | https://youtu.be/rvpSkUZ6XuM |
 
+| Registro de entrevista 2 | | 
+|:------------ |:------------:|
+| Nombre:     | David Beltran Burgos    |
+| Edad:       | 21 |
+| Distrito: | Surco|
+| Timing: | 3:10 |
+|![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
+|Resumen: | El interesado en adentrarse en el mundo de la hidroponía, Paul Gamero nos comenta que muchas veces ha tenido el sueño de empezar un granja en su casa, porque le interesa alimentarse de productos naturales. Sin embargo, no encuentra mucha información adecuada que le puede guiar en convertir su sueño en realidad. También nos comenta que le gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho tiempo en buscar guías o consejos para sus cultivos hidropónicos .|
+| Link | https://youtu.be/rvpSkUZ6XuM |
+
 **Entrevista a Expertos**
 
 | Registro de entrevista 1 | | 

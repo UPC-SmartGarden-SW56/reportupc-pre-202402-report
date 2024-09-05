@@ -2,15 +2,15 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
-**Curso:** Desarrollo de Aplicaciones Open Source
+**Curso: Desarrollo de Aplicaciones Open Source**
 
-**Sección:*SW56* 
+**Sección: SW56**
 
-**Profesor:*Efraín Ricardo Bautista Ubillús* 
+**Profesor: Efraín Ricardo Bautista Ubillús**
 
-**Carrera:** Ingeniería de Software
+**Carrera: Ingeniería de Software**
 
-**Ciclo:** 2024-02
+**Ciclo: 2024-02**
 
 **Startup:*AquaBloom* 
 

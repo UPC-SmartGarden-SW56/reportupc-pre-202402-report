@@ -12,9 +12,9 @@
 
 **Ciclo: 2024-02**
 
-**Startup:*AquaBloom* 
+**Startup: AquaBloom**
 
-**Producto:*SmartGarden* 
+**Producto: SmartGarden**
 
 ### Integrantes:
 

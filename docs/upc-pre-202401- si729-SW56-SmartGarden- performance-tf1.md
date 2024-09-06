@@ -126,6 +126,16 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 |Resumen: | El interesado en la hidroponía, David Burgos, nos comparte que le intereso la hidroponía a través de redes sociales, puesto que en los trends le encantó las granjas hidropónicas. Adicionalmente nos dice que muchas veces cuando quiere empezar con su proyecto, hay demasiada información y eso hace que desista de su proyecto. Finalmente confiesa que sería una estupenda idea que se creara una plataforma sobre todo lo relacionado a la hidroponía, así como un foro donde puedan compartir sus experiencias con los demás usuarios|
 | Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
 
+| Registro de entrevista 4 | | 
+|:------------ |:------------:|
+| Nombre:     | Edgar Vega Dias    |
+| Edad:       | 45 |
+| Distrito: | Callao |
+| Timing: | 3:46 |
+| Captura | ![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
+|Resumen: | |
+| Link | https://drive.google.com/file/d/1nmWTzW2xVz582b6xkLj9j2ZWqrylGiP8/view?usp=sharing |
+
 **Entrevista a Expertos**
 
 | Registro de entrevista 1 | | 

@@ -21,6 +21,15 @@ Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/desig
 <img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe4.png" alt="Princing">
 <img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe5.png" alt="Team">
 
+### 4.3.2 Landing Page Mock-Up
+En esta sección se mostrarán el diseño de cómo sería nuestro landing page.
+Link hacia los Mock-ups creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
+
+<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup2.png" alt="Landing Page Home">
+<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup3.png" alt="About Us">
+<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup4.png" alt="Services">
+<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup5.png" alt="Pricing">
+<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup1.png" alt="Team">
 
 
 

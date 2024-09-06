@@ -87,6 +87,13 @@ Wireflow Diagram 3: Proceso de creación de un curso.
 <img src="../assets/chapter-04/Web Applications Mock-Ups/Categoria.png">
 
 ### 4.4.4 Web Applicatin Userflow Diagrams
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal1.png">
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal2.png">
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal3.png">
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal4.png">
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal5.png">
+<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal6.png">
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design

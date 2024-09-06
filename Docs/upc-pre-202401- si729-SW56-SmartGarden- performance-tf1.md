@@ -57,6 +57,33 @@ GitHub Pages (https://pages.github.com/): Este es un servicio que ofrece GitHub 
 
 Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
 ### 5.1.2. Source Code Management
+En esta seccion se detalla que medios se utilizaron parea el seguimiento de las modificaciones, asi como la semantica y nomenclatura que se usara para los commits y releases.
+Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
+- Url de la organizacion: [github.com/UPC-AppWeb-SmartGarden](https://github.com/UPC-SmartGarden-SW56)
+
+**Gitflow**
+Decidimos utilizar este modelo de trabajo ya que permite mantener el codigo ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Las ramas que se utilizaron son:
+- Main: En esta rama se encuentra el código que se encuentra en producción.
+- Develop: En esta rama se encuentra el código que se encuentra en desarrollo.
+- Feature: En esta rama se encuentran las nuevas funcionalidades que se están desarrollando.
+
+**Semantic Versioning**
+Este es un conjunto de reglas que nos permitirán gestionar correctamente la numeración de versiones de nuestro proyecto
+**Version Principal**
+Se incrementa cuando los cambios agregados no son compatibles con las versiones anteriores.
+
+|release-1.0.5|
+|---|
+|release-2.1.3|
+|release-2.2.1|
+
+**Conventional commits**
+Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
+- **feat**: Se utiliza para nuevas funcionalidades.
+- **fix**: Se utiliza para corrección de errores.
+- **chore**: Se utiliza para cambios en el código que no afectan la funcionalidad.
+- **refactor**: Se utiliza para cambios en el código que no afectan la funcionalidad.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation

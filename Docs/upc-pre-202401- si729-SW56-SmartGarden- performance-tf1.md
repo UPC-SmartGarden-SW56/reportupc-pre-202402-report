@@ -113,9 +113,79 @@ Footer, sección donde se muestra información de contacto y redes sociales.
 **No aplica para esta entrega**
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-En el Sprint 1, se logró desarrollar y desplegar el Landing Page de SmartGarden, cuyo objetivo es atraer clientes y explicar los detalles de nuestra startup y su producto principal. Para el despliegue del Main del Landing Page, utilizamos Github Pages.
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
+[Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page/)
 
-link:
+**Pasos**
+
+- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
+  ![Landing02](../assets/chapter-05/images/DeployN1.png)
+
+- Seleccionamos la rama main para ejecutar el deploy y damos a guardar
+  ![Landing02](../assets/chapter-05/images/DeployN2.png)
+- ![Landing02](../assets/chapter-05/images/DeployN3.png)
+
+- Ingresamos el dominio de la landing page
+![Landing02](../assets/chapter-05/images/Deploy.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Durante los commits del primer Sprint, se utilizaron las herramientas Visual Studio Code, IntelliJ IDE y Git. Uno de los miembros realizó el primer commit para crear el repositorio, luego clonamos dicho repositorio utilizando Git. Posteriormente, los cambios se realizaron en Visual Studio Code/IntelliJ IDE, se crearon ramas (branches) para estos cambios, y finalmente se efectuaron los commits, los cuales fueron revisados en el repositorio de Github.
+Colaboración por alumno en la Landing Page:
 
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Carlos Alejandro De La Cruz Villarreal	</td>
+    <td>Implementación de la navbar e inicio de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Quique Vladimir Jara Benites</td>
+    <td>Implementación de la sección "Sobre Nosotros" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Nicolas Alejandro Vera Nuñez</td>
+    <td>Implementación de la sección "Servicios" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Camila Alessandra Conde Isla	</td>
+    <td>Implementación de la sección "Planes" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Nicolas Alejandro Vera Nuñez	</td>
+    <td>Implementación de la sección "Equipo de Desarrollo y footer" de la Landing Page.</td>
+  </tr>
+</table>
+
+Tabla para poder identificarnos:
+
+<table>
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>AlexanderJusto</td>
+    <td>Alexander Paolo Justo Yauricasa	</td>
+  </tr>
+  <tr>
+    <td>Camilac07</td>
+    <td>Camila Alessandra Conde Isla	</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>CarlosDeLaCruzVillareal</td>
+    <td>Carlos Alejandro De La Cruz Villarreal</td>
+  </tr>
+  <tr>
+    <td>nicxlxs</td>
+    <td>Nicolas Alejandro Vera Nuñez</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo
+realizaron su aporte a través de commits en la herramienta Git Hub.

@@ -173,6 +173,12 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.2.3 Análisis de entrevistas
 
+**Segmento Objetivo: Interesados en hidroponía**
+
+Los testimonios reflejan un interés común en la hidroponía, impulsado por el deseo de cultivar alimentos frescos, saludables y naturales. Paul Gamero y Brenda comparten la frustración de no encontrar información clara o accesible para comenzar sus proyectos, lo que retrasa sus aspiraciones de autoabastecimiento. David Burgos se siente abrumado por la sobrecarga de información en línea, lo que le ha llevado a desistir en varias ocasiones. Tanto Paul como David ven el valor en la creación de una plataforma específica para hidroponía que centralice guías, consejos y foros de discusión. Todos coinciden en que una herramienta digital dedicada no solo les ahorraría tiempo y esfuerzo, sino que fomentaría una comunidad donde se compartan experiencias y conocimientos. Esto refleja una clara necesidad de una solución tecnológica que apoye a entusiastas y principiantes de la hidroponía, facilitando su acceso a información confiable y práctica.
+
+**Segmento Objetivo: Expertos en hidroponía**
+
 ## 2.3 Needfinding 
 
 ### 2.3.1 User Personas

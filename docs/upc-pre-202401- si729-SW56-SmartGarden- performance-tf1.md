@@ -143,8 +143,8 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Edad:       | 45 |
 | Distrito: | Callao |
 | Timing: | 3:46 |
-| Captura | ![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
-|Resumen: | |
+| Captura | <img src="assets/chapter-02/Entrevistados"|
+|Resumen: | Edgar comenta que decea inciar en la hipodromia por que no legusta los productos transgenicos y pesticidas que algunos agriculotores practican. Tambien comenta que le es muy dificil encontrar informacion de como comenzar en este tema de la hipodria. Señala que le gustaria tener una aplicacion donde pueda comunicarce con mas personas interesadas y mas informacion y consejos. Por ultimo, reslata la importacia que son los espacios sostenibles para tener una mejora como pais.  |
 | Link | https://drive.google.com/file/d/1nmWTzW2xVz582b6xkLj9j2ZWqrylGiP8/view?usp=sharing |
 
 **Entrevista a Expertos**

@@ -51,9 +51,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **De La Cruz Villarreal, Carlos Alejandro**  <br> **TB1**: Participación en las reuniones de equipo. <br> Interacción con stakeholders. <br> **Justo Yauricasa, Alexander Paolo**  <br> **TB1**: Participación en las reuniones y cordinacion del equipo. <br> Interacción con expertos en el tema. <br> | En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripción de funcionalidades de nuestra aplicación web.  |
-
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. |  **De La Cruz Villarreal, Carlos Alejandro**  <br> **TB1**:Elaboración de Informes <br>  Elaboración de documentación técnica <br> **Justo Yauricasa, Alexander Paolo**  <br> **TB1**Elaboración de Informes <br> Elaboración de documentación técnica: |  **TB1**: En conclusión, la documentación técnica está casi completa, el informe casi completo para esta entrega y el código de la Landing Page funcional y corriendo en cualquier momento del día. |
-
 | Redacta de manera efectiva para audiencias de distintos niveles. |  **Justo Yauricasa, Alexander Paolo**  <br> **TB1**Elaboración de Informes <br> Elaboración de documentación técnica: |  **TB1**: En resumen, la documentación técnica está casi terminada, el informe casi listo para esta entrega, y el código de la landing page es funcional y está disponible en todo momento. |
 
 

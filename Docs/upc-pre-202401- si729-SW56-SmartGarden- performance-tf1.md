@@ -51,7 +51,37 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 | Landing-Page | feature/footer        | fc74362   | feat: Add more stuff to the footer     | -                   | 6/09/2024           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
+
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
+
+**1. Uso de Live Server de Microsoft Visual Studio Code**
+
+Propósito:
+- Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+Descripción:
+- Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+
+**2. Firefox Developer para Pruebas de Dimensiones Móviles**
+
+Propósito:
+- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+Descripción:
+- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+
+**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive**
+
+Propósito:
+- Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+Descripción:
+- Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+
+
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 En el Sprint 1, se logró un avance parcial en la implementación y despliegue de la Landing Page. Esta muestra diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas evidencias:

@@ -84,10 +84,33 @@ Descripción:
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-En el Sprint 1, se logró un avance parcial en la implementación y despliegue de la Landing Page. Esta muestra diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas evidencias:
+Durante el primer Sprint se logró implementar la landing page con las secciones funcionales,
+el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto
+la version web para escritorio como la version mobile:
+
+Link de nuestra landing page: [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page/)
+
+![Landing02](../assets/chapter-05/images/DeployN4.png)
+Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos.
+
+![Landing02](../assets/chapter-05/images/DeployN5.png)
+Quienes somos, sección donde se muestra información sobre la empresa y que nos dedicamos.
+
+![Landing02](../assets/chapter-05/images/DeployN6.png)
+Servicios, sección donde se muestra los servicios que ofrecemos.
+
+![Landing02](../assets/chapter-05/images/DeployN7.png)
+Precios, sección donde se muestra los precios de los servicios que ofrecemos.
+
+![Landing02](../assets/chapter-05/images/DeployN8.png)
+Integrantes, sección donde se muestra información sobre los integrantes del equipo.
+
+![Landing02](../assets/chapter-05/images/DeployN9.png)
+Footer, sección donde se muestra información de contacto y redes sociales.
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-En este primer Sprint, solo se trabajó en la implementación del Landing Page, por lo que no se requirieron servicios adicionales.
+**No aplica para esta entrega**
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 En el Sprint 1, se logró desarrollar y desplegar el Landing Page de SmartGarden, cuyo objetivo es atraer clientes y explicar los detalles de nuestra startup y su producto principal. Para el despliegue del Main del Landing Page, utilizamos Github Pages.

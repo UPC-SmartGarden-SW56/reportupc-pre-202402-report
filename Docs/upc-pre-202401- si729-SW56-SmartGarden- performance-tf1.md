@@ -50,7 +50,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 # Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **De La Cruz Villarreal, Carlos Alejandro**  <br> **TB1**: Participación en las reuniones de equipo. <br> Interacción con stakeholders. |  |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **De La Cruz Villarreal, Carlos Alejandro**  <br> **TB1**: Participación en las reuniones de equipo. <br> Interacción con stakeholders. | En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripción de funcionalidades de nuestra aplicación web.  |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. | | |                            |                            |
 
 

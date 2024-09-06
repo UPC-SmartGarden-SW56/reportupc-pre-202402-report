@@ -121,6 +121,32 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
 - Descripción: describe brevemente el cambio realizado.
 
 ### 5.1.4. Software Deployment Configuration
+
+Para desplegar la solución se realizó los siguientes pasos:
+
+- Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-AppWeb-SmartGarden](https://github.com/UPC-SmartGarden-SW56)
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN1.png)
+
+- Seleccionar el repositorio de la landing page del proyecto.
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN2.png)
+
+- Clonar el repositorio en Webstorm utilizando la URL del repositorio.
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN3.png)
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN4.png)
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN5.png)
+
+- Ejecutar el archivo index.html para visualizar la landing page en el navegador.
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN6.png)
+
+![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN7.png)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1

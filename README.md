@@ -173,6 +173,24 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 | GW05 | Apartado del Service     | G05 | Sección "Service"(Desarrollado en HTML y CSS)           | Desarrollo e implementación de los estilos que corresponden a la información del sobre el servicio. Debe ser responsive.    | 3                  | Quique Jara       | Done                                  |
 | GW06 | Apartado del Subscription  | G06 | Sección "Subscription"(Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la información de las suscripciones. Debe ser responsive. | 3                  | Camila Conde      | Done                                  |
 
+### 5.2.1.3. Development Evidence for Sprint Review. 
+
+| Repository   | Branch               | Commit Id | Commit Message                         | Commit Message Body | Committed on (Date) |
+|--------------|----------------------|-----------|----------------------------------------|---------------------|---------------------|
+| Landing-Page | feature/about-team    | fc88ec6   | Add files via upload                   | -                   | 2/09/2024           |
+| Landing-Page | feature/about-us      | fc88ec6   | Add files via upload                   | -                   | 2/09/2024           |
+| Landing-Page | feature/about-team    | 25f080f   | Probando about team                    | -                   | 4/09/2024           |
+| Landing-Page | feature/about-team    | 66449df   | About the team previous                | -                   | 4/09/2024           |
+| Landing-Page | feature/about-team    | 888f544   | About the team last change             | -                   | 5/09/2024           |
+| Landing-Page | feature/about-us      | 57a587f   | feat(header): add about us and images  | -                   | 5/09/2024           |
+| Landing-Page | feature/about-us      | e4c30c8   | Merge remote-tracking branch 'origin/feature/about-us' into feature/a... | - | 5/09/2024 |
+| Landing-Page | feature/header        | b7a0912   | feat(header): add header and background | -                   | 5/09/2024           |
+| Landing-Page | feature/services      | b7a0912   | feat(header): add header and background | -                   | 5/09/2024           |
+| Landing-Page | feature/subscription  | b7a0912   | feat(header): add header and background | -                   | 5/09/2024           |
+| Landing-Page | feature/footer        | 14f4a07   | feat: add footer and info              | -                   | 5/09/2024           |
+| Landing-Page | feature/footer        | fc74362   | feat: Add more stuff to the footer     | -                   | 6/09/2024           |
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
 

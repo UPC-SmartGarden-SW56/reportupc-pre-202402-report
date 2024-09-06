@@ -49,9 +49,9 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 # Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones |
-|-------------|------------|---------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | -De La Cruz Villarreal, Carlos Alejandro:  <br>        TB1:Participación en las reuniones de equipo                                 |                            |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                                  |                            |
+|---------------------|---------------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | **De La Cruz Villarreal, Carlos Alejandro**  <br> **TB1**: Participación en las reuniones de equipo. <br> Interacción con stakeholders. | (Conclusiones will go here) |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | | |                            |                            |
 
 
 <br>

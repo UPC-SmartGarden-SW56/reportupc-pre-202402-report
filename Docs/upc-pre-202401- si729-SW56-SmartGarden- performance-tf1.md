@@ -86,6 +86,11 @@ Wireflow Diagram 3: Proceso de creación de un curso.
   En la seccion se podra ver las distintas categorias que tiene la app web
 <img src="../assets/chapter-04/Web Applications Mock-Ups/Categoria.png">
 
+- Seccion Crear Cursos:
+  En la seccion se podra ver los pasos para crear un curso en la app web
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Curso.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Curso2.png">
+
 ### 4.4.4 Web Applicatin Userflow Diagrams
 <img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal1.png">
 <img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal2.png">

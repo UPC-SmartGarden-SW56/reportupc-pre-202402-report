@@ -207,8 +207,16 @@ Wireflow Diagram 3: Proceso de creación de un curso.
 <img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal5.png">
 <img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal6.png">
 
+## 4.6 Domain-Driven Software Architecture
+### 4.6.1 Software Architecture Context Diagram
+<img src="../assets/chapter-04/c4model/context1.png">
+<img src="../assets/chapter-04/c4model/context2.png">
 ### 4.6.2. Software Architecture Container Diagrams
+<img src="../assets/chapter-04/c4model/container1.png">
+<img src="../assets/chapter-04/c4model/container2.png">
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="../assets/chapter-04/c4model/components1.png">
+<img src="../assets/chapter-04/c4model/components2.png">
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <img src="../assets/chapter-04/Diagrama_clases.png">

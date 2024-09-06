@@ -143,3 +143,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - [5.4. Video about the product](#54-video-about-the-product)
 
 # Capítulo IV: Product Implementation, Validation & Deployment
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
+

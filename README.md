@@ -28,7 +28,7 @@
 | Quique Vladimir Jara Benites | ************ |
 | Nicolas Alejandro Vera Nuñez | U202214869 |
 | Camila Alessandra Conde Isla | U202114309 |
-| Nicolas Alejandro Vera Nuñez | U202214869|
+| Alexander Poalo Justo Yauricas | U20191C054|
 
 
 

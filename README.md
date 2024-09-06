@@ -22,13 +22,13 @@
 
 <div align="center">
 
-| Nombre       | Código       |
-|--------------|--------------|
+| Nombre       | Código     |
+|--------------|------------|
 | Carlos Alejandro De La Cruz Villarreal | U20211C036 |
-| Quique Vladimir Jara Benites | ************ |
+| Quique Vladimir Jara Benites | u202022365 |
 | Nicolas Alejandro Vera Nuñez | U202214869 |
 | Camila Alessandra Conde Isla | U202114309 |
-| Alexander Poalo Justo Yauricas | U20191C054|
+| Alexander Poalo Justo Yauricas | U20191C054 |
 
 
 
@@ -157,13 +157,13 @@ AquaBloom es un startup que nace con el objetivo de brindar conocimientos a pers
 **Misión:** Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
 
 ### 1.1.2 Perfiles de integrantes del equipo 
-| Nombre       | Código       | Descripcion  |Imagen        |
-|--------------|--------------|--------------|--------------|
-| Quique Vladimir Jara Benites | u202022365 | Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones | <img src="assets/chapter-01/photos/Vladimir.png" width="370"/> |
-| Alexander Paolo Justo Yauricasa | U20191C054 | Soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso. | <img src="assets/chapter-01/photos/Alexander.jpg"> |
+| Nombre       | Código       | Descripcion  | Imagen                                                                                                                                                                                                                                                     |
+|--------------|--------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quique Vladimir Jara Benites | u202022365 | Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones | <img src="assets/chapter-01/photos/Vladimir.jpg"/>                                                                                                                                                                                                         |
+| Alexander Paolo Justo Yauricasa | U20191C054 | Soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso. | <img src="assets/chapter-01/photos/Alexander.jpg">                                                                                                                                                                                                         |
 | Carlos Alejandro De La Cruz Villarreal | u20211c036 | Soy un estudiante la carrera de Ingeniería de Software en la UPC; considero que soy una persona responsable y con una fuerte motivación para culminar todos mis trabajos universitarios. Me comprometo a cumplir y motivar a mis compañeros de grupo para poder lograr el objetivo del curso. | ![Foto Carlo](https://media.discordapp.net/attachments/1091453401205854218/1281151821100089405/Carlos.png?ex=66daad1c&is=66d95b9c&hm=4db6a8ba340ba9785ed4fc679c2451e5230ae96531b60760e5125e17c3f6a3bf&=&format=webp&quality=lossless&width=263&height=350) |
-| Camila Alessandra Conde Isla | u202114309 |Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/camila.png"> |
-| Nicolas Alejandro Vera Nuñez | u202214869 | Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/Nicolas.png"> |
+| Camila Alessandra Conde Isla | u202114309 |Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/camila.png">                                                                                                                                                                                                            |
+| Nicolas Alejandro Vera Nuñez | u202214869 | Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/Nicolas.png">                                                                                                                                                                                                           |
 
 ## 1.2 Solution Profile     
 

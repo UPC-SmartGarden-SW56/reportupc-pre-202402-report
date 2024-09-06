@@ -50,10 +50,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 # Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |------------------|-----------------------------|-------------------------|
-| Comunica oralmente con efectividad a 
-diferentes rangos de audiencia. |                                  |                            |
-| Comunica por escrito con efectividad 
-a diferentes rangos de audiencia |                                  |                            |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. |                                  |                            |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |                                  |                            |
 <br>
 
 # Contenido

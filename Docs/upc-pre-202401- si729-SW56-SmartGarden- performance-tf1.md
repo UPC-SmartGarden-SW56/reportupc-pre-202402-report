@@ -95,3 +95,4 @@ Esta clase se encarga de gestionar las comunidades que los usuarios pueden forma
 Esta clase administra la información sobre los precios de las suscripciones y su frecuencia de pago. Está relacionada con la tabla de enumeración Frequency, que especifica si la suscripción es mensual o anual.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="../assets/chapter-04/Diagrama_DB.png">

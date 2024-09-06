@@ -208,6 +208,7 @@ Wireflow Diagram 3: Proceso de creación de un curso.
 <img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal6.png">
 
 ## 4.5 Web Aplications Prototyping
+<img src="../assets/chapter-04/prototyping.png">
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114309_upc_edu_pe/EeADvLQsjblDvSSQxhD3j4kBfsBpD17qRIwnBvKTMSf_8A?e=MdVXqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Prototyping video</a>
 <a href="https://www.figma.com/proto/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=736-2546&node-type=CANVAS&t=oPikjt7749t1loJe-1&scaling=min-zoom&content-scaling=fixed&page-id=601%3A10&starting-point-node-id=736%3A2546">Figma Prototype</a>
 

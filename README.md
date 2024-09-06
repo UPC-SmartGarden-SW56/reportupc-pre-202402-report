@@ -141,9 +141,28 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
 
 - [5.4. Video about the product](#54-video-about-the-product)
-
+  
 # Capítulo IV: Product Implementation, Validation & Deployment
 
+### 5.2. Landing Page, Services & Applications Implementation. 
+### 5.2.1. Sprint n 
+### 5.2.1.1. Sprint Planning 1. 
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                              |
+| -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 21/08/2024                                                                                                                                                                                                |
+| Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
+| Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
+| Prepared By                      | De La Cruz Villarreal, Carlos Alejandro                                                                                                                                                                   |
+| PAttendees (to planning meeting) | <li>De La Cruz Villarreal, Carlos Alejandro </li>	 <li>Jara Benites, Quique Vladimir </li> <li>Justo Yauricas, Alexander Poalo </li> <li>Conde Isla, Camila Alessandra </li> <li>Vera Nuñez, Nicolas Alejandro</li> |
+|Sprint n -1 Review|
+|Resumen| Se creará la organización de UPC-SmartGarden-SW56 en Github, se crea las ramas, se separa los trabajos a realizar como entrevistas, wireframe y mock-up                                                               |
+|Sprint n -1 Retrospective|
+|Resumen| Se implemento para el landing se ha realizado mediante html css y js.                                                                                                                                     |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                | 21 points                                                                                                                                                                                                 |
+| Sum of Story Points              | 21 points                                                                                                                                                                                                 |
+ 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
 

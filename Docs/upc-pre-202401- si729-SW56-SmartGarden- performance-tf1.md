@@ -31,7 +31,7 @@
 | Alexander Poalo Justo Yauricas | U20191C054 |
 
 
-
+Link del landing page https://upc-smartgarden-sw56.github.io/Landing-Page/
 
 </div>
 

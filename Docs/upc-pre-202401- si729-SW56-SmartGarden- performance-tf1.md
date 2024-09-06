@@ -56,6 +56,7 @@ Gherkin: Este es un lenguaje DSL (Domain Specific Language), que nos permite abo
 GitHub Pages (https://pages.github.com/): Este es un servicio que ofrece GitHub para publicar un sitio web a partir de un repositorio, cabe destacar que solo permite alojar sitios web estáticos con archivos HTML, CSS y JavaScript.
 
 Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización.
+
 ### 5.1.2. Source Code Management
 En esta seccion se detalla que medios se utilizaron parea el seguimiento de las modificaciones, asi como la semantica y nomenclatura que se usara para los commits y releases.
 Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
@@ -85,6 +86,40 @@ Se utilizó el estándar de commits convencionales para mantener un historial de
 - **refactor**: Se utiliza para cambios en el código que no afectan la funcionalidad.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para la solucion.
+
+**Tecnologias:** Utilizamos HTML5, CSS3 y JavaScript para el desarrollo de la landing page.
+- **HTML:** Para el lenguaje HTML, nos planteamos utilizar las convenciones descritas en la guía “HTML Style Guide and Coding Conventions”:
+  - Usar nombres de elementos en minúsculas.
+  - Cerrar todos los elementos HTML.
+  - Usar nombres de atributos en minúsculas.
+  - Usar atributos en imágenes.
+  - Evitar líneas de código largas.
+  - Usar sintaxis simple para los enlaces para las hojas de estilo y para cargar script externos
+
+- **CSS:** Para el lenguaje CSS, utilizaremos las siguientes prácticas para alcanzar un código coherente, sostenible y ordenado:
+
+  - Utilizar minúsculas y guiones para los nombres de propiedades.
+  - Utilizar un espacio después de los dos puntos y un punto y coma para separar pares propiedad-valor.
+  - Agrupar reglas CSS relacionadas y separarlas con una línea en blanco.
+  - Utilizar nombres de clases que sean descriptivos y reflejen el propósito del elemento.
+  - Separar los nombres de las clases y ID con un guión
+
+- **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
+  **Herramientas:** Nos apoyamos de las tecnologias mas utilziadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+
+**Convenciones de idioma:** Uso del idioma ingles para elaborar nuestro codigo, incluyendo la parte de la landing page.
+
+**Conventional commits**
+Se utilizó este estandar para garantizar una facil comprension de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:<br/>
+`
+<Type>[Scope opcional]:<Descripcion>`
+
+- Type: indica el tipo de commit que se realizó.
+- Scope: define el alcance del commit.
+- Descripción: describe brevemente el cambio realizado.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1

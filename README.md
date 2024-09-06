@@ -2,19 +2,19 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
-**Curso:** 
+**Curso: Desarrollo de Aplicaciones Open Source**
 
-**Sección:** 
+**Sección: SW56**
 
-**Profesor:** 
+**Profesor: Efraín Ricardo Bautista Ubillús**
 
-**Carrera:** Ingeniería de Software
+**Carrera: Ingeniería de Software**
 
-**Ciclo:** 2024-02
+**Ciclo: 2024-02**
 
-**Startup:** 
+**Startup: AquaBloom**
 
-**Producto:** 
+**Producto: SmartGarden**
 
 ### Integrantes:
 
@@ -22,13 +22,13 @@
 
 <div align="center">
 
-| Nombre       | Código       |
-|--------------|--------------|
-| ************ | ************ |
-| ************ | ************ |
-| ************ | ************ |
-| ************ | ************ |
-| ************ | ************ |
+| Nombre       | Código     |
+|--------------|------------|
+| Carlos Alejandro De La Cruz Villarreal | U20211C036 |
+| Quique Vladimir Jara Benites | u202022365 |
+| Nicolas Alejandro Vera Nuñez | U202214869 |
+| Camila Alessandra Conde Isla | U202114309 |
+| Alexander Poalo Justo Yauricas | U20191C054 |
 
 
 

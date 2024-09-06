@@ -52,6 +52,40 @@ Wireflow Diagram 3: Proceso de creación de un curso.
 <img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow3.png" alt="wireflow create a course">
 
 ### 4.4.3 Web Application Mock-Up
+- Creacion de cuenta:
+  En la seccion de Creacion de cuenta los usuarios tendran que llenar el formulario con sus datos correspondientes para poder crear una cuenta en la aplicacion.
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta 2.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta 3.png">
+
+- Inicio de sesion:
+  En la seccion de Inicio de sesion los usuarios tendran que llenar el formulario con sus respectivas credenciales para poder ingresar a la aplicacion.
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Inicio de Sesion.png">
+
+- Pagina de Inicio:
+  En la seccion de la pagina de inicio se podra visualizar informacion acerca de la empresa, las diferentes funcionalidades de la aplicacion.
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Pagina de Inicio.png">
+
+- Seccion de pago:
+  Al momento de seleccionar el curso, se abrira la seccion de pago.
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Pago.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Pago2.png">
+
+- Seccion de Curso:
+  En la seccion se podra ver todos los cursos disponibles, incluyendo los pasos y distintos comentarios
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos2.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos3.png">
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos4.png">
+
+- Seccion Progreso:
+  En la seccion se podra ver el progreso semanal de cada curso en curso del usuario
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Progreso.png">
+
+- Seccion Categoria:
+  En la seccion se podra ver las distintas categorias que tiene la app web
+<img src="../assets/chapter-04/Web Applications Mock-Ups/Categoria.png">
+
 ### 4.4.4 Web Applicatin Userflow Diagrams
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams

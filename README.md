@@ -162,5 +162,9 @@ En el Sprint 1, se logró desarrollar y desplegar el Landing Page de SmartGarden
 link:
 
 
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+Durante los commits del primer Sprint, se utilizaron las herramientas Visual Studio Code, IntelliJ IDE y Git. Uno de los miembros realizó el primer commit para crear el repositorio, luego clonamos dicho repositorio utilizando Git. Posteriormente, los cambios se realizaron en Visual Studio Code/IntelliJ IDE, se crearon ramas (branches) para estos cambios, y finalmente se efectuaron los commits, los cuales fueron revisados en el repositorio de Github.
+
+
 
 

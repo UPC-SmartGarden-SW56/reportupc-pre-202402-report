@@ -25,7 +25,7 @@
 | Nombre       | Código       |
 |--------------|--------------|
 | Carlos Alejandro De La Cruz Villarreal | U20211C036 |
-| Quique Vladimir Jara Benites | ************ |
+| Quique Vladimir Jara Benites | U202022365 |
 | Nicolas Alejandro Vera Nuñez | U202214869 |
 | Camila Alessandra Conde Isla | U202114309 |
 | Nicolas Alejandro Vera Nuñez | U202214869|

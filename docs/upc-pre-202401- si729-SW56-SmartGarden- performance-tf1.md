@@ -126,6 +126,17 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 |Resumen: | El interesado en la hidroponía, David Burgos, nos comparte que le intereso la hidroponía a través de redes sociales, puesto que en los trends le encantó las granjas hidropónicas. Adicionalmente nos dice que muchas veces cuando quiere empezar con su proyecto, hay demasiada información y eso hace que desista de su proyecto. Finalmente confiesa que sería una estupenda idea que se creara una plataforma sobre todo lo relacionado a la hidroponía, así como un foro donde puedan compartir sus experiencias con los demás usuarios|
 | Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
 
+| Registro de entrevista 3 | | 
+|:------------ |:------------:|
+| Nombre:     | Brenda Calderón |
+| Edad:       | 22 |
+| Distrito: | Cercado de Lima |
+| Timing: | 5:13 |
+| Captura | ![Foto Brenda](https://media.discordapp.net/attachments/1091453401205854218/1281708003778629704/image.png?ex=66dcb319&is=66db6199&hm=990be4feda83fe9df378a0fd756db5f979e791793e11dbb021d2e762919f378d&=&format=webp&quality=lossless&width=842&height=473)|
+|Resumen: | Brenda nos comenta que la principal razón para investigar sobre la hidroponía es que desea poder consumir alimentos más frescos y saludables, a diferencia de los transgénicos. Nos cuenta que sus principales guías que ha tenido son vídeos de youtube y algunas referencias en twitter, pero que es muy difícil encontrar información sobre hidroponía. Finalmente, cree firmemente que una aplicación donde pueda encontrar consejos y guías para empezar su proyecto sería de gran ayuda para la comunidad de hidroponía|
+| Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
+
+
 | Registro de entrevista 4 | | 
 |:------------ |:------------:|
 | Nombre:     | Edgar Vega Dias    |

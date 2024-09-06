@@ -31,6 +31,17 @@ Link hacia los Mock-ups creados en Figma: <a href="https://www.figma.com/design/
 <img src="../assets/chapter-04/Landing Page Mockup/landing page mockup5.png" alt="Pricing">
 <img src="../assets/chapter-04/Landing Page Mockup/landing page mockup1.png" alt="Team">
 
+## 4.4 Web Applications UX/UI Design
+### 4.4.1 Web Applications Wireframes
+En esta sección se presentarán el diseño de baja fidelidad para las funciones más importantes dentro del Web Application.
+Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe1.png" alt="Landing Page Home">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe2.png" alt="Courses">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe3.png" alt="Categorie">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe4.png" alt="Course Example">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe5.png" alt="Landing Page Home">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframes6.png" alt="Landing Page Home">
+<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe7.png" alt="Landing Page Home">
 
 
 ### 4.6.2. Software Architecture Container Diagrams

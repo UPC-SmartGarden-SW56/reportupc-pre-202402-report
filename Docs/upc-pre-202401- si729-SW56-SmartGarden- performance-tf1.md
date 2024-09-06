@@ -54,6 +54,8 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+En el Sprint 1, se logró un avance parcial en la implementación y despliegue de la Landing Page. Esta muestra diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas evidencias:
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint.

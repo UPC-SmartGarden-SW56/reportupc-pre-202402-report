@@ -179,6 +179,8 @@ Los testimonios reflejan un interés común en la hidroponía, impulsado por el 
 
 **Segmento Objetivo: Expertos en hidroponía**
 
+Los testimonios de Nélida Ruiz y Raúl Ayala, ambos expertos en hidroponía, destacan la importancia de contar con orientación y recursos adecuados para avanzar en el aprendizaje de esta técnica. Nélida comparte que, durante su proceso de formación, tuvo que acudir a diversas fuentes, lo que dificultó su camino. Resalta la necesidad de tener un guía que haga el proceso más sencillo, y ahora está dispuesta a ofrecer ese acompañamiento a otros. Por su parte, Raúl subraya la eficiencia de la hidroponía para cultivar en espacios reducidos y propone la creación de una plataforma digital que sirva tanto a principiantes como a expertos. Ambos coinciden en que una herramienta tecnológica podría centralizar información y facilitar el acceso al conocimiento, haciendo más accesible y atractivo el aprendizaje de la hidroponía, y favoreciendo la creación de una comunidad donde se compartan experiencias y apoyo mutuo.
+
 ## 2.3 Needfinding 
 
 ### 2.3.1 User Personas

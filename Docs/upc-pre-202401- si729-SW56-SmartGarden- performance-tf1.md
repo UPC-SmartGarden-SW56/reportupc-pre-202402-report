@@ -49,7 +49,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 # Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones |
-|---------------|---------------|---------------|
+|-------------|------------|---------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia. | -De La Cruz Villarreal, Carlos Alejandro: TB1:Participación en las reuniones de equipo                                 |                            |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia |                                  |                            |
 

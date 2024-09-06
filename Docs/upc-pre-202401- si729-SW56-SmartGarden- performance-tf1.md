@@ -57,6 +57,8 @@ Wireflow Diagram 3: Proceso de creación de un curso.
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="../assets/chapter-04/Diagrama_clases.png">
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram

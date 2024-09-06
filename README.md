@@ -162,7 +162,17 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Velocity                | 21 points                                                                                                                                                                                                 |
 | Sum of Story Points              | 21 points                                                                                                                                                                                                 |
- 
+#### 5.2.1.2. Sprint Backlog 1.
+
+| id   | Title                 | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To        | Status(To-do /InProcess/ToReview/Done) |
+| ---- |-----------------------| --- |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------|--------------------|---------------------------------------|
+| GW01 | Apartado del Header   | G01 | Header responsive (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Nicolas Vera      | Done                                  |
+| GW02 | Apartado del Footer   | G02 | Footer responsive (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Nicolas Vera       | Done                                  |
+| GW03 | Apartado del about us         | G03 | Sección "About us"(Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la información acerca del startup. Debe ser responsive.           | 3                  | Alexander Justo       | Done                                  |
+| GW04 | Apartado del about the team     | G04 | Información del equipo (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la información del equipo de desarrollo. Debe ser responsive.                  | 3                  | Carlos de la Cruz | Done                                  |
+| GW05 | Apartado del Service     | G05 | Sección "Service"(Desarrollado en HTML y CSS)           | Desarrollo e implementación de los estilos que corresponden a la información del sobre el servicio. Debe ser responsive.    | 3                  | Quique Jara       | Done                                  |
+| GW06 | Apartado del Subscription  | G06 | Sección "Subscription"(Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la información de las suscripciones. Debe ser responsive. | 3                  | Camila Conde      | Done                                  |
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
 

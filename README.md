@@ -263,6 +263,9 @@ Además del sistema global, ofrecemos un sistema de navegación local que permit
 
 Con estos sistemas de navegación, proporcionamos a los usuarios de "SmartGarden" una guía clara y efectiva a través de nuestra aplicación, facilitándoles el acceso a recursos y apoyo para mejorar la hidroponía y promover una vida más saludable y equilibrada.
 
+### 4.7.1. Class Diagrams. 
+<img src="assets/chapter-04/Diagrama_clases.png">
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)

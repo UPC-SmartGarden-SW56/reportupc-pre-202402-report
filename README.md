@@ -263,6 +263,37 @@ Además del sistema global, ofrecemos un sistema de navegación local que permit
 
 Con estos sistemas de navegación, proporcionamos a los usuarios de "SmartGarden" una guía clara y efectiva a través de nuestra aplicación, facilitándoles el acceso a recursos y apoyo para mejorar la hidroponía y promover una vida más saludable y equilibrada.
 
+### 4.7.1. Class Diagrams. 
+<img src="assets/chapter-04/Diagrama_clases.png">
+
+### 4.7.2. Class Dictionary. 
+**Person:** Esta es una clase principal que comparte atributos como nombre, apellido y otros datos pertinentes con sus clases derivadas. Además, funciona como la clase principal para dos clases adicionales. Su propósito es determinar el tipo de persona que está conectada al sistema.
+
+**User:** Esta es una clase derivada que guarda toda la información relacionada con una persona cuando actúa como usuario en la plataforma. En esta clase se registran los datos sobre los comentarios realizados por el usuario y los cursos en los que está inscrito. Además, sirve de punto de conexión para que otras clases puedan interactuar con la información del usuario.
+
+**Expert:** Esta clase derivada se encarga de almacenar la información de una persona cuando se desempeña como experto en la plataforma. Registra detalles relacionados con el experto y se conecta con otras clases que requieren acceso a esta información, como los cursos creados o los artículos escritos por el experto.
+
+**Account:** Esta clase representa la cuenta de usuario registrada en el sistema. Administra funciones como el inicio de sesión y el registro, además de guardar el correo electrónico y la contraseña del usuario, ofreciendo también opciones para recuperar o modificar la información de acceso.
+
+**Suscription:** Esta clase administra todo lo relacionado con las suscripciones de los usuarios. Aquí se almacenan los detalles de la cuenta asociada a la suscripción y se valida el tipo de persona a la que pertenece. También incluye métodos para definir el tipo de pago y el estado de la suscripción.
+
+**Course:** La función principal de esta clase es gestionar los atributos relacionados con los cursos, como el nombre y la descripción, así como toda la información que compone el curso, incluidos videos y otros materiales.
+
+**ExpertCourse:** Esta clase vincula la información entre expertos y cursos. Registra qué experto creó un curso específico y guarda todos los detalles del mismo. Además, permite rastrear qué usuario adquirió el curso y la calificación que recibió de los diferentes usuarios.
+
+**Articles:** Esta clase se enfoca en los artículos informativos que los expertos publican en la plataforma. Aquí se almacena quién fue el autor del artículo y la fecha en que fue publicado.
+
+**Comments:** Esta clase administra los comentarios que los usuarios pueden hacer en las publicaciones de los expertos. Almacena el contenido del comentario y el artículo al que está dirigido.
+
+**Community:** Esta clase se encarga de gestionar las comunidades que los usuarios pueden formar dentro de la plataforma. Mantiene un registro de todos los usuarios que son parte de una comunidad y ofrece funciones para crear nuevas comunidades y facilitar la comunicación entre sus miembros.
+
+**SuscriptionPrice:** Esta clase administra la información sobre los precios de las suscripciones y su frecuencia de pago. Está relacionada con la tabla de enumeración Frequency, que especifica si la suscripción es mensual o anual.
+
+### 4.8. Database Design. 
+
+### 4.8.1. Database Diagram. 
+<img src="assets/chapter-04/Diagrama_DB.png">
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)

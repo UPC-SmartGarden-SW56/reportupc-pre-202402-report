@@ -47,6 +47,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
+# Student Outcome
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|-------------------------|-----------------------------|-------------------------|
+
 <br>
 
 # Contenido

@@ -266,6 +266,12 @@ Con estos sistemas de navegación, proporcionamos a los usuarios de "SmartGarden
 ### 4.7.1. Class Diagrams. 
 <img src="assets/chapter-04/Diagrama_clases.png">
 
+
+### 4.8. Database Design. 
+
+### 4.8.1. Database Diagram. 
+<img src="assets/chapter-04/Diagrama_DB.png">
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)

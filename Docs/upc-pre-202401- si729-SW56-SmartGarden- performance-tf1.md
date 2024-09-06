@@ -57,5 +57,7 @@ Durante la entrega del Sprint 1, se completó el desarrollo, implementación y d
 En el Sprint 1, se logró un avance parcial en la implementación y despliegue de la Landing Page. Esta muestra diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas evidencias:
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En este primer Sprint, solo se trabajó en la implementación del Landing Page, por lo que no se requirieron servicios adicionales.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint.

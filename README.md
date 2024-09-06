@@ -147,7 +147,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## 2.1 Competidores
 
-Luego de una investigación rigurosa en el mercado peruano, hemos encontrado 3 proyectos similares a SmartGarden.
+Luego de una investigación rigurosa en el mercado, hemos encontrado 3 proyectos similares que serían competencia de SmartGarden.
 
 A continuación, se mostrarán los competidores:
 
@@ -271,6 +271,27 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 |Resumen: | El interesado en la hidroponía, David Burgos, nos comparte que le intereso la hidroponía a través de redes sociales, puesto que en los trends le encantó las granjas hidropónicas. Adicionalmente nos dice que muchas veces cuando quiere empezar con su proyecto, hay demasiada información y eso hace que desista de su proyecto. Finalmente confiesa que sería una estupenda idea que se creara una plataforma sobre todo lo relacionado a la hidroponía, así como un foro donde puedan compartir sus experiencias con los demás usuarios|
 | Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
 
+| Registro de entrevista 3 | | 
+|:------------ |:------------:|
+| Nombre:     | Brenda Calderón |
+| Edad:       | 22 |
+| Distrito: | Cercado de Lima |
+| Timing: | 5:13 |
+| Captura | ![Foto Brenda](https://media.discordapp.net/attachments/1091453401205854218/1281708003778629704/image.png?ex=66dcb319&is=66db6199&hm=990be4feda83fe9df378a0fd756db5f979e791793e11dbb021d2e762919f378d&=&format=webp&quality=lossless&width=842&height=473)|
+|Resumen: | Brenda nos comenta que la principal razón para investigar sobre la hidroponía es que desea poder consumir alimentos más frescos y saludables, a diferencia de los transgénicos. Nos cuenta que sus principales guías que ha tenido son vídeos de youtube y algunas referencias en twitter, pero que es muy difícil encontrar información sobre hidroponía. Finalmente, cree firmemente que una aplicación donde pueda encontrar consejos y guías para empezar su proyecto sería de gran ayuda para la comunidad de hidroponía|
+| Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
+
+
+| Registro de entrevista 4 | | 
+|:------------ |:------------:|
+| Nombre:     | Edgar Vega Dias    |
+| Edad:       | 45 |
+| Distrito: | Callao |
+| Timing: | 3:46 |
+| Captura | <img src="assets/chapter-02/Entrevistados" alt="Entrevista Edgar">|
+|Resumen: | Edgar comenta que decea inciar en la hipodromia por que no legusta los productos transgenicos y pesticidas que algunos agriculotores practican. Tambien comenta que le es muy dificil encontrar informacion de como comenzar en este tema de la hipodria. Señala que le gustaria tener una aplicacion donde pueda comunicarce con mas personas interesadas y mas informacion y consejos. Por ultimo, reslata la importacia que son los espacios sostenibles para tener una mejora como pais.  |
+| Link | https://drive.google.com/file/d/1nmWTzW2xVz582b6xkLj9j2ZWqrylGiP8/view?usp=sharing |
+
 **Entrevista a Expertos**
 
 | Registro de entrevista 1 | | 
@@ -296,6 +317,14 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 
 ### 2.2.3 Análisis de entrevistas
+
+**Segmento Objetivo: Interesados en hidroponía**
+
+Los testimonios reflejan un interés común en la hidroponía, impulsado por el deseo de cultivar alimentos frescos, saludables y naturales. Paul Gamero y Brenda comparten la frustración de no encontrar información clara o accesible para comenzar sus proyectos, lo que retrasa sus aspiraciones de autoabastecimiento. David Burgos se siente abrumado por la sobrecarga de información en línea, lo que le ha llevado a desistir en varias ocasiones. Tanto Paul como David ven el valor en la creación de una plataforma específica para hidroponía que centralice guías, consejos y foros de discusión. Todos coinciden en que una herramienta digital dedicada no solo les ahorraría tiempo y esfuerzo, sino que fomentaría una comunidad donde se compartan experiencias y conocimientos. Esto refleja una clara necesidad de una solución tecnológica que apoye a entusiastas y principiantes de la hidroponía, facilitando su acceso a información confiable y práctica.
+
+**Segmento Objetivo: Expertos en hidroponía**
+
+Los testimonios de Nélida Ruiz y Raúl Ayala, ambos expertos en hidroponía, destacan la importancia de contar con orientación y recursos adecuados para avanzar en el aprendizaje de esta técnica. Nélida comparte que, durante su proceso de formación, tuvo que acudir a diversas fuentes, lo que dificultó su camino. Resalta la necesidad de tener un guía que haga el proceso más sencillo, y ahora está dispuesta a ofrecer ese acompañamiento a otros. Por su parte, Raúl subraya la eficiencia de la hidroponía para cultivar en espacios reducidos y propone la creación de una plataforma digital que sirva tanto a principiantes como a expertos. Ambos coinciden en que una herramienta tecnológica podría centralizar información y facilitar el acceso al conocimiento, haciendo más accesible y atractivo el aprendizaje de la hidroponía, y favoreciendo la creación de una comunidad donde se compartan experiencias y apoyo mutuo.
 
 ## 2.3 Needfinding 
 
@@ -339,6 +368,61 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Mantener y actualizar contenido | Alta | Media |
 | Evaluar la eficacia de la enseñanza | Media | Alta |
 
+
+
+
+
+### 2.3.3. User Journey Mapping
+
+En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender
+cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
+**Segmento 1 - Principiantes:**   
+<img src="../assets/chapter-02/User-Journey/journey01.png" alt="Principiante">
+
+**Segmento 2 - Expertos:**   
+<img src="..//assets/chapter-02/User-Journey/Journey02.png" alt="Experto">
+
+### 2.3.4. Empathy Mapping
+
+En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
+
+**Segmento 1 - Principiantes:**
+<img src="..//assets/chapter-02/Empathy/empathy1.png" alt="Principiante">
+
+**Segmento 2 - Expertos:**
+<img src="..//assets/chapter-02/Empathy/empathy2.png" alt="Experto">
+
+### 2.3.5. As-is Scenario Mapping
+
+Los escenarios AS-IS brindan una visión detallada de los pasos, pensamientos y emociones de los usuarios antes de conocer el producto. 
+Estos escenarios permiten comprender sus necesidades y desafíos actuales, lo que ayuda al equipo a diseñar una experiencia más efectiva y enfocada en resolver problemas reales. 
+Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfaga las expectativas y proporcione soluciones alineadas con las experiencias actuales de los usuarios, resultando en un producto más exitoso y relevante.
+
+**Segmento 1 - Principiante**  
+<img src="..//assets/chapter-02/Scenario-mapping/Asis1.png" alt="As-IS Scenario Mapping 1">
+
+**Segmento 2 - Experto**  
+<img src="..//assets/chapter-02/Scenario-mapping/Asis2.png" alt="As-IS Scenario Mapping 2">
+
+## 2.4. Ubiquitous Language.
+
+<table border="1px">
+    <tbody>
+        <tr>
+            <td>Término</td>
+            <td>Definición</td>
+        </tr>
+        <tr>
+            <td>Principiante</td>
+            <td>Cualquier persona que utiliza la plataforma para aprender sobre hipdoponia</td>
+        </tr>
+        <tr>
+            <td>Experto</td>
+            <td>Cualquier persona que utiliza la plataforma para brindar guias sobre hidroponia</td>
+        </tr>
+    </tbody>
+</table>
 
 
 

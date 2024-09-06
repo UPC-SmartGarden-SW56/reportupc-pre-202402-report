@@ -43,7 +43,16 @@ Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/desig
 <img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframes6.png" alt="Landing Page Home">
 <img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe7.png" alt="Landing Page Home">
 
+### 4.4.2 Web Application Wireflow Diagrams
+Wireflow Diagram 1: Proceso de Registro para ambos segmentos.
+<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow1.png" alt="wireflow register">
+Wireflow Diagram 2: Proceso de pago para acceder a un curso.
+<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow2.png" alt="wireflow pay course">
+Wireflow Diagram 3: Proceso de creación de un curso.
+<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow3.png" alt="wireflow create a course">
 
+### 4.4.3 Web Application Mock-Up
+### 4.4.4 Web Applicatin Userflow Diagrams
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design

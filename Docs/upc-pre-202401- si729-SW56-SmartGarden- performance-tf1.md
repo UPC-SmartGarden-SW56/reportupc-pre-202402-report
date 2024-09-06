@@ -60,4 +60,7 @@ En el Sprint 1, se logró un avance parcial en la implementación y despliegue d
 En este primer Sprint, solo se trabajó en la implementación del Landing Page, por lo que no se requirieron servicios adicionales.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+En el Sprint 1, se logró desarrollar y desplegar el Landing Page de SmartGarden, cuyo objetivo es atraer clientes y explicar los detalles de nuestra startup y su producto principal. Para el despliegue del Main del Landing Page, utilizamos Github Pages.
+
+link:
 #### 5.2.1.8. Team Collaboration Insights during Sprint.

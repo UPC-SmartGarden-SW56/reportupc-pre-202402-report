@@ -51,6 +51,8 @@ En este apartado, se mencionarán los distintos productos de software empleados 
 | Landing-Page | feature/footer        | fc74362   | feat: Add more stuff to the footer     | -                   | 6/09/2024           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Durante la entrega del Sprint 1, se completó el desarrollo, implementación y despliegue de la Landing Page. Por lo tanto, la sección de "Testing" se centró en la implementación de los archivos de características correspondientes a nuestra página.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review

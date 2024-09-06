@@ -10,6 +10,19 @@
 ### 4.2.4. Searching Systems
 
 ### 4.2.5. Navigation Systems
+## 4.3 Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
+En esta sección se mostrarán el diseño de baja fidelidad de nuestro landing page.
+Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
+
+<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe1.png" alt="Landing Page Home">
+<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe2.png" alt="About Us">
+<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe3.png" alt="Services">
+<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe4.png" alt="Princing">
+<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe5.png" alt="Team">
+
+
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams

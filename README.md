@@ -1381,108 +1381,132 @@ Con estos sistemas de navegación, proporcionamos a los usuarios de "SmartGarden
 En esta sección se mostrarán el diseño de baja fidelidad de nuestro landing page.
 Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
 
-<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe1.png" alt="Landing Page Home">
-<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe2.png" alt="About Us">
-<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe3.png" alt="Services">
-<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe4.png" alt="Princing">
-<img src="../assets/chapter-04/Landing Page Wireframes/landing wireframe5.png" alt="Team">
+![landing-wireframe-1](https://github.com/user-attachments/assets/b2a937e4-2d5a-41ab-b93e-08249dd8c0cc)
+![landing-wireframe-2](https://github.com/user-attachments/assets/98472bfa-f81e-4cbb-99f1-96ecc68d8812)
+![landing-wireframe-3](https://github.com/user-attachments/assets/4525aa5c-0d7f-4bf0-81a3-dbefa0cc3e6e)
+![landing-wireframe-4](https://github.com/user-attachments/assets/0e2aa789-7a7e-4a32-9651-35f08e7b5057)
+![landing-wireframe-5](https://github.com/user-attachments/assets/f0965a45-1363-46f3-bc80-0bf98b40d259)
 
 ### 4.3.2 Landing Page Mock-Up
 En esta sección se mostrarán el diseño de cómo sería nuestro landing page.
 Link hacia los Mock-ups creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
 
-<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup2.png" alt="Landing Page Home">
-<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup3.png" alt="About Us">
-<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup4.png" alt="Services">
-<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup5.png" alt="Pricing">
-<img src="../assets/chapter-04/Landing Page Mockup/landing page mockup1.png" alt="Team">
+![landing-page-mockup-2](https://github.com/user-attachments/assets/40a8d302-a9d2-4269-bca7-1d377c2ff1c2)
+![landing-page-mockup-3](https://github.com/user-attachments/assets/7b703b71-281e-47bd-af43-27a91c5800e2)
+![landing-page-mockup-4](https://github.com/user-attachments/assets/b610da51-d396-4634-9a12-f94e022a064b)
+![landing-page-mockup-5](https://github.com/user-attachments/assets/e4fdece4-7729-4862-83b9-ff6053682f4b)
+![landing-page-mockup-1](https://github.com/user-attachments/assets/b43b8f18-e573-4ec3-b075-f665d739d535)
 
 ## 4.4 Web Applications UX/UI Design
 ### 4.4.1 Web Applications Wireframes
 En esta sección se presentarán el diseño de baja fidelidad para las funciones más importantes dentro del Web Application.
 Link hacia los Wireframes creados en Figma: <a href="https://www.figma.com/design/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=601-10&t=pnQcf5k1YsFhwerK-1">Figma</a>
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe1.png" alt="Landing Page Home">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe2.png" alt="Courses">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe3.png" alt="Categorie">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe4.png" alt="Course Example">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe5.png" alt="Landing Page Home">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframes6.png" alt="Landing Page Home">
-<img src="../assets/chapter-04/Web Application Wireframes/Web Application Wireframe7.png" alt="Landing Page Home">
+![Web-Application-Wireframe-1](https://github.com/user-attachments/assets/a6356433-1206-4429-a6f9-b06c6558ee12)
+![Web-Application-Wireframe-2](https://github.com/user-attachments/assets/c6415c93-4e0a-45cd-896f-e533cec64a0f)
+![Web-Application-Wireframe-3](https://github.com/user-attachments/assets/ce256414-d9b4-4e55-8dce-14fc2cbb70ca)
+![Web-Application-Wireframe-4](https://github.com/user-attachments/assets/e01fb697-4089-4219-8a0c-a0ca3b8ce140)
+![Web-Application-Wireframe-5](https://github.com/user-attachments/assets/e8e380ef-8c72-4545-b6cb-9ed6d55375ee)
+![Web-Application-Wireframe-6](https://github.com/user-attachments/assets/6eeadc38-7d31-437a-a38c-d666547b151b)
+![Web-Application-Wireframe-7](https://github.com/user-attachments/assets/1260481e-8043-4dfd-b944-382b360d3e2f)
 
 ### 4.4.2 Web Application Wireflow Diagrams
+
 Wireflow Diagram 1: Proceso de Registro para ambos segmentos.
-<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow1.png" alt="wireflow register">
+
+![web-wireflow-1](https://github.com/user-attachments/assets/7bc03df8-3244-446c-843b-96e1b7ed8cae)
+
 Wireflow Diagram 2: Proceso de pago para acceder a un curso.
-<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow2.png" alt="wireflow pay course">
+
+![web-wireflow-2](https://github.com/user-attachments/assets/95298932-9e25-4188-98cc-7dfd9c894f4d)
+
 Wireflow Diagram 3: Proceso de creación de un curso.
-<img src="../assets/chapter-04/Web Application Wireflow Diagrams/web wireflow3.png" alt="wireflow create a course">
+
+![web-wireflow-3](https://github.com/user-attachments/assets/12fb6a56-a326-412e-a7dc-cc313103d8eb)
+
 
 ### 4.4.3 Web Application Mock-Up
 - Creacion de cuenta:
   En la seccion de Creacion de cuenta los usuarios tendran que llenar el formulario con sus datos correspondientes para poder crear una cuenta en la aplicacion.
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta 2.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Cuenta 3.png">
+
+![Creacion-de-Cuenta](https://github.com/user-attachments/assets/4f8fb5f2-96bd-48c9-bf71-71abf7adb9c4)
+![Creacion-de-Cuenta-2](https://github.com/user-attachments/assets/62f7738b-80f9-4394-b5d4-a500b5d37a77)
+![Creacion-de-Cuenta-3](https://github.com/user-attachments/assets/b38aa4af-bf3f-43ea-b747-368de9d47cf1)
 
 - Inicio de sesion:
   En la seccion de Inicio de sesion los usuarios tendran que llenar el formulario con sus respectivas credenciales para poder ingresar a la aplicacion.
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Inicio de Sesion.png">
+
+  ![Inicio-de-Sesion](https://github.com/user-attachments/assets/b646e7d1-c0ac-4314-a1a8-4d8317da2160)
 
 - Pagina de Inicio:
   En la seccion de la pagina de inicio se podra visualizar informacion acerca de la empresa, las diferentes funcionalidades de la aplicacion.
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Pagina de Inicio.png">
+  
+![Pagina de Inicio](https://github.com/user-attachments/assets/aa4dbc31-3549-49c4-9676-beb3b492fda4)
 
 - Seccion de pago:
   Al momento de seleccionar el curso, se abrira la seccion de pago.
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Pago.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Pago2.png">
+  
+![Pago](https://github.com/user-attachments/assets/e4ab6b54-b69f-461f-be1f-ce5d5ac9ecb1)
+![Pago2](https://github.com/user-attachments/assets/94992288-640e-4420-a3b7-649c8d5db21d)
 
 - Seccion de Curso:
   En la seccion se podra ver todos los cursos disponibles, incluyendo los pasos y distintos comentarios
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos2.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos3.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Cursos4.png">
+
+![Cursos](https://github.com/user-attachments/assets/65416f6e-a515-4239-8195-bd18219ad7d3)
+![Cursos2](https://github.com/user-attachments/assets/e173060f-05fb-4b50-b719-6385c410378f)
+![Cursos3](https://github.com/user-attachments/assets/cb0a3cb8-f0ae-4d34-957f-75b472727bb0)
+![Cursos4](https://github.com/user-attachments/assets/87ac0eb2-850a-4bbb-8d25-a8decf1d674c)
 
 - Seccion Progreso:
   En la seccion se podra ver el progreso semanal de cada curso en curso del usuario
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Progreso.png">
+
+![Progreso](https://github.com/user-attachments/assets/4d328fe4-b024-4419-8f7e-1f47044ba5aa)
 
 - Seccion Categoria:
   En la seccion se podra ver las distintas categorias que tiene la app web
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Categoria.png">
+
+![Categoria](https://github.com/user-attachments/assets/ac5c9949-4e69-4cba-b7d5-64c3cfcd2c34)
 
 - Seccion Crear Cursos:
   En la seccion se podra ver los pasos para crear un curso en la app web
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Curso.png">
-<img src="../assets/chapter-04/Web Applications Mock-Ups/Creacion de Curso2.png">
+
+![Creacion de Curso](https://github.com/user-attachments/assets/606e90a3-cb67-4c80-9046-3ab323176491)
+![Creacion de Curso2](https://github.com/user-attachments/assets/ffd0f165-cd3e-4904-947d-c0974d8a32fe)
 
 ### 4.4.4 Web Applicatin Userflow Diagrams
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal1.png">
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal2.png">
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal3.png">
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal4.png">
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal5.png">
-<img src="../assets/chapter-04/Web Applications User Flow Diagrams/UserGoal6.png">
+
+![User-Goal-1](https://github.com/user-attachments/assets/12070ab2-cb0b-4d41-8017-cc319443600e)
+![User-Goal-2](https://github.com/user-attachments/assets/454856fa-4d38-4ae4-b621-95706d6e30e6)
+![User-Goal-3](https://github.com/user-attachments/assets/bc2634c4-4f88-4484-afe9-01e114d3fc21)
+![User-Goal-4](https://github.com/user-attachments/assets/4bfa0abf-2f1d-4c1c-b7af-96d4f8b0d30b)
+![User-Goal-5](https://github.com/user-attachments/assets/c32b3d69-f481-4cb2-a16c-5289aad779ff)
+![User-Goal-6](https://github.com/user-attachments/assets/0305e917-7114-4fd3-bdf3-61da76e54507)
+
 
 ## 4.5 Web Aplications Prototyping
-<img src="../assets/chapter-04/prototyping.png">
+![prototyping](https://github.com/user-attachments/assets/a29bdd31-0531-48e5-a290-61c352e0d52f)
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114309_upc_edu_pe/EeADvLQsjblDvSSQxhD3j4kBfsBpD17qRIwnBvKTMSf_8A?e=MdVXqE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Prototyping video</a>
 <a href="https://www.figma.com/proto/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=736-2546&node-type=CANVAS&t=oPikjt7749t1loJe-1&scaling=min-zoom&content-scaling=fixed&page-id=601%3A10&starting-point-node-id=736%3A2546">Figma Prototype</a>
 
 ## 4.6 Domain-Driven Software Architecture
 ### 4.6.1 Software Architecture Context Diagram
-<img src="../assets/chapter-04/c4model/context1.png">
-<img src="../assets/chapter-04/c4model/context2.png">
+
+![context1](https://github.com/user-attachments/assets/5c7355fe-3154-49a2-b00f-5daf5e2d426c)
+![context2](https://github.com/user-attachments/assets/e24b51a6-7fb0-4ff5-960b-0e4f3acdc13c)
+
 ### 4.6.2. Software Architecture Container Diagrams
-<img src="../assets/chapter-04/c4model/container1.png">
-<img src="../assets/chapter-04/c4model/container2.png">
+
+![container1](https://github.com/user-attachments/assets/a8f2b9bd-0be2-489c-82c2-83e056f897ea)
+![container2](https://github.com/user-attachments/assets/850c4e2c-d0d1-4c71-ac18-4fece8e851e5)
+
 ### 4.6.3. Software Architecture Components Diagrams
-<img src="../assets/chapter-04/c4model/components1.png">
-<img src="../assets/chapter-04/c4model/components2.png">
+
+![components1](https://github.com/user-attachments/assets/8b700d0c-73ec-4d0a-b1d0-4c6efff6b550)
+![components2](https://github.com/user-attachments/assets/d55159e3-393d-4a35-b8e3-c76d2a932eb7)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="../assets/chapter-04/Diagrama_clases.png">
+
+![Diagrama_clases](https://github.com/user-attachments/assets/4b6c5038-82ae-40d9-88bc-e3c8ec7cc14f)
 
 ### 4.7.2. Class Dictionary
 
@@ -1520,7 +1544,7 @@ Esta clase se encarga de gestionar las comunidades que los usuarios pueden forma
 Esta clase administra la información sobre los precios de las suscripciones y su frecuencia de pago. Está relacionada con la tabla de enumeración Frequency, que especifica si la suscripción es mensual o anual.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="../assets/chapter-04/Diagrama_DB.png">
+![Diagrama_DB](https://github.com/user-attachments/assets/08bccfdd-c76c-4499-8578-03d3c2aaea6b)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management

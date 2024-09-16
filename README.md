@@ -164,13 +164,13 @@ AquaBloom es un startup que nace con el objetivo de brindar conocimientos a pers
 **Misión:** Ofrecer una plataforma innovadora e intuitiva que conecte a expertos en hidroponía y a personas interesadas en este tem, logrando que la comunidad pueda crecer .
 
 ### 1.1.2 Perfiles de integrantes del equipo 
-| Nombre       | Código       | Descripcion  | Imagen                                                                                                                                                                                                                                                     |
-|--------------|--------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Quique Vladimir Jara Benites | u202022365 | Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones | <img src="assets/chapter-01/photos/Vladimir.jpg"/>                                                                                                                                                                                                         |
-| Alexander Paolo Justo Yauricasa | U20191C054 | Soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso. | <img src="assets/chapter-01/photos/Alexander.jpg">                                                                                                                                                                                                         |
-| Carlos Alejandro De La Cruz Villarreal | u20211c036 | Soy un estudiante la carrera de Ingeniería de Software en la UPC; considero que soy una persona responsable y con una fuerte motivación para culminar todos mis trabajos universitarios. Me comprometo a cumplir y motivar a mis compañeros de grupo para poder lograr el objetivo del curso. | ![Foto Carlo](https://media.discordapp.net/attachments/1091453401205854218/1281151821100089405/Carlos.png?ex=66daad1c&is=66d95b9c&hm=4db6a8ba340ba9785ed4fc679c2451e5230ae96531b60760e5125e17c3f6a3bf&=&format=webp&quality=lossless&width=263&height=350) |
-| Camila Alessandra Conde Isla | u202114309 |Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/camila.png">                                                                                                                                                                                                            |
-| Nicolas Alejandro Vera Nuñez | u202214869 | Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | <img src="assets/chapter-01/photos/Nicolas.png">                                                                                                                                                                                                           |
+| Nombre       | Código       | Descripcion  | Imagen                                                                                                                                                                                                                                                |
+|--------------|--------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quique Vladimir Jara Benites | u202022365 | Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones | ![Vladimir](https://github.com/user-attachments/assets/0acf1df7-d451-449e-954b-b22550a60c6f)|
+| Alexander Paolo Justo Yauricasa | U20191C054 | Soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso. | ![Alexander](https://github.com/user-attachments/assets/ab780789-1835-4413-b921-6b2dd2e06696)|
+| Carlos Alejandro De La Cruz Villarreal | u20211c036 | Soy un estudiante la carrera de Ingeniería de Software en la UPC; considero que soy una persona responsable y con una fuerte motivación para culminar todos mis trabajos universitarios. Me comprometo a cumplir y motivar a mis compañeros de grupo para poder lograr el objetivo del curso. | ![Carlos](https://github.com/user-attachments/assets/ee3a8fe5-7f3a-4553-8960-32ef37001d5c)|
+| Camila Alessandra Conde Isla | u202114309 |Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | ![camila](https://github.com/user-attachments/assets/99d48bba-bb26-4dfd-8e11-71dfa4ac845d)|
+| Nicolas Alejandro Vera Nuñez | u202214869 | Soy estudiante de la carrera de Ingeniería de Software. Mi motivación para seguir aprendiendo es llegar a crear y diseñar soluciones creativas. Me considero una persona creativa, proactiva, tolerante, respetuosa y apasionada por lo que me gusta. Me comprometo a apoyar en el proceso para poder tener un proyecto final bien planteado para obtener una buena nota. | ![Nicolas](https://github.com/user-attachments/assets/fd1718ff-a7f2-4449-ab68-0a8ceb3ce478)|
 
 ## 1.2 Solution Profile     
 
@@ -183,7 +183,8 @@ Esta propuesta cuenta con un servicio innovador y novedoso, la aplicación les o
 •	**Monetización:**
 Nuestra aplicación generará ganancias por medio de planes de suscripción tanto para los expertos como para los usuarios que deseen adquirir un curso. A los expertos además se le cobrará una comisión por cada usuario que adquiera un curso. Lo que haría que nuestra plataforma siga funcionando y los expertos puedan seguir subiendo cursos para nuestros usuarios. 	
 
-![SmartGarden](https://media.discordapp.net/attachments/1091453401205854218/1280230298478575656/image.png?ex=66d752e0&is=66d60160&hm=112e8d5df88bbfe4925432d51492dbb324e876e369f9b55a4d100f9ecb781c26&=&format=webp&quality=lossless)
+![Smart Garden](https://github.com/user-attachments/assets/ce6f8f51-b0a3-4929-a552-97d7dc2bff84)
+
 
 ### 1.2.1 Antecedentes y Problemática
 
@@ -305,46 +306,136 @@ Nuestro segundo segmento objetivo abarca a los expertos en la hidroponía, los c
 # Capítulo II : Requirements Elicitation & Analysis 	
 
 ## 2.1 Competidores
-
-Luego de una investigación rigurosa en el mercado, hemos encontrado 3 proyectos similares que serían competencia de SmartGarden.
-
-A continuación, se mostrarán los competidores:
-
-•	**Hidroponika:**
-
-![Hidroponika](https://media.discordapp.net/attachments/1091453401205854218/1280315633988272253/image.png?ex=66d7a25a&is=66d650da&hm=68bda59b32e24cccb0244548a6fe6664d6f1efd6f88d3d3f2b7b727ee8def823&=&format=webp&quality=lossless)
-
-Es una aplicación web que cuenta con una gama completa de productos y servicios de calidad relacionados con la hidrocultura. Además, posee soluciones nutritivas para todo tipo de plantas, desde tu propio huerto.
-
-
-•	**Intagri:**
-
-![Intagri](https://media.discordapp.net/attachments/1091453401205854218/1280322762321428602/image.png?ex=66d7a8fd&is=66d6577d&hm=984b0e85f8750075a5abfa3e0d0a8e066c12494121ceb9da64353e240c18c766&=&format=webp&quality=lossless)
-
-Es un portal que ofrece distintos tipos de información acerca de los distintos tipos de cultivos. Además, ofrece también distintas conferencias y cursos dictados por expertos acerca de la agricultura.
-
-•   **Mundo Hidroponia:**
-
-![Mundo Hidroponia](https://media.discordapp.net/attachments/1091453401205854218/1280323157320011897/image.png?ex=66d7a95b&is=66d657db&hm=d1674e8a68ec7d5abae5d867cd79ce6ce10395ae819a90e5be988e2f1aa79211&=&format=webp&quality=lossless) 
-
-Es un portal que ofrece una gran cantidad de productos para la hidroponía como nutrientes, huertos, semillas, etc. Además, ofrece también servicios de envío para sus productos hacia sus clientes.
-
 ### 2.1.1 Análisis competitivo
-| **Competitive Analysis Landscape** |          |             |                        |                      |                    |
-|------------------------------------|----------|-------------|------------------------|----------------------|--------------------|
-|                                    |          | **SmartGarden** | **Hidroponika** | **Intagri** | **Mundo Hidroponia** |
-| Nuestro producto/Competidores|            | ![SmartGarden](https://media.discordapp.net/attachments/1091453401205854218/1280230298478575656/image.png?ex=66d752e0&is=66d60160&hm=112e8d5df88bbfe4925432d51492dbb324e876e369f9b55a4d100f9ecb781c26&=&format=webp&quality=lossless)                  | ![Hidroponika](https://media.discordapp.net/attachments/1091453401205854218/1280315633988272253/image.png?ex=66d7a25a&is=66d650da&hm=68bda59b32e24cccb0244548a6fe6664d6f1efd6f88d3d3f2b7b727ee8def823&=&format=webp&quality=lossless) | ![Intagri](https://media.discordapp.net/attachments/1091453401205854218/1280322762321428602/image.png?ex=66d7a8fd&is=66d6577d&hm=984b0e85f8750075a5abfa3e0d0a8e066c12494121ceb9da64353e240c18c766&=&format=webp&quality=lossless) | ![Mundo Hidroponia](https://media.discordapp.net/attachments/1091453401205854218/1280323157320011897/image.png?ex=66d7a95b&is=66d657db&hm=d1674e8a68ec7d5abae5d867cd79ce6ce10395ae819a90e5be988e2f1aa79211&=&format=webp&quality=lossless) |
-| **Perfil**                   | **Overview** | Aplicación web donde los clientes podrán tener información sobre la hidroponía, poder compartir dudas y respuestas con la comunidad y poder realizar cursos interactivos donde aprenda distintas técnicas o materiales a usar.|Es una página web que cuenta con una gran variedad de productos y servicios relacionados a la hidroponía, de gran calidad y para distintos lugares. Además, posee distintos cursos para iniciar en la hidroponía.| Es una página web que ofrece distintos tipos de información sobre agricultura. Ofrecen capacitaciones y cursos donde explican distintos tipos de métodos a utilizar en la agricultura. Estos cursos los dictan de manera presencial o virtual dependiendo del área que dicten.| Es una página web que ofrece distintos productos para la hidroponía como nutrientes para las plantas, huertas donde irán instaladas estas plantas y semillas de distintos tipos. |
-|                              | **Ventaja Competitiva** | Una mejor variedad de productos acorde a la economía de las personas y a los distintos lugares del Perú. Además de un foro donde la comunidad pueda expresar sus dudas frente a los demás usuarios. | Una gran cantidad de productos, packs, soluciones y demás para la hidroponía. Tiene una sólida interfaz donde explican los servicios que ofrece la empresa y los beneficios de realizar hidroponía. | Una ventaja que ellos tienen a diferencia de otros es la gran cantidad de cursos que dictan, esto hace que muchas personas elijan sus servicios para aprender más acerca de distintos temas de agricultura y también sobre de la hidroponía.| Gran variedad de semillas y nutrientes para la hidroponía. Esto hace que sean un lugar concurrido para las personas que tengan este tipo de huertos.|
-| **Perfil de marketing**      | **Mercado Objetivo** | Personas de todo el Perú mayores de edad que quieran comenzar a utilizar la técnica de hidroponía para cultivar en sus casas o personas que necesitan materiales para seguir cuidando sus cultivos y gastar menos recursos. | Personas de todo el Perú que quieran obtener sus productos o empezar en la hidroponía en sus hogares u otros lugares. | Personas que estén interesadas en aprender más sobre la hidroponía, dispuestos a llevar cursos y asistir en charlas que Intagri ofrece. | Personas que se dedican a cultivar plantas con la técnica de hidroponía. |
-|                              | **Estrategias de marketing** | Publicidad a través de redes sociales y en sitios web | En las principales redes sociales. | En las principales redes sociales, LinkedIn y en empresas aliadas como Fertilab y Proain. | Publicidad a través de las principales redes sociales|
-| **Perfil de producto**       | **Productos & Servicios** | Brindar un servicio de calidad mediante la información que mostraremos en nuestra página. Los cursos serán subidos por los expertos en hidroponía, además de la creación de comunidades donde las personas puedan contar sus experiencias o recomendar distintas cosas. | Gran variedad de productos desde nutrientes para las plantas hasta hidro huertos de distintos tamaños y para distintos tipos de plantas. | Los productos que ellos ofrecen son los cursos y capacitaciones sobre distintos temas acerca de la agricultura. | Gran variedad de productos desde nutrientes para las plantas hasta huertos de distintos tamaños y para distintos tipos de plantas. |
-|                              | **Precios & Costos** | Cobro periódico por uso y publicidad. | Cobro por plan/paquete adquirido (según destino turístico) | Cobro por guía contratado (tarifa propia). | Cobro por plan/paquete adquirido (según destino turístico) |
-|                              | **Canales de distribución (Web y/o móvil)** | Se contará con una página web en donde se encontrará todo lo que ofrecemos e información acerca de nosotros |Se hacen envíos a todo el Perú mediante empresas de Courier tanto para Lima metropolitana hasta los distintos departamentos del país.| La mayoría de los cursos que dictan son virtuales pero los seminarios o congresos que ellos dicten son presenciales. | Ofrecen sus servicios por medio de empresas de Courier en el territorio argentino. |
-| **Análisis SWOT**           | **Fortalezas** | Brindar información de distintos temas sobre la hidroponía, además de estar validadas por expertos. Comunicación constante con los clientes. | Una gran variedad de productos para ofrecer a todos sus clientes. | Una gran variedad de cursos de distintos temas que pueden atraer a distintas personas. Capacitaciones y ponencias de manera presencial hacen que sean más reconocidos por sus demás competidores.| Gran variedad de semillas para la plantación de estas, distintos nutrientes que ayudan a la planta a crecer y gran variedad de huertos de distintos tamaños y para distintos propósitos. |
-|                              | **Debilidades** | Falta de credibilidad por ser un startup nuevo y no ser tan reconocida en el medio. | Falta de comunicación con los clientes. Sus únicos medios de comunicación son las redes sociales y WhatsApp, por lo que se puede tardar a la hora de responder algún mensaje. | Al tener un catálogo muy amplio de cursos y temas que ofrecen, no pueden enfocarse en un tema en específico por lo que algunas ocasiones no resolverán la duda al cliente. | Algunas personas no podrán conocer qué tipos de nutrientes necesitan para sus plantas o que tipos de huertas se acomodan más a su lugar de plantación. |
-|                              | **Oportunidades** | Falta de información por expertos en el tema. Falta de plataformas que ofrezcan servicios de hidroponía a nivel nacional. | Falta de lugares o webs donde una persona pueda encontrar todo lo relacionado a la hidroponía, soluciones, semillas, huertos, etc. | Falta de lugares donde dicten cursos de una gran variedad de temas. Los eventos presenciales muchas veces no son tan completos como sí lo es el de Intagri. | Al tener una gran variedad de productos podrán satisfacer las necesidades de sus clientes. |
-|                              | **Amenazas** | Las personas en primera instancia no confiarán en nosotros por ser una nueva empresa. Falta de socios los cuales nos puedan ayudar en el tema económico del startup. | Algunas personas no contarán con el presupuesto suficiente para poder comprar las estaciones esenciales donde cultivar las plantas utilizando esta técnica. | Algunas personas no podrán acceder a sus cursos presenciales por falta de tiempo o por la locación de estas capacitaciones. | Los mismos productos podrán ser encontrados en otros tipos de páginas |
+
+<table border="1px" align="center" style="text-align: center; width: 100%;">
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">SmartGarden</td>
+    <td valign="top">Hidroponika</td>
+    <td valign="top">Intagri</td>
+    <td valign="top">Mundo Hidroponia</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/ce6f8f51-b0a3-4929-a552-97d7dc2bff84" alt="Logo of SmartGarden" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/dfc35deb-4e3f-43c3-8ee1-9ccc53e80de3" alt="Logo of Hidroponika" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/3a8c74c0-11f3-4cb1-bdf7-f7dcde1d24c4" alt="Logo of Intagri" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/f8d4227e-db9c-443b-bb99-39192a9af2d5" alt="Logo of Mundo Hidroponia" height="70px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Permite vender y comprar cursos de hidroponía, con acceso a foros comunitarios y la opción de vender material digital adicional.</td>
+    <td valign="top">Ofrece productos y cursos de hidroponía de alta calidad para diferentes ubicaciones.</td>
+    <td valign="top">Proporciona información y cursos sobre agricultura, disponibles en formato presencial y virtual.</td>
+    <td valign="top">Vende productos para hidroponía como nutrientes, huertas y semillas.</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Combina cursos, comunidad y venta de material digital, ofreciendo una experiencia completa para expertos y estudiantes</td>
+    <td valign="top">Amplia gama de productos y soluciones, con una interfaz clara que destaca los beneficios de la hidroponía</td>
+    <td valign="top">Ofrece una gran cantidad de cursos, lo que lo convierte en una opción preferida para aprender sobre agricultura e hidroponía</td>
+    <td valign="top">Gran variedad de semillas y nutrientes, atrayendo a quienes practican la hidroponía.</td>
+  </tr>   
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Adultos mayores de 23 años que buscan beneficios al aprender o enseñar hidroponía, con interés en cursos y material digital especializado.</td>
+    <td valign="top">Personas de todo el Perú interesadas en productos y soluciones para comenzar con la hidroponía en casa o en otros espacios.</td>
+    <td valign="top">Personas interesadas en profundizar su conocimiento sobre agricultura e hidroponía, a través de cursos y charlas.</td>
+    <td valign="top">Personas que ya cultivan plantas mediante técnicas de hidroponía</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Publicidad a través de redes sociales y en sitios web</td>
+    <td valign="top">En las principales redes sociales.</td>
+    <td valign="top">En las principales redes sociales, LinkedIn y en empresas aliadas como Fertilab y Proain.</td>
+    <td valign="top">Publicidad a través de las principales redes sociales</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Proporciona cursos de hidroponía, acceso a foros comunitarios y venta de material digital adicional.</td>
+    <td valign="top">Ofrece una amplia gama de productos, desde nutrientes hasta hidrohuertos de diversos tamaños</td>
+    <td valign="top">Ofrecen cursos y capacitaciones sobre diferentes temas relacionados con la agricultura.</td>
+    <td valign="top">Vende nutrientes y huertos de distintos tamaños para varios tipos de plantas.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Planes de suscripción: Básico a $9.99, Community a $14.99 y ProPlan a $24.99</td>
+    <td>Costo cursos: $50.00, Costo productos: desde $30.00 </td>
+    <td>Costo cursos: desde $80.00</td>
+<td>Planes y suscripcion: Mensual: $9.99, Anual: $99.99 </td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+     Ofrece una experiencia completa con cursos, comunidad, y la opción de vender material digital, atrayendo tanto a estudiantes como a expertos.
+    </td>
+    <td valign="top">
+      Amplia variedad de productos para satisfacer diversas necesidades de clientes.
+    </td>
+    <td valign="top">
+      Diversidad de cursos y capacitaciones presenciales que los posicionan frente a la competencia.
+    </td>
+    <td valign="top">
+      Gran oferta de semillas, nutrientes y huertos de distintos tamaños para diferentes usos.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+Posible falta de personalización en los cursos, lo que puede no satisfacer completamente las necesidades de algunos usuarios.
+    </td>
+    <td valign="top">
+      Limitada comunicación con clientes, solo a través de redes sociales y WhatsApp, lo que ralentiza las respuestas.
+    </td>
+    <td valign="top">
+      El extenso catálogo de cursos dificulta enfocarse en temas específicos, lo que puede dejar dudas sin resolver.
+    </td>
+    <td valign="top">
+     Falta de orientación clara sobre qué nutrientes o huertos son más adecuados para cada tipo de plantación.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">Creciente demanda de plataformas educativas especializadas en hidroponía y la posibilidad de crear una comunidad activa de expertos y estudiantes</td>
+    <td valign="top">Poca competencia en ofrecer una plataforma completa con productos, soluciones y semillas para hidroponía.</td>
+    <td valign="top">Escasez de instituciones que ofrezcan una amplia variedad de cursos, especialmente tan completos como los de Intagri.</td>
+    <td valign="top">La amplia oferta de productos les permite cubrir diversas necesidades en el mercado de la hidroponía.   </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+      Competencia de plataformas educativas más grandes que podrían ofrecer cursos y material digital a precios más competitivos o con mayor visibilidad.
+    </td>
+    <td valign="top">
+      Limitaciones presupuestarias de los clientes para adquirir equipos esenciales de hidroponía.
+    </td>
+    <td valign="top">
+      Dificultad para que algunos clientes accedan a cursos presenciales debido a limitaciones de tiempo o ubicación
+    </td>
+    <td valign="top">
+      Competencia de otras páginas que ofrecen productos similares.
+    </td>
+  </tr>
+</table>
+
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
@@ -408,60 +499,143 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 ### 2.2.2 Registro de entrevistas 
 
 ***Enlace Entrevistas:*** https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx?usp=sharing
- 
-**Entrevista a Interesado en Hidroponía**
-| Registro de entrevista 1 | | 
-|:------------ |:------------:|
-| Nombre:     | Paul Gamero Lizana      |
-| Edad:       | 21 |
-| Distrito: | San Martín de Porres |
-| Timing: | 3:41 |
-| Captura | ![Foto entrevista](https://media.discordapp.net/attachments/1091453401205854218/1280987829039665253/image.png?ex=66da1462&is=66d8c2e2&hm=ae54be9f78acff1d5319792f20f495f9bb9b455cf8fd2aa7cf3626fc0c76600a&=&format=webp&quality=lossless&width=842&height=473)|
-|Resumen: | El interesado en adentrarse en el mundo de la hidroponía, Paul Gamero, nos comenta que muchas veces ha tenido el sueño de empezar un granja en su casa, porque le interesa alimentarse de productos naturales. Sin embargo, no encuentra mucha información adecuada que le puede guiar en convertir su sueño en realidad. También nos comenta que le gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho tiempo en buscar guías o consejos para sus cultivos hidropónicos .|
-| Link | https://youtu.be/rvpSkUZ6XuM |
 
-| Registro de entrevista 2 | | 
-|:------------ |:------------:|
-| Nombre:     | David Beltran Burgos    |
-| Edad:       | 21 |
-| Distrito: | Surco|
-| Timing: | 3:10 |
-| Captura | ![Foto entre](https://media.discordapp.net/attachments/1091453401205854218/1280989465824723004/image.png?ex=66da15e8&is=66d8c468&hm=3094e81ec35c05e9ae2a3d188ee2f40251d0817f2d76c0c6c2fc5628525ce794&=&format=webp&quality=lossless&width=550&height=309)|
-|Resumen: | El interesado en la hidroponía, David Burgos, nos comparte que le intereso la hidroponía a través de redes sociales, puesto que en los trends le encantó las granjas hidropónicas. Adicionalmente nos dice que muchas veces cuando quiere empezar con su proyecto, hay demasiada información y eso hace que desista de su proyecto. Finalmente confiesa que sería una estupenda idea que se creara una plataforma sobre todo lo relacionado a la hidroponía, así como un foro donde puedan compartir sus experiencias con los demás usuarios|
-| Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
+### Entrevistas segmento 1: Beginners
+#### Entrevista 1:
 
-| Registro de entrevista 3 | | 
-|:------------ |:------------:|
-| Nombre:     | Brenda Calderón |
-| Edad:       | 22 |
-| Distrito: | Cercado de Lima |
-| Timing: | 5:13 |
-| Captura | ![Foto Brenda](https://media.discordapp.net/attachments/1091453401205854218/1281708003778629704/image.png?ex=66dcb319&is=66db6199&hm=990be4feda83fe9df378a0fd756db5f979e791793e11dbb021d2e762919f378d&=&format=webp&quality=lossless&width=842&height=473)|
-|Resumen: | Brenda nos comenta que la principal razón para investigar sobre la hidroponía es que desea poder consumir alimentos más frescos y saludables, a diferencia de los transgénicos. Nos cuenta que sus principales guías que ha tenido son vídeos de youtube y algunas referencias en twitter, pero que es muy difícil encontrar información sobre hidroponía. Finalmente, cree firmemente que una aplicación donde pueda encontrar consejos y guías para empezar su proyecto sería de gran ayuda para la comunidad de hidroponía|
-| Link | https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx |
+Datos del entrevistador:
+* Nombres: Carlos
+* Apellidos: 
+
+Datos del entrevistado:
+* Nombres: Paul 
+* Apellidos: Gamero Lizana
+* Edad: 21
+* Distrito de residencia: San Martín de Porres
+* Tiempo inicio de la entrevista: 0:00
+* Tiempo fin de la entrevista: 0:00
+* Tiempo total de duración: 3:41
+
+![Entrevista-carlos](https://github.com/user-attachments/assets/2fdc44ed-6789-4ef5-a0bd-d1dea0248ce3)
+
+**Informe del resumen de la entrevista:**
+El interesado en adentrarse en el mundo de la hidroponía,
+Paul Gamero, nos comenta que muchas veces ha tenido el sueño
+de empezar un granja en su casa, porque le interesa alimentarse de
+productos naturales. Sin embargo, no encuentra mucha información adecuada
+que le puede guiar en convertir su sueño en realidad. También nos comenta que le
+gustaría que se creara una plataforma sobre hidroponía para poder ahorrarse mucho
+tiempo en buscar guías o consejos para sus cultivos hidropónicos.
 
 
-| Registro de entrevista 4 | | 
-|:------------ |:------------:|
-| Nombre:     | Edgar Vega Dias    |
-| Edad:       | 45 |
-| Distrito: | Callao |
-| Timing: | 3:46 |
-| Captura | <img src="assets/chapter-02/Entrevistados" alt="Entrevista Edgar">|
-|Resumen: | Edgar comenta que decea inciar en la hipodromia por que no legusta los productos transgenicos y pesticidas que algunos agriculotores practican. Tambien comenta que le es muy dificil encontrar informacion de como comenzar en este tema de la hipodria. Señala que le gustaria tener una aplicacion donde pueda comunicarce con mas personas interesadas y mas informacion y consejos. Por ultimo, reslata la importacia que son los espacios sostenibles para tener una mejora como pais.  |
-| Link | https://drive.google.com/file/d/1nmWTzW2xVz582b6xkLj9j2ZWqrylGiP8/view?usp=sharing |
+#### Entrevista 2:
 
-**Entrevista a Expertos**
+Datos del entrevistador:
+* Nombres:
+* Apellidos:
 
-| Registro de entrevista 1 | | 
-|:------------ |:------------:|
-| Nombre:     | Nelida Ruiz Agurto       |
-| Edad:       | 78 |
-| Distrito: | Callao |
-| Timing: | 7:46 |
-|Captura:| <img src="assets/chapter-02/Entrevistados/entrevista experto1.png" alt="Entrevista Nelida">|
-|Resumen: | La experta en hidroponía, Nelida Ruiz, nos comenta que para el proceso de su propio aprendizaje tuvo que recurrir a varias personas y materiales, además le parece importante que haya un gusto por esta actividad para que sean aún más fácil de aprender. Le hubiera gustado tener a una persona que la oriente en su camino de aprendizaje así como ella está dispuesta a hacer con las personas que necesiten una guía.|
-| Link: |
+Datos del entrevistado:
+* Nombres: Brenda
+* Apellidos: Calderón
+* Edad: 22
+* Distrito de residencia: Cercado de Lima
+* Tiempo inicio de la entrevista: 0:00
+* Tiempo fin de la entrevista: 0:00
+* Tiempo total de duración: 5:13
+
+![entrevista-nicolas](https://github.com/user-attachments/assets/6bc4c201-5e53-4200-95a3-0d1a684c4f65)
+
+**Informe del resumen de la entrevista:**
+Brenda nos comenta que la principal razón para 
+investigar sobre la hidroponía es que desea poder 
+consumir alimentos más frescos y saludables, a diferencia 
+de los transgénicos. Nos cuenta que sus principales guías 
+que ha tenido son vídeos de youtube y algunas referencias en 
+twitter, pero que es muy difícil encontrar información sobre hidroponía. 
+Finalmente, cree firmemente que una aplicación donde pueda encontrar 
+consejos y guías para empezar su proyecto sería de gran ayuda para la 
+comunidad de hidroponía
+
+#### Entrevista 3:
+
+Datos del entrevistador:
+* Nombres:
+* Apellidos:
+
+Datos del entrevistado:
+* Nombres: Edgar
+* Apellidos: Vega Dias
+* Edad: 45
+* Distrito de residencia: 
+* Tiempo inicio de la entrevista: 0:00
+* Tiempo fin de la entrevista: 0:00
+* Tiempo total de duración: 
+
+![Entrevista-nicolas2](https://github.com/user-attachments/assets/46135bf3-4d3e-434c-a045-d81d8010b4f9)
+
+**Informe del resumen de la entrevista:**
+Edgar comenta que decea inciar en la hipodromia 
+porque no legusta los productos transgenicos y pesticidas 
+que algunos agriculotores practican. Tambien comenta que le 
+es muy dificil encontrar informacion de como comenzar en este 
+tema de la hipodria. Señala que le gustaria tener una aplicacion 
+donde pueda comunicarce con mas personas interesadas y mas 
+informacion y consejos. Por ultimo, reslata la importacia que son 
+los espacios sostenibles para tener una mejora como pais.
+
+### Entrevistas segmento 1: Experts 
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres:
+* Apellidos:
+
+Datos del entrevistado:
+* Nombres: Nelida
+* Apellidos: Ruiz Agurto
+* Edad: 78
+* Distrito de residencia: Callao
+* Tiempo inicio de la entrevista: 0:00
+* Tiempo fin de la entrevista: 0:00
+* Tiempo total de duración: 7:46
+
+![entrevista-camila](https://github.com/user-attachments/assets/31456bfb-73ab-412e-9dc5-fb59e39e3501)
+
+**Informe del resumen de la entrevista:**
+La experta en hidroponía, Nelida Ruiz, nos comenta que 
+para el proceso de su propio aprendizaje tuvo que recurrir 
+a varias personas y materiales, además le parece importante 
+que haya un gusto por esta actividad para que sean aún más 
+fácil de aprender. Le hubiera gustado tener a una persona 
+que la oriente en su camino de aprendizaje así como ella está 
+dispuesta a hacer con las personas que necesiten una guía.
+
+#### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres:
+* Apellidos:
+
+Datos del entrevistado:
+* Nombres: Raul
+* Apellidos: Ayala
+* Edad: 25
+* Distrito de residencia: Lima
+* Tiempo inicio de la entrevista: 0:00
+* Tiempo fin de la entrevista: 0:00
+* Tiempo total de duración: 5:50
+
+![Entrevista-Justo](https://github.com/user-attachments/assets/d91097c3-ca6d-420f-81d8-bfe4ceb18e1c)
+
+**Informe del resumen de la entrevista:**
+En esta ocasión entrevistó a la especialista Raul 
+Ayala. En la entrevista el resalta la importancia de la 
+hidroponia para producir alimentos agricolas en espacios 
+resucidos. Así mismo, Raul menciona que una aplicación de 
+hidroponia podría ayudar a llegar a gente de todo tipo, tanto 
+practicantes o especialistas. Por último, el dice que se encuentra 
+interesada en una plataforma digital que abarque muchos temas de hidroponia, 
+que ayude tanto a pacientes como a especialistas.
 
 | Registro de entrevista 2 | | 
 |:------------ |:------------:|
@@ -470,9 +644,8 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 | Distrito: | Lima |
 | Timing: | 5:50|
 |Caputura| <img src="assets/chapter-02/Entrevistados/Raul.png" alt="EntrevistaRaul" border="0"> |
-|Resumen: | En esta ocasión entrevistó a la especialista Raul Ayala. En la entrevista el resalta la importancia de la hidroponia para producir alimentos agricolas en espacios resucidos. Así mismo, Raul menciona que una aplicación de hidroponia podría ayudar a llegar a gente de todo tipo, tanto practicantes o especialistas. Por último, el dice que se encuentra interesada en una plataforma digital que abarque muchos temas de hidroponia, que ayude tanto a pacientes como a especialistas.|
+|Resumen: | |
 | Link: | https://drive.google.com/file/d/1XxdL5KOEuNsJjLlBib8A0JdWKgitCb6y/view?usp=sharing |
-
 
 
 ### 2.2.3 Análisis de entrevistas

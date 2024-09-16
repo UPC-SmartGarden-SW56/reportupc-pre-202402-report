@@ -502,7 +502,6 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### Entrevistas segmento 1: Beginners
 #### Entrevista 1:
-
 Datos del entrevistador:
 * Nombres: Carlos
 * Apellidos: 
@@ -529,7 +528,6 @@ tiempo en buscar guías o consejos para sus cultivos hidropónicos.
 
 
 #### Entrevista 2:
-
 Datos del entrevistador:
 * Nombres:
 * Apellidos:
@@ -557,7 +555,6 @@ consejos y guías para empezar su proyecto sería de gran ayuda para la
 comunidad de hidroponía
 
 #### Entrevista 3:
-
 Datos del entrevistador:
 * Nombres:
 * Apellidos:
@@ -585,7 +582,6 @@ los espacios sostenibles para tener una mejora como pais.
 
 ### Entrevistas segmento 1: Experts 
 #### Entrevista 1:
-
 Datos del entrevistador:
 * Nombres:
 * Apellidos:
@@ -611,7 +607,6 @@ que la oriente en su camino de aprendizaje así como ella está
 dispuesta a hacer con las personas que necesiten una guía.
 
 #### Entrevista 2:
-
 Datos del entrevistador:
 * Nombres:
 * Apellidos:
@@ -637,38 +632,50 @@ practicantes o especialistas. Por último, el dice que se encuentra
 interesada en una plataforma digital que abarque muchos temas de hidroponia, 
 que ayude tanto a pacientes como a especialistas.
 
-| Registro de entrevista 2 | | 
-|:------------ |:------------:|
-| Nombre:     | Raul Ayala       |
-| Edad:       | 25 |
-| Distrito: | Lima |
-| Timing: | 5:50|
-|Caputura| <img src="assets/chapter-02/Entrevistados/Raul.png" alt="EntrevistaRaul" border="0"> |
-|Resumen: | |
-| Link: | https://drive.google.com/file/d/1XxdL5KOEuNsJjLlBib8A0JdWKgitCb6y/view?usp=sharing |
-
 
 ### 2.2.3 Análisis de entrevistas
 
 **Segmento Objetivo: Interesados en hidroponía**
 
-Los testimonios reflejan un interés común en la hidroponía, impulsado por el deseo de cultivar alimentos frescos, saludables y naturales. Paul Gamero y Brenda comparten la frustración de no encontrar información clara o accesible para comenzar sus proyectos, lo que retrasa sus aspiraciones de autoabastecimiento. David Burgos se siente abrumado por la sobrecarga de información en línea, lo que le ha llevado a desistir en varias ocasiones. Tanto Paul como David ven el valor en la creación de una plataforma específica para hidroponía que centralice guías, consejos y foros de discusión. Todos coinciden en que una herramienta digital dedicada no solo les ahorraría tiempo y esfuerzo, sino que fomentaría una comunidad donde se compartan experiencias y conocimientos. Esto refleja una clara necesidad de una solución tecnológica que apoye a entusiastas y principiantes de la hidroponía, facilitando su acceso a información confiable y práctica.
+Los testimonios reflejan un interés común en la hidroponía, 
+impulsado por el deseo de cultivar alimentos frescos, saludables y 
+naturales. Paul Gamero y Brenda comparten la frustración de no encontrar 
+información clara o accesible para comenzar sus proyectos, lo que retrasa 
+sus aspiraciones de autoabastecimiento. David Burgos se siente abrumado por 
+la sobrecarga de información en línea, lo que le ha llevado a desistir en varias 
+ocasiones. Tanto Paul como David ven el valor en la creación de una plataforma 
+específica para hidroponía que centralice guías, consejos y foros de discusión. 
+Todos coinciden en que una herramienta digital dedicada no solo les ahorraría tiempo 
+y esfuerzo, sino que fomentaría una comunidad donde se compartan experiencias y 
+conocimientos. Esto refleja una clara necesidad de una solución tecnológica que 
+apoye a entusiastas y principiantes de la hidroponía, facilitando su acceso a 
+información confiable y práctica.
 
 **Segmento Objetivo: Expertos en hidroponía**
 
-Los testimonios de Nélida Ruiz y Raúl Ayala, ambos expertos en hidroponía, destacan la importancia de contar con orientación y recursos adecuados para avanzar en el aprendizaje de esta técnica. Nélida comparte que, durante su proceso de formación, tuvo que acudir a diversas fuentes, lo que dificultó su camino. Resalta la necesidad de tener un guía que haga el proceso más sencillo, y ahora está dispuesta a ofrecer ese acompañamiento a otros. Por su parte, Raúl subraya la eficiencia de la hidroponía para cultivar en espacios reducidos y propone la creación de una plataforma digital que sirva tanto a principiantes como a expertos. Ambos coinciden en que una herramienta tecnológica podría centralizar información y facilitar el acceso al conocimiento, haciendo más accesible y atractivo el aprendizaje de la hidroponía, y favoreciendo la creación de una comunidad donde se compartan experiencias y apoyo mutuo.
+Los testimonios de Nélida Ruiz y Raúl Ayala, ambos expertos en hidroponía, 
+destacan la importancia de contar con orientación y recursos adecuados para avanzar 
+en el aprendizaje de esta técnica. Nélida comparte que, durante su proceso de formación, 
+tuvo que acudir a diversas fuentes, lo que dificultó su camino. Resalta la necesidad de 
+tener un guía que haga el proceso más sencillo, y ahora está dispuesta a ofrecer ese 
+acompañamiento a otros. Por su parte, Raúl subraya la eficiencia de la hidroponía 
+para cultivar en espacios reducidos y propone la creación de una plataforma digital 
+que sirva tanto a principiantes como a expertos. Ambos coinciden en que una herramienta 
+tecnológica podría centralizar información y facilitar el acceso al conocimiento, 
+haciendo más accesible y atractivo el aprendizaje de la hidroponía, y favoreciendo la 
+creación de una comunidad donde se compartan experiencias y apoyo mutuo.
 
 ## 2.3 Needfinding 
 
 ### 2.3.1 User Personas
 
-**Segmento de interesados en la hidroponía:**
+**Segmento de principiantes en la hidroponía:**
 
-![User Persona Interesado](https://media.discordapp.net/attachments/1091453401205854218/1280410987937140766/User_Persona-Interesado.png?ex=66d7fb28&is=66d6a9a8&hm=8990a42e130008a34a42df166ce33c2ef1357dcb012ce361f33950ea1977d153&=&format=webp&quality=lossless&width=315&height=473) 
+![User Persona-beginner](https://github.com/user-attachments/assets/99b92341-3b72-4f41-8887-7159308e4374)
 
 **Segmento de expertos en hidroponía:**
 
-![User Persona Experto](https://media.discordapp.net/attachments/1091453401205854218/1280411032325459988/User_Persona-Experto.png?ex=66d7fb32&is=66d6a9b2&hm=456fe715569123ee4c2461a27ebbc9873ade9ed3fcb9a1bffe685b27be6b3184&=&format=webp&quality=lossless&width=315&height=473)
+![User Persona-Expert](https://github.com/user-attachments/assets/86edc890-f7e5-4088-9e1a-1e1ceaad21e5)
 
 ### 2.3.2 User Task Matrix
 
@@ -701,29 +708,30 @@ Los testimonios de Nélida Ruiz y Raúl Ayala, ambos expertos en hidroponía, de
 | Evaluar la eficacia de la enseñanza | Media | Alta |
 
 
-
-
-
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
-**Segmento 1 - Principiantes:**   
-<img src="../assets/chapter-02/User-Journey/journey01.png" alt="Principiante">
+**Segmento 1 - Beginners:**   
 
-**Segmento 2 - Expertos:**   
-<img src="..//assets/chapter-02/User-Journey/Journey02.png" alt="Experto">
+![journey-Beginners](https://github.com/user-attachments/assets/bdf1fe30-1b64-465b-a63d-9cd3131d5409)
+
+**Segmento 2 - Experts:**   
+
+![Journey-Experts](https://github.com/user-attachments/assets/263f1b5a-b613-4802-811d-a43ef216761c)
 
 ### 2.3.4. Empathy Mapping
 
 En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
 
-**Segmento 1 - Principiantes:**
-<img src="..//assets/chapter-02/Empathy/empathy1.png" alt="Principiante">
+**Segmento 1 - Beginners:**
 
-**Segmento 2 - Expertos:**
-<img src="..//assets/chapter-02/Empathy/empathy2.png" alt="Experto">
+![empathy-Beginners](https://github.com/user-attachments/assets/2cbef570-8bd6-45f7-af90-291582204c97)
+
+**Segmento 2 - Experts:**
+
+![empathy-Experts](https://github.com/user-attachments/assets/57bb6740-5a07-415f-aab7-26c91605dbd5)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -731,11 +739,10 @@ Los escenarios AS-IS brindan una visión detallada de los pasos, pensamientos y 
 Estos escenarios permiten comprender sus necesidades y desafíos actuales, lo que ayuda al equipo a diseñar una experiencia más efectiva y enfocada en resolver problemas reales. 
 Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfaga las expectativas y proporcione soluciones alineadas con las experiencias actuales de los usuarios, resultando en un producto más exitoso y relevante.
 
-**Segmento 1 - Principiante**  
-<img src="..//assets/chapter-02/Scenario-mapping/Asis1.png" alt="As-IS Scenario Mapping 1">
-
-**Segmento 2 - Experto**  
-<img src="..//assets/chapter-02/Scenario-mapping/Asis2.png" alt="As-IS Scenario Mapping 2">
+**Segmento 1 - Beginners**  
+![As-is-Beginners](https://github.com/user-attachments/assets/67205295-370e-4cf2-adf5-af1dd7fd9595)
+**Segmento 2 - Experts**  
+![As-is-Experts](https://github.com/user-attachments/assets/7952f5d2-1313-4ad4-8606-b76a5e4ae929)
 
 ## 2.4. Ubiquitous Language.
 
@@ -761,13 +768,13 @@ Al analizar los AS-IS, el producto puede ser desarrollado de manera que satisfag
 
 Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben.
 
-**Segmento 1: Owner**
+**Segmento 1: Beginners**
 
-<img src="../assets/chapter-03/To-be-scenario/ToBe1.jpg" alt="Imagen To Be Mapping 1">
+![To-Be-Beginners](https://github.com/user-attachments/assets/9902d116-b127-4553-86f5-55ede4e50745)
 
-**Segmento 2: User**
+**Segmento 2: Experts**
 
-<img src="../assets/chapter-03/To-be-scenario/Tobe2.jpg" alt="Imagen To Be Mapping 2">
+![To-Be-Experts](https://github.com/user-attachments/assets/a2c88001-b17b-4907-8f45-434667f1ac11)
 
 ## 3.2. User Stories
 
@@ -1126,13 +1133,13 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
-**Segmento 1: Principiante**
+**Segmento 1: Beginners**
 
 
 <img src="../assets/chapter-03/Impactmap1.png" alt="Imagen Impact Mapping 1">
 
 
-**Segmento 2: Experto**
+**Segmento 2: Experts**
 
 
 <img src="../assets/chapter-03/Impactmap2.png" alt="Imagen Impact Mapping 2">

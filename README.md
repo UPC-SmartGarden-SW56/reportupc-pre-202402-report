@@ -1674,25 +1674,25 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 - Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-AppWeb-SmartGarden](https://github.com/UPC-SmartGarden-SW56)
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN1.png)
+![DeploymentN1](https://github.com/user-attachments/assets/08214968-cad4-4a27-bad5-f05c4b0a6706)
 
 - Seleccionar el repositorio de la landing page del proyecto.
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN2.png)
+![DeploymentN2](https://github.com/user-attachments/assets/3d37869d-a8d3-4949-95ad-50e905b6e39a)
 
 - Clonar el repositorio en Webstorm utilizando la URL del repositorio.
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN3.png)
+![DeploymentN3](https://github.com/user-attachments/assets/20d24341-4be2-4fad-846b-07882a28a953)
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN4.png)
+![DeploymentN4](https://github.com/user-attachments/assets/f960f2cf-08d4-4ea1-aeaa-7afd0222819f)
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN5.png)
+![DeploymentN5](https://github.com/user-attachments/assets/8b0e7410-291a-4691-a50d-98ce5dfa8852)
 
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN6.png)
+![DeploymentN6](https://github.com/user-attachments/assets/8f6e5604-7019-4f8e-98dc-ee5ca459070c)
 
-![Organizacion SmartGarden](../assets/chapter-05/img/DeploymentN7.png)
+![DeploymentN7](https://github.com/user-attachments/assets/1d7b8349-662e-4943-a165-e19d433f0039)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -1780,22 +1780,24 @@ la version web para escritorio como la version mobile:
 
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page/)
 
-![Landing02](../assets/chapter-05/images/DeployN4.png)
+![DeployN4](https://github.com/user-attachments/assets/3a3f7011-aa29-4eae-b001-27b0e06232bf)
+
 Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos.
 
-![Landing02](../assets/chapter-05/images/DeployN5.png)
+![DeployN5](https://github.com/user-attachments/assets/e4ff016f-6565-4be2-9270-92d4fbc3559e)
+
 Quienes somos, sección donde se muestra información sobre la empresa y que nos dedicamos.
 
-![Landing02](../assets/chapter-05/images/DeployN6.png)
+![DeployN6](https://github.com/user-attachments/assets/3d2a1feb-1ec4-4182-8cab-9c1033cf0694)
 Servicios, sección donde se muestra los servicios que ofrecemos.
 
-![Landing02](../assets/chapter-05/images/DeployN7.png)
+![DeployN7](https://github.com/user-attachments/assets/aa4418a3-f247-4b35-ad3b-8a9154e2f5ef)
 Precios, sección donde se muestra los precios de los servicios que ofrecemos.
 
-![Landing02](../assets/chapter-05/images/DeployN8.png)
+![DeployN8](https://github.com/user-attachments/assets/963aeca2-c5d0-4f55-ab65-17a890bff28f)
 Integrantes, sección donde se muestra información sobre los integrantes del equipo.
 
-![Landing02](../assets/chapter-05/images/DeployN9.png)
+![DeployN9](https://github.com/user-attachments/assets/21ece859-f1a9-4d54-ab3e-bd913d6b51d2)
 Footer, sección donde se muestra información de contacto y redes sociales.
 
 
@@ -1809,14 +1811,18 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 **Pasos**
 
 - Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
-  ![Landing02](../assets/chapter-05/images/DeployN1.png)
+
+![DeployN1](https://github.com/user-attachments/assets/567566a8-18a5-49a8-9bed-6c7cf374c6cb)
 
 - Seleccionamos la rama main para ejecutar el deploy y damos a guardar
-  ![Landing02](../assets/chapter-05/images/DeployN2.png)
-- ![Landing02](../assets/chapter-05/images/DeployN3.png)
+
+![DeployN2](https://github.com/user-attachments/assets/ba9cac79-6f0a-40a0-abd2-5d3c29dc3592)
+![DeployN3](https://github.com/user-attachments/assets/db4c2d1e-f87d-4fb7-8417-61a8fbf4bd3b)
 
 - Ingresamos el dominio de la landing page
-![Landing02](../assets/chapter-05/images/Deploy.png)
+
+![Deploy](https://github.com/user-attachments/assets/8baf4e6c-2c1a-4b2c-a162-621215df4cb0)
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Colaboración por alumno en la Landing Page:

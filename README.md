@@ -188,11 +188,11 @@ En esta parte utilizamos el 5w 2h para conocer los puntos importantes del proble
 
 **What?(Que)**
 ¿Cuál es el problema?
-El problema que existe en los usuarios interesados en la hidroponía es la falta de conocimiento acerca de la creación de proyectos domésticos, así como la forma de cultivar y como mantenerlos a lo largo del tiempo.
+El problema que existe en los usuarios interesados en la hidroponía es la falta de información y ayuda sobre la hidroponía en internet, así como la forma de cultivar y como mantenerlos a lo largo del tiempo.
 
 **When?(Cuando)**
 ¿Cuándo sucede el problema?
-El problema se presenta cuando los interesados en la hidroponía buscan información sobre esta y no logra encontrar lo que necesita, impidiendo poder tener proyectos domésticos en casa.
+El problema se presenta cuando los interesados en la hidroponía buscan información sobre esta y no logra encontrar lo que necesita o la información es muy escasa y no es clara, impidiendo poder tener proyectos domésticos en casa.
 
 **Where?(Donde)**
 ¿Dónde está el problema? 

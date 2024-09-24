@@ -234,8 +234,12 @@ Durante los commits del primer Sprint, se utilizaron las herramientas Visual Stu
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
 | ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-||||||||
-
+|US14|Visualizar cursos publicados	|W201|Cursos publicados|Implemntacion de cursos creados por los expertos|6 horas|Carlos|Done   |
+|US04|Gestión de compra de cursos	|W202|Compra de cursos|Implentacion de comprar cursos|5 horas|Alexander|Done   |
+|US04|Gestión de planes	|W203|Planes|Colocar curossn en un carrito de compras|4 horas|Camila|Done   |
+|US05|Visualizar inicio del experto	|W204|Visualizar experto|Se mostara las opciones que un experte puede realizar |4 horas|Alexander|Done   |
+|US19|Suscripción a Planes de Pago|W205|Componente de suscripcion | Creacion del componente que permite a los usuarios pagar una suscripcion. | 3 horas | Vladimr | Done   |
+|US09|Visualizar inicio|W206|Inicio | Visualizacion de la primera interccion con la aplicion | 2 horas | Camila | Done   |
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 

@@ -494,22 +494,18 @@ Debido a las diversas opciones que tienen los usuarios para poder satisfacer la 
 
 ### 2.2.2 Registro de entrevistas 
 
-***Enlace Entrevistas:*** https://drive.google.com/drive/folders/1yNNuXmFwRDqhpQdcAVOF7vRsDDNnkzpx?usp=sharing
+***Enlace Entrevistas:*** 
+[Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EbXBzUlDLElLjyFH86eq-MEB6w7T7WXdGnhp8nO_Rqqe_w?e=PDGxyG)
 
 ### Entrevistas segmento 1: Beginners
 #### Entrevista 1:
-Datos del entrevistador:
-* Nombres: Carlos
-* Apellidos: 
-
 Datos del entrevistado:
 * Nombres: Paul 
 * Apellidos: Gamero Lizana
 * Edad: 21
 * Distrito de residencia: San Martín de Porres
 * Tiempo inicio de la entrevista: 0:00
-* Tiempo fin de la entrevista: 0:00
-* Tiempo total de duración: 3:41
+* Tiempo fin de la entrevista: 2:37
 
 ![Entrevista-carlos](https://github.com/user-attachments/assets/2fdc44ed-6789-4ef5-a0bd-d1dea0248ce3)
 
@@ -524,18 +520,13 @@ tiempo en buscar guías o consejos para sus cultivos hidropónicos.
 
 
 #### Entrevista 2:
-Datos del entrevistador:
-* Nombres:
-* Apellidos:
-
 Datos del entrevistado:
 * Nombres: Brenda
 * Apellidos: Calderón
 * Edad: 22
 * Distrito de residencia: Cercado de Lima
-* Tiempo inicio de la entrevista: 0:00
-* Tiempo fin de la entrevista: 0:00
-* Tiempo total de duración: 5:13
+* Tiempo inicio de la entrevista: 2:38
+* Tiempo fin de la entrevista: 6:21
 
 ![entrevista-nicolas](https://github.com/user-attachments/assets/6bc4c201-5e53-4200-95a3-0d1a684c4f65)
 
@@ -551,18 +542,13 @@ consejos y guías para empezar su proyecto sería de gran ayuda para la
 comunidad de hidroponía
 
 #### Entrevista 3:
-Datos del entrevistador:
-* Nombres:
-* Apellidos:
-
 Datos del entrevistado:
 * Nombres: Edgar
 * Apellidos: Vega Dias
 * Edad: 45
 * Distrito de residencia: 
-* Tiempo inicio de la entrevista: 0:00
-* Tiempo fin de la entrevista: 0:00
-* Tiempo total de duración: 
+* Tiempo inicio de la entrevista: 6:22
+* Tiempo fin de la entrevista: 9:03
 
 ![Entrevista-nicolas2](https://github.com/user-attachments/assets/46135bf3-4d3e-434c-a045-d81d8010b4f9)
 
@@ -578,18 +564,13 @@ los espacios sostenibles para tener una mejora como pais.
 
 ### Entrevistas segmento 1: Experts 
 #### Entrevista 1:
-Datos del entrevistador:
-* Nombres:
-* Apellidos:
-
 Datos del entrevistado:
 * Nombres: Nelida
 * Apellidos: Ruiz Agurto
 * Edad: 78
 * Distrito de residencia: Callao
-* Tiempo inicio de la entrevista: 0:00
-* Tiempo fin de la entrevista: 0:00
-* Tiempo total de duración: 7:46
+* Tiempo inicio de la entrevista: 9:04
+* Tiempo fin de la entrevista: 14:35
 
 ![entrevista-camila](https://github.com/user-attachments/assets/31456bfb-73ab-412e-9dc5-fb59e39e3501)
 
@@ -603,18 +584,13 @@ que la oriente en su camino de aprendizaje así como ella está
 dispuesta a hacer con las personas que necesiten una guía.
 
 #### Entrevista 2:
-Datos del entrevistador:
-* Nombres:
-* Apellidos:
-
 Datos del entrevistado:
 * Nombres: Raul
 * Apellidos: Ayala
 * Edad: 25
 * Distrito de residencia: Lima
-* Tiempo inicio de la entrevista: 0:00
-* Tiempo fin de la entrevista: 0:00
-* Tiempo total de duración: 5:50
+* Tiempo inicio de la entrevista: 14:36
+* Tiempo fin de la entrevista: 18:46
 
 ![Entrevista-Justo](https://github.com/user-attachments/assets/d91097c3-ca6d-420f-81d8-bfe4ceb18e1c)
 
@@ -628,6 +604,32 @@ practicantes o especialistas. Por último, el dice que se encuentra
 interesada en una plataforma digital que abarque muchos temas de hidroponia, 
 que ayude tanto a pacientes como a especialistas.
 
+#### Entrevista 2:
+Datos del entrevistado:
+* Nombres: Johan
+* Apellidos: Diestra
+* Edad: 21
+* Distrito de residencia: San Miguel
+* Tiempo inicio de la entrevista: 18:47
+* Tiempo fin de la entrevista: 23:44
+
+![Entrevista-Vladimir](![Screenshot 2024-09-23 013014](https://github.com/user-attachments/assets/e02ac740-756a-4cdb-8bc5-0c9437ebc3ef))
+
+**Informe del resumen de la entrevista:**
+Johann  Deztra, de 21 años y residente en San Miguel, Lima, 
+compartió su experiencia en hidroponía, la cual inició hace 
+tres años al investigar sobre nutrientes para cultivos hidropónicos. 
+Actualmente es gerente comercial de una tienda de fertilizantes y 
+tiene un huerto hidropónico en casa, donde prueba nuevos productos. 
+Los principales retos que enfrenta incluyen la falta de luz, control 
+de enfermedades y manejo de soluciones nutritivas, los cuales aborda con 
+el uso de equipos adecuados y un diario de cultivo. Aunque el aprendizaje 
+fue inicialmente abrumador, Johann valoró la perseverancia y la práctica 
+para adquirir conocimientos, y hubiera deseado mayor acceso a comunidades 
+y guías detalladas en sus inicios. Está interesado en compartir su experiencia 
+con principiantes a través de contenido educativo y consideraría útil una 
+aplicación que conecte a usuarios mediante foros, chats, bases de datos y 
+herramientas para mejorar la gestión de cultivos.
 
 ### 2.2.3 Análisis de entrevistas
 

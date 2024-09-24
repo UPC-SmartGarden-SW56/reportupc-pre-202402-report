@@ -223,13 +223,19 @@ Durante los commits del primer Sprint, se utilizaron las herramientas Visual Stu
 | Time                       | 20:00                                                                                                                                                                                                  |
 | Location                   | Reunión realizada mediante Discord                                                                                                                                                                     |
 | Prepared By                | De La Cruz Villarreal, Carlos Alejandro                                                                                                                                                                  |
-| Attendees                  | J<li>De La Cruz Villarreal, Carlos Alejandro </li>	 <li>Jara Benites, Quique Vladimir </li> <li>Justo Yauricas, Alexander Poalo </li> <li>Conde Isla, Camila Alessandra </li> <li>Vera Nuñez, Nicolas Alejandro</li> |
+| Attendees                  | <li>De La Cruz Villarreal, Carlos Alejandro </li>	 <li>Jara Benites, Quique Vladimir </li> <li>Justo Yauricas, Alexander Poalo </li> <li>Conde Isla, Camila Alessandra </li> <li>Vera Nuñez, Nicolas Alejandro</li> |
 | Sprint Goal & User Stories |                                                                                                                                                                                                        |
 | Sprint 2 Goal              | Implementación de frontend y fake api                                                                                                                                                                  |
 | Sprint 2 Velocity          | 45                                                                                                                                                                                                     |
 | Sum of Story Points        | 41                                                                                                                                                                                                     |
 
 #### 5.2.2.2 Sprint Backlog 2
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+||||||||
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 

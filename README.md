@@ -213,5 +213,19 @@ link:
 Durante los commits del primer Sprint, se utilizaron las herramientas Visual Studio Code, IntelliJ IDE y Git. Uno de los miembros realizó el primer commit para crear el repositorio, luego clonamos dicho repositorio utilizando Git. Posteriormente, los cambios se realizaron en Visual Studio Code/IntelliJ IDE, se crearon ramas (branches) para estos cambios, y finalmente se efectuaron los commits, los cuales fueron revisados en el repositorio de Github.
 
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
 
+#### 5.2.2.2 Sprint Backlog 2
 
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.

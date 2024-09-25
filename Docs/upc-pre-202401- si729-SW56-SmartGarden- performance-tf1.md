@@ -262,6 +262,6 @@ Esta clase se encarga de gestionar las comunidades que los usuarios pueden forma
 Esta clase administra la información sobre los precios de las suscripciones y su frecuencia de pago. Está relacionada con la tabla de enumeración Frequency, que especifica si la suscripción es mensual o anual.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="../assets/chapter-04/SmartGarden_Data_Base.png">
+<img src="../assets/chapter-04/Smart_Garden_Data_Base.png">
 <a href="https://my.vertabelo.com/doc/7M3IdVR3mhNUpFFywgMIfUjPGq7moNJv">Diagrama de Base de datos</a>
 

@@ -2330,7 +2330,7 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
    </tr>
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.2.3. Development Evidence for Sprint Review
 | Repository   | Branch               | Commit Id | Commit Message                         | Commit Message Body | Committed on (Date) |
 |--------------|----------------------|-----------|----------------------------------------|---------------------|---------------------|
 |front-end|feature/register-user| 7b7b7b7 | feat: add register user | - | 17/09/2024 |
@@ -2347,7 +2347,7 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 |landing-page|Add files via upload| b52b135 | feature/ Add files | - | 24/09/2024 |
 |landing-page|Update index.html| 50e9993 | ffeature/ Add files | - | 24/09/2024 |
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
 
@@ -2370,7 +2370,7 @@ Descripción:
 
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
 Durante el primer Sprint se logró implementar la landing page con las secciones funcionales,
 el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto
 la version web para escritorio como la version mobile:
@@ -2378,9 +2378,9 @@ la version web para escritorio como la version mobile:
 Link de front-end desplegado:
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
 
 **Pasos**
@@ -2392,7 +2392,7 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 - Ingresamos el dominio de la landing page
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 Colaboración por alumno en la Landing Page:
 
 <table>

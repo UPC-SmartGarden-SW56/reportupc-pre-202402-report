@@ -1376,6 +1376,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
 **Segmento 1: Beginners**
+![impactPrincipiante](https://github.com/user-attachments/assets/fee061dc-c90b-4c89-ba4e-209738093bdc)
 
 
 **Segmento 2: Experts**
@@ -1384,6 +1385,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
 ## 3.4. Product Backlog
+
 
 <table border="1px" style="text-align: center; width: 100%;">
 <tr>

@@ -1121,6 +1121,197 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> el sistema le muestra un aviso de que su scooter no ha sido actualizado.<br/>
         <td>EP03</td>
     </tr>
+    <tr>
+        <td>TS01</td>
+        <td> POST User </td>
+        <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse
+        <b>Quiero</b> registrar a un nuevo usuario mediante una API,
+        <b>Para</b> visualizar los usuarios afiliados a nuestra aplicación..</td>
+        <td>
+            <b>Scenario 1: </b> <br/>
+            <b>Dado que</b> tengo acceso a la API de registro de usuarios <br/>
+            <b>Cuando</b> envío una solicitud con datos válidos de un nuevo usuario<br/>
+            <b>Entonces</b> el usuario se registra exitosamente en la base de datos y recibo una confirmación.<br/>
+            <br>
+            <b>Scenario 2: </b> <br/>
+            <b>Dado que</b> tengo acceso a la API de registro de usuarios<br/>
+            <b>Cuando</b> envío una solicitud con datos inválidos de un nuevo usuario,<br/>
+            <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br/>
+            <br>
+        <td></td>
+    </tr>
+    <tr>
+    <td>TS02</td>
+    <td>POST Course</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> registrar un nuevo curso mediante una API,<br>
+    <b>Para</b> que los usuarios puedan inscribirse y ver el contenido.</td>
+    <td>
+        <b>Scenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de registro de cursos,<br>
+        <b>Cuando</b> envío una solicitud con datos válidos de un nuevo curso,<br>
+        <b>Entonces</b> el curso se registra exitosamente en la base de datos y recibo una confirmación.<br>
+        <br>
+        <b>Scenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de registro de cursos,<br>
+        <b>Cuando</b> envío una solicitud con datos inválidos del curso,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS03</td>
+    <td>POST Module</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> registrar un nuevo módulo dentro de un curso mediante una API,<br>
+    <b>Para</b> permitir a los usuarios avanzar en sus lecciones.</td>
+    <td>
+        <b>Scenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de registro de módulos,<br>
+        <b>Cuando</b> envío una solicitud con datos válidos de un nuevo módulo,<br>
+        <b>Entonces</b> el módulo se registra exitosamente y recibo una confirmación.<br>
+        <br>
+        <b>Scenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de registro de módulos,<br>
+        <b>Cuando</b> envío una solicitud con datos inválidos del módulo,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS04</td>
+    <td>POST Community Forum</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> crear una nueva comunidad o foro mediante una API,<br>
+    <b>Para</b> que los usuarios puedan discutir temas de interés sobre hidroponía.</td>
+    <td>
+        <b>Scenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de creación de comunidades,<br>
+        <b>Cuando</b> envío una solicitud con datos válidos de una nueva comunidad,<br>
+        <b>Entonces</b> la comunidad se crea exitosamente y recibo una confirmación.<br>
+        <br>
+        <b>Scenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de creación de comunidades,<br>
+        <b>Cuando</b> envío una solicitud con datos inválidos de la comunidad,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS05</td>
+    <td>POST Forum Comment</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> registrar un nuevo comentario en el foro mediante una API,<br>
+    <b>Para</b> que los usuarios puedan interactuar en las discusiones de las comunidades.</td>
+    <td>
+        <b>Escenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de comentarios en el foro,<br>
+        <b>Cuando</b> envío una solicitud con un comentario válido,<br>
+        <b>Entonces</b> el comentario se publica exitosamente y recibo una confirmación.<br>
+        <br>
+        <b>Escenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de comentarios en el foro,<br>
+        <b>Cuando</b> envío una solicitud con un comentario inválido,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS06</td>
+    <td>GET Users</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> recuperar la lista de usuarios mediante una API,<br>
+    <b>Para</b> ver quiénes están registrados en el sistema.</td>
+    <td>
+        <b>Scenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de usuarios,<br>
+        <b>Cuando</b> envío una solicitud de obtención de datos,<br>
+        <b>Entonces</b> recibo una lista con todos los usuarios registrados.<br>
+        <br>
+        <b>Scenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de usuarios,<br>
+        <b>Cuando</b> la solicitud falla debido a problemas del servidor,<br>
+        <b>Entonces</b> recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS07</td>
+    <td>GET Courses</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> obtener una lista de cursos mediante una API,<br>
+    <b>Para</b> mostrar los cursos disponibles a los usuarios.</td>
+    <td>
+        <b>Escenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de cursos,<br>
+        <b>Cuando</b> envío una solicitud de obtención de datos,<br>
+        <b>Entonces</b> recibo una lista de los cursos disponibles.<br>
+        <br>
+        <b>Escenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de cursos,<br>
+        <b>Cuando</b> la solicitud falla debido a problemas del servidor,<br>
+        <b>Entonces</b> recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS08</td>
+    <td>GET Forum Messages</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> obtener los mensajes del foro mediante una API,<br>
+    <b>Para</b> visualizar las discusiones en las comunidades.</td>
+    <td>
+        <b>Escenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de mensajes del foro,<br>
+        <b>Cuando</b> envío una solicitud de obtención de datos,<br>
+        <b>Entonces</b> recibo una lista con todos los mensajes del foro.<br>
+        <br>
+        <b>Escenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de mensajes del foro,<br>
+        <b>Cuando</b> la solicitud falla debido a problemas del servidor,<br>
+        <b>Entonces</b> recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS09</td>
+    <td>PUT Course</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> actualizar un curso mediante una API,<br>
+    <b>Para</b> modificar su contenido o información.</td>
+    <td>
+        <b>Escenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de cursos,<br>
+        <b>Cuando</b> envío una solicitud con datos válidos para actualizar un curso,<br>
+        <b>Entonces</b> el curso se actualiza correctamente y recibo una confirmación.<br>
+        <br>
+        <b>Escenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de cursos,<br>
+        <b>Cuando</b> envío una solicitud con datos inválidos para actualizar un curso,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    <tr>
+    <td>TS10</td>
+    <td>PUT Module</td>
+    <td><b>Cómo</b> desarrollador que trabaja en la aplicación de Greenhouse,<br>
+    <b>Quiero</b> actualizar un módulo de un curso mediante una API,<br>
+    <b>Para</b> ajustar su contenido o información.</td>
+    <td>
+        <b>Escenario 1:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de módulos,<br>
+        <b>Cuando</b> envío una solicitud con datos válidos para actualizar un módulo,<br>
+        <b>Entonces</b> el módulo se actualiza correctamente y recibo una confirmación.<br>
+        <br>
+        <b>Escenario 2:</b> <br>
+        <b>Dado que</b> tengo acceso a la API de módulos,<br>
+        <b>Cuando</b> envío una solicitud con datos inválidos para actualizar un módulo,<br>
+        <b>Entonces</b> la solicitud es rechazada y recibo un mensaje de error adecuado.<br>
+    </td>
+    <td></td>
+    </tr>
+    
 </table>
 
 ## 3.3. Impact Mapping

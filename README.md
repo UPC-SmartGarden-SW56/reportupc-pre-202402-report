@@ -18,9 +18,9 @@
 
 ### Integrantes:
 
-</div>
 
-<div align="center">
+
+
 
 | Nombre       | Código       |
 |--------------|--------------|
@@ -30,11 +30,8 @@
 | Camila Alessandra Conde Isla | U202114309 |
 | Nicolas Alejandro Vera Nuñez | U202214869|
 
-</div>
 
-<div align="justify">
 
-<br>
 
 # Project Report Collaboration Insights
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
@@ -1847,7 +1844,7 @@ Colaboración por alumno en la Landing Page:
     <td>Implementación de la sección "Planes" de la Landing Page.</td>
   </tr>
   <tr>
-    <td>Nicolas Alejandro Vera Nuñez	</td>
+    <td>Alexander Paolo Justo Yauricasa	</td>
     <td>Implementación de la sección "Equipo de Desarrollo y footer" de la Landing Page.</td>
   </tr>
 </table>
@@ -1882,6 +1879,320 @@ Tabla para poder identificarnos:
 </table>
 
 Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo
+realizaron su aporte a través de commits en la herramienta Git Hub.
+
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 17/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 pm - 17:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Camila Alessandra Conde Isla  </td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Alexander Paolo Justo Yauricasa
+           <br>
+         Camila Alessandra Conde Isla
+          <br>
+         Jara Benites, Quique Vladimir
+          <br>
+         Carlos Alejandro De La Cruz Villarreal
+          <br>
+         Nicolas Alejandro Vera Nuñez
+     </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> No existe.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> No existe. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este </td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  18  </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 18 </td>
+      </tr>
+
+  </table>
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+  <table style="font-weight: normal; text-align: left;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> EP02-US08 </td>
+      <td colspan="3">Registrar usuario del front-end</td>
+      <td> W01  </td>
+      <td> Registrar usuario </td>
+      <td>Implementar Registro de usuario. </td>
+      <td> 2  </td>
+      <td> Alexander Paolo Justo Yauricasa </td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US09 </td>
+      <td colspan="3">Iniciar sesión del front-end</td>
+      <td> W02  </td>
+      <td> Iniciar sesión </td>
+      <td> Implementar Iniciar sesión  </td>
+      <td> 2  </td>
+      <td> Alexander Paolo Justo Yauricasa </td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US010 </td>
+      <td colspan="3">Visualizar perfil de usuario del front-end </td>
+      <td> W03  </td>
+      <td> Visualizar perfil de usuario </td>
+      <td> Implementar Visualizar perfil de usuario. </td>
+      <td> 2  </td>
+      <td> Camila Alessandra Conde Isla </td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US011 </td>
+      <td colspan="3">Cambiar datos personales del front-end </td>
+      <td> W04  </td>
+      <td> Cambiar datos personales </td>
+      <td> Implementar Cambiar datos personales </td>
+      <td> 1  </td>
+      <td> Camila Alessandra Conde Isla </td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US012 </td>
+      <td colspan="3">Eliminar cuenta de usuario </td>
+      <td> W05  </td>
+      <td> Eliminar cuenta de usuario </td>
+      <td>Implementar Eliminar cuenta de usuario. </td>
+      <td> 2  </td>
+      <td> Camila Alessandra Conde Isla</td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US015 </td>
+      <td colspan="3">Editar curso</td>
+      <td> W03  </td>
+      <td> Editar curso publicado </td>
+      <td> Editar curso o agregar modulos </td>
+      <td> 6  </td>
+      <td> Jara Benites, Quique Vladimir </td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US016 </td>
+      <td colspan="3">Visualizar curso</td>
+      <td> W03  </td>
+      <td> Visualizar informacion del curso</td>
+      <td> Visualizar lista de cursos dispponibles </td>
+      <td> 4  </td>
+      <td> Jara Benites, Quique Vladimir </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US015 </td>
+      <td colspan="3">Visualizar curso</td>
+      <td> W03  </td>
+      <td> Visualizar foro</td>
+      <td> Visualizar comentarios en el foro </td>
+      <td> 4  </td>
+      <td> Carlos Alejandro De La Cruz Villarreal</td> 
+      <td> process </td>
+   </tr>
+   <tr>
+      <td> EP02-US017 </td>
+      <td colspan="3">Agregar comentario en foro</td>
+      <td> W03  </td>
+      <td> Añadir comentario en foro de curso</td>
+      <td> Escribir comentario </td>
+      <td> 2  </td>
+      <td> Nicolas Alejandro Vera Nuñez </td> 
+      <td> process </td>
+   </tr>
+    <tr>
+      <td> EP02-US019 </td>
+      <td colspan="3">Añadir responsive</td>
+      <td> W03  </td>
+      <td> Agregar responsive</td>
+      <td> Agregar responsive para ser vista en multiples dispositivos </td>
+      <td> 6  </td>
+      <td> Nicolas Alejandro Vera Nuñez </td> 
+      <td> process </td>
+   </tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+| Repository   | Branch               | Commit Id | Commit Message                         | Commit Message Body | Committed on (Date) |
+|--------------|----------------------|-----------|----------------------------------------|---------------------|---------------------|
+|front-end|feature/register-user| 7b7b7b7 | feat: add register user | - | 17/09/2024 |
+|front-end|feature/login-user| 7b7b7b7 | feat: add login user | - | 17/09/2024 |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
+
+**1. Uso de Live Server de Microsoft Visual Studio Code**
+
+Propósito:
+- Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+
+Descripción:
+- Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+
+**2. Firefox Developer para Pruebas de Dimensiones Móviles**
+
+Propósito:
+- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
+
+Descripción:
+- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
+
+
+**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive**
+
+Propósito:
+- Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+
+Descripción:
+- Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+
+
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Durante el primer Sprint se logró implementar la landing page con las secciones funcionales,
+el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto
+la version web para escritorio como la version mobile:
+
+Link de front-end desplegado:
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
+
+**Pasos**
+
+- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
+
+- Seleccionamos la rama main para ejecutar el deploy y damos a guardar
+
+- Ingresamos el dominio de la landing page
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Colaboración por alumno en la Landing Page:
+
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Carlos Alejandro De La Cruz Villarreal	</td>
+    <td> a </td>
+  </tr>
+  <tr>
+    <td>Quique Vladimir Jara Benites</td>
+    <td> a </td>
+  </tr>
+  <tr>
+    <td>Nicolas Alejandro Vera Nuñez</td>
+    <td> a </td>
+  </tr>
+  <tr>
+    <td>Camila Alessandra Conde Isla	</td>
+    <td>a </td>
+  </tr>
+  <tr>
+    <td>Alexander Paolo Justo Yauricasa	</td>
+    <td>a </td>
+  </tr>
+</table>
+
+Tabla para poder identificarnos:
+
+<table>
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>AlexanderJusto</td>
+    <td>Alexander Paolo Justo Yauricasa	</td>
+  </tr>
+  <tr>
+    <td>Camilac07</td>
+    <td>Camila Alessandra Conde Isla	</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>CarlosDeLaCruzVillareal</td>
+    <td>Carlos Alejandro De La Cruz Villarreal</td>
+  </tr>
+  <tr>
+    <td>nicxlxs</td>
+    <td>Nicolas Alejandro Vera Nuñez</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación del front end, para esto los integrantes del grupo
 realizaron su aporte a través de commits en la herramienta Git Hub.
 
 

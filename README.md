@@ -1379,6 +1379,8 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
 **Segmento 2: Experts**
+![impactExpert](https://github.com/user-attachments/assets/103f2ba6-ecae-4099-9023-b85fdf22f29a)
+
 
 
 ## 3.4. Product Backlog

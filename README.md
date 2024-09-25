@@ -2268,6 +2268,17 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 |--------------|----------------------|-----------|----------------------------------------|---------------------|---------------------|
 |front-end|feature/register-user| 7b7b7b7 | feat: add register user | - | 17/09/2024 |
 |front-end|feature/login-user| 7b7b7b7 | feat: add login user | - | 17/09/2024 |
+|front-end| feature/navbar-learners | 92cff437 | feat: add learners navbar | - | 22/09/2024 |
+|front-end|feature/payment| 5009034 | feat: initial commit | - | 22/09/2024 |
+|front-end|feature/login-user| 2c1d55c | feat: initial commit | - | 22/09/2024 |
+|front-end|feature/login-user| f0b5a61 | feat(add): components lessons of a course view | - | 23/09/2024 |
+|front-end|feature/login-user| 489f116 | update(code): delete warming code | - | 23/09/2024 |
+|front-end|feature/login-user| ce4667f | feature/ Add Login | - | 23/09/2024 |
+|front-end|feature/login-user| aeb1f83 | feat: add register test | - | 24/09/2024 |
+|front-end|feature/login-user| 35e12d9 | feat(course): add view of created courses & filter | - | 24/09/2024 |
+|landing-page|Update index.html| 6ca0884 | feature/ Add files | - | 23/09/2024 |
+|landing-page|Add files via upload| b52b135 | feature/ Add files | - | 24/09/2024 |
+|landing-page|Update index.html| 50e9993 | ffeature/ Add files | - | 24/09/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -2281,17 +2292,7 @@ Propósito:
 Descripción:
 - Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
 
-
-**2. Firefox Developer para Pruebas de Dimensiones Móviles**
-
-Propósito:
-- Firefox Developer fue empleado para verificar la compatibilidad y el aspecto visual de la landing page en dispositivos móviles.
-
-Descripción:
-- Esta herramienta proporcionó un entorno de desarrollo amigable para simular diferentes dimensiones de pantalla y validar el diseño responsivo de la landing page en dispositivos móviles.
-
-
-**3. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive**
+**2. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive**
 
 Propósito:
 - Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
@@ -2393,4 +2394,7 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+
+- Landing Page [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page/)
+- Front-End Respository [Front-end](https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend.git)
 

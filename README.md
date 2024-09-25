@@ -1303,8 +1303,15 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
     <td valign="top"> Editar curso </td>
-    <td valign="top"> Cómo Experto de un scooter eléctrico Quiero editar la publicación un curso Para que la información proporcionada a los clientes esté siempre actualizada.</td>
+    <td valign="top"> Cómo Experto de Quiero editar la publicación un curso Para que la información proporcionada a los clientes esté siempre actualizada.</td>
     <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 16 </td>
+    <td valign="top"> US16 </td>
+    <td valign="top"> Progreso de curso </td>
+    <td valign="top"> Como Usuario Quiero visualizar el progreso de los cursos Para que las demas personas puedn ver mi progreso</td>
+    <td valign="top"> 2</td>
   </tr>
 </table>
 

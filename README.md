@@ -1124,6 +1124,62 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
 </table>
 
+Technical Story Sample
+
+Technical story: Agregar curso a través de API RESTful
+
+  Como experto
+  Quiero agregar un curso a través de API
+  Para que pueda estar disponible en la aplicación.
+
+Escenario: Agregar curso con nombre único
+    	Dado que el punto final "/api/v1/course" está disponible
+     	Cuando se envía una solicitud de publicación con valores de nombre, tiempo y planta
+     	Luego se recibe una respuesta con estado 201
+     	Y se incluye a la lista de cursos en el cuerpo de respuesta.
+
+Escenario: Agregar curso con nombre existente
+	Dado que el punto final "/api/v1/course" está disponible
+	Cuando se envía una solicitud de publicación con valores de nombre, tiempo y planta, y ya está almacenado un recurso curso con el mismo valor de nombre
+      Luego se recibe una respuesta con estado 400.
+      Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se cumplen todas las restricciones para los estudiantes: ya existe un estudiante con el mismo nombre".
+
+
+Technical story: Agregar Usuario a través de API RESTful
+
+  Como usuario
+  Quiero agregar un usuario a través de API
+  Para que pueda iniciar en la aplicación.
+
+Escenario: Registrar usuario no existente
+    	Dado que el punto final "/api/v1/user" está disponible
+     	Cuando se inscriben todos los datos del usuario como nombre, DNI y número telefónico
+     	Luego se recibe una respuesta con estado 201
+     	Y se incluye en la base de datos de usuarios.
+
+Escenario: Registrar usuario existente
+	Dado que el punto final "/api/v1/user" está disponible
+	Cuando se inscriben todos los datos del usuario como nombre, edad y número telefónico, y ya esta generado con el mismo valor de DNI
+      Luego se recibe una respuesta con estado 400.
+      Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "El usuario ya cuenta con una cuenta registrada en la aplicación".
+Technical story: Comprar un curso a través de API RESTful
+
+  Como usuario
+  Quiero comprar un curso a través de API
+  Para que pueda aprender del cuidado de sus plantas.
+
+Escenario: Comprar un curso
+    	Dado que el punto final "/api/v1/course " está disponible
+     	Cuando presione el botón de comprar
+	Y relleno los datos de las mis tarjetas de crédito
+     	Luego podre visualizar los cursos creados por los expertos.
+
+Escenario: Comprar un curso ya comporado
+	Dado que el punto final "/api/v1/course " está disponible
+     	Cuando presione el botón de comprar
+     	Luego recibirás un mensaje diciendo “Usted ya ha comprado este curso”.
+
+
 ## 3.3. Impact Mapping
 
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:

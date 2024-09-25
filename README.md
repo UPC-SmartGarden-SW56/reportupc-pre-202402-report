@@ -1797,7 +1797,7 @@ Esta clase se encarga de gestionar las comunidades que los usuarios pueden forma
 Esta clase administra la información sobre los precios de las suscripciones y su frecuencia de pago. Está relacionada con la tabla de enumeración Frequency, que especifica si la suscripción es mensual o anual.
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![Diagrama_DB](https://github.com/user-attachments/assets/08bccfdd-c76c-4499-8578-03d3c2aaea6b)
+![Diagrama_DB](![dbactualizado](https://github.com/user-attachments/assets/c35572db-5ac9-46d8-a6c7-1ee2d0812284))
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
@@ -2380,6 +2380,15 @@ Link de front-end desplegado:
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+![deploy6](https://github.com/user-attachments/assets/65954c20-f161-4623-bef1-c1b84e81ecac)
+![deploy4](https://github.com/user-attachments/assets/d85b1a23-3687-4868-9588-74a2b8c91bcf)
+![deploy2](https://github.com/user-attachments/assets/96d89850-664d-4bda-845d-00fb94aee8f8)
+![deploy3](https://github.com/user-attachments/assets/ee1538e2-7d45-41cc-b185-0782742530e7)
+![deploy1](https://github.com/user-attachments/assets/26f74145-8c71-475f-8309-58f2c85e2cf3)
+![deploy5](https://github.com/user-attachments/assets/b1ecaeb3-bd8c-4534-b3d0-625a49b35c14)
+[link](https://fake-api-smartgarden.vercel.app/)
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
 
@@ -2462,6 +2471,8 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
 
-- Landing Page [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page/)
+- Landing Page [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page.github.io/)
 - Front-End Respository [Front-end](https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend.git)
+- [link](https://fake-api-smartgarden.vercel.app/)
+
 

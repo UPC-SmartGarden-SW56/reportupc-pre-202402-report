@@ -2391,8 +2391,18 @@ Link de front-end desplegado:
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
-
+[DEPLOY](https://smartgardenn.netlify.app/login)
 **Pasos**
+![7](https://github.com/user-attachments/assets/73a094e5-4ac4-4033-bd60-dc32b056b65b)
+![8](https://github.com/user-attachments/assets/c614869e-ea5e-4263-9abb-d20c58077a48)
+![9](https://github.com/user-attachments/assets/20984258-82a0-4b36-a4b6-5011fc3d9a5f)
+![10](https://github.com/user-attachments/assets/465a7719-fe98-4eb3-8590-94e6430f98b2)
+![1](https://github.com/user-attachments/assets/9f7f6f61-b707-4fe2-b0e6-18cf5f70d9bf)
+![2](https://github.com/user-attachments/assets/2ed33acf-a402-489b-96ef-203b1c0ae6f3)
+![3](https://github.com/user-attachments/assets/b9e96796-bb6c-473f-ad60-bc3780eb1c38)
+![4](https://github.com/user-attachments/assets/1c4a0787-c369-4ddd-99a3-c937de706333)
+![5](https://github.com/user-attachments/assets/192eaf81-3e9d-4b9f-a267-34f2a9f5468e)
+![6](https://github.com/user-attachments/assets/1857dd84-eabb-4708-b445-2475891c877e)
 
 - Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
 

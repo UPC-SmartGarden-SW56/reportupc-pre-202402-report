@@ -2473,6 +2473,25 @@ Tabla para poder identificarnos:
 Para este sprint se ha realizado la implementación del front end, para esto los integrantes del grupo
 realizaron su aporte a través de commits en la herramienta Git Hub.
 
+### 5.2.2. Sprint 3
+#### 5.2.2.1. Sprint Planning 3 
+
+| Sprint #                        | Sprint 2                                           |
+|---------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**   |                                                    |
+| Date                             | 17/09/2024                                         |
+| Time                             | 15:00 pm - 17:00 pm                                |
+| Location                         | Modalidad remota a través de WhatsApp y Google Meets |
+| Prepared By                      | Camila Alessandra Conde Isla                       |
+| Attendees (to planning meeting)  | Alexander Paolo Justo Yauricasa <br> Camila Alessandra Conde Isla <br> Jara Benites, Quique Vladimir <br> Carlos Alejandro De la Cruz Villarreal <br> Nicolas Alejandro Vera Nuñez |
+| Sprint 0 Review Summary          | No existe                                         |
+| Sprint 0 Retrospective Summary   | No existe                                         |
+| **Sprint Goal & User Stories**   |                                                    |
+| Sprint 2 Goal                    | En este                                           |
+| Sprint 2 Velocity                | 18                                                |
+| Sum of Story Points              | 18                                                |
+
+
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)

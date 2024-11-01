@@ -2553,6 +2553,21 @@ Link: https://fake-api-smartgarden.vercel.app/
 
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla.
+https://smartgardenn.netlify.app/login 
+![f1](https://media.discordapp.net/attachments/1281809063390482563/1302055534521745479/1.png?ex=6726b936&is=672567b6&hm=d2832ae015c2747f39ab350120394c1b2c2f0f66dbd230e263df4adf3d55f670&=&format=webp&quality=lossless&width=550&height=284)
+![f2](https://media.discordapp.net/attachments/1281809063390482563/1302055560648327198/2.png?ex=6726b93c&is=672567bc&hm=66c7c9b8a0f38299b71f929336f23f1d1c62949ac60c1e133f38b15b4b3a6261&=&format=webp&quality=lossless&width=911&height=473)
+![f3](https://media.discordapp.net/attachments/1281809063390482563/1302055594060152953/3.png?ex=6726b944&is=672567c4&hm=3d46af1afe7dd27443212c6366b4a5b4278d93b41bb3a656175ce7fb6062ff43&=&format=webp&quality=lossless&width=550&height=285)
+![f4](https://media.discordapp.net/attachments/1281809063390482563/1302055618257096754/4.png?ex=6726b94a&is=672567ca&hm=10affc804d85d4a5bc0c97f156fb52a7a7fd098646948c2992d968407bb111c0&=&format=webp&quality=lossless&width=910&height=473)
+![f5](https://media.discordapp.net/attachments/1281809063390482563/1302055639501115576/5.png?ex=6726b94f&is=672567cf&hm=a03d48a08c23355db29d9ac106fec72dca4d60566bf207ccc27ec27808a8a5b0&=&format=webp&quality=lossless&width=908&height=473)
+![f6](https://media.discordapp.net/attachments/1281809063390482563/1302055664213823508/6.png?ex=6726b955&is=672567d5&hm=abc0c19b2ea3274ec3dcee07c0afeaafb761599fe906c1ab216474cb5b7ab284&=&format=webp&quality=lossless&width=550&height=288)
+![f7](https://media.discordapp.net/attachments/1281809063390482563/1302055687869956209/7.png?ex=6726b95b&is=672567db&hm=d4af3d04a3f1c611bced8dcfcf458f1549c65883ff02b685b3c25cea64d49442&=&format=webp&quality=lossless&width=908&height=473)
+![f8](https://media.discordapp.net/attachments/1281809063390482563/1302055710749753404/8.png?ex=6726b960&is=672567e0&hm=1bf5699fbe195749d3d6878cdd4266c2a28eae57c8cc18c73bba6058f928836a&=&format=webp&quality=lossless&width=899&height=473)
+![f9](https://media.discordapp.net/attachments/1281809063390482563/1302055737165484124/9.png?ex=6726b966&is=672567e6&hm=234e165fe0eea50800c438bfe6e5ce9b3b2087622555b145756c80bd90d42e24&=&format=webp&quality=lossless&width=915&height=473)
+![f10](https://media.discordapp.net/attachments/1281809063390482563/1302055763224825866/10.png?ex=6726b96c&is=672567ec&hm=2db07b236dfa102e5399319f9494c8af8bec74af10b3d2f4d23a02ca46a8e22a&=&format=webp&quality=lossless&width=913&height=473)
+
+
+
 
 #### 5.2.3.8 Team Collaboration Insights during Sprint
 

@@ -2496,7 +2496,7 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 | Sprint # | User Story | Id      | Title                      | Description                        | Estimation (Hours) | Assigned To                | Status        |
 |----------|------------|---------|----------------------------|------------------------------------|--------------------|----------------------------|---------------|
 | Sprint 3 | EPO2-US08  | W01     | Publicar Curso        | Implementar Publicar curso.   | 3                  | Alexander  Justo      | In process    |
-| Sprint 3 | EPO2-US09  | W02     | Visualizar Cursos Publicados            | Implementar Iniciar sesión         | 2                  | Vladimir Jara     | In process    |
+| Sprint 3 | EPO2-US09  | W02     | Visualizar Cursos Publicados            | Visualizar los cursos que han sido publicados        | 2                  | Vladimir Jara     | In process    |
 | Sprint 3 | TS03  | W03     | Registrar Modulo | Registar modulo dentro de 1 curso | 3           | Camila Conde  | In process  |
 | Sprint 3 | US06  | W02     | Landin Page Responsive            | Implementar Landing page Responsive     | 3                  | Carlos De La Cruz      | Done    |
 | Sprint 3 | TS10 | WO4 | Actualizar Modulo | Actualizar modulo dentro de cursos | 4 | Nicolas Vera | In Process | 

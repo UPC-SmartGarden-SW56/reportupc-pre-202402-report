@@ -2506,8 +2506,8 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 | Repository          | Branch | Commit Id | Commit Message    | Commit Message Body | Committed on (Date) |
 |---------------------|--------|-----------|-------------------|---------------------|---------------------|
 | smartGarden-backend | master | b7e223c   | fix: configuration| -                   | 30/10/2024          |
-| smartGarden-backend | master | 078ed1e   | fix: boundeds     | -                   | 30/10/2024          |
-| smartGarden-backend | master | cc6a6fe   | initial commit    | -                   | 30/10/2024          |
+| smartGarden-backend | profaile | 078ed1e   | fix: boundeds     | -                   | 30/10/2024          |
+| smartGarden-backend | ecommerce | cc6a6fe   | initial commit    | -                   | 30/10/2024          |
 | Landing-Page.github.io | main   | 11dc8cb   | Update index.html | -                   | 01/11/2024          |
 | smart-garden-front-end  | feature/update-css    | 11dc8cb   | update(course): update css and code to component for view page | -                 | 26/09/2024          |
 | smart-garden-front-end  | feature/auth          | 755338    | feat(auth): add system validation using session storage, also logout for exit from platform | - | 25/09/2024          |

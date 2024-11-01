@@ -2507,6 +2507,25 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 
 Colaboración por Alumno
 
+| Alumno                               | Actividad |
+|--------------------------------------|-----------|
+| Carlos Alejandro De La Cruz Villarreal | a         |
+| Quique Vladimir Jara Benites          | a         |
+| Nicolas Alejandro Vera Nuñez          | a         |
+| Camila Alessandra Conde Isla          | a         |
+| Alexander Paolo Justo Yauricasa       | a         |
+
+Tabla para identificarnos 
+
+| Username (Github)         | Nombre                              |
+|---------------------------|-------------------------------------|
+| AlexanderJusto            | Alexander Paolo Justo Yauricasa     |
+| Camilac07                 | Camila Alessandra Conde Isla        |
+| QuiqueVladimir            | Jara Benitez, Quique Vladimir       |
+| CarlosDeLaCruzVillarreal  | Carlos Alejandro De La Cruz Villarreal |
+| nicxixs                   | Nicolas Alejandro Vera Nuñez        |
+
+
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)

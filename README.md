@@ -2503,18 +2503,16 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 
 #### 5.2.3.3 Development Evidence for Sprint Review
 
-| Repository | Branch             | Commit Id | Commit Message                     | Commit Message Body | Committed on (Date) |
-|------------|--------------------|-----------|------------------------------------|---------------------|---------------------|
-| front-end  | feature/register-user | 7b7b7b7   | feat: add register user            | -                   | 17/09/2024          |
-| front-end  | feature/login-user  | 7b7b7b7   | feat: add login user               | -                   | 17/09/2024          |
-| front-end  | feature/navbar-learners | 92cf437 | feat: add learners navbar          | -                   | 22/09/2024          |
-| front-end  | feature/payment      | 5009034   | feat: initial commit               | -                   | 22/09/2024          |
-| front-end  | feature/login-user  | 2c1d55c   | feat: initial commit               | -                   | 22/09/2024          |
-| front-end  | feature/login-user  | f0b5a61   | feat(add): components lessons of a course view | - | 23/09/2024      |
-| front-end  | feature/login-user  | 489f116   | update(code): delete warming code  | -                   | 23/09/2024          |
-| front-end  | feature/login-user  | ce4667f   | feature/ Add Login                 | -                   | 23/09/2024          |
-| front-end  | feature/login-user  | aeb1f83   | feat: add register test            | -                   | 24/09/2024          |
-| front-end  | feature/login-user  | 35e12d9   | feat(course): add view of          | -                   | 24/09/2024          |
+| Repository          | Branch | Commit Id | Commit Message    | Commit Message Body | Committed on (Date) |
+|---------------------|--------|-----------|-------------------|---------------------|---------------------|
+| smartGarden-backend | master | b7e223c   | fix: configuration| -                   | 30/10/2024          |
+| smartGarden-backend | master | 078ed1e   | fix: boundeds     | -                   | 30/10/2024          |
+| smartGarden-backend | master | cc6a6fe   | initial commit    | -                   | 30/10/2024          |
+| Landing-Page.github.io | main   | 11dc8cb   | Update index.html | -                   | 01/11/2024          |
+| smart-garden-front-end  | feature/update-css    | 11dc8cb   | update(course): update css and code to component for view page | -                 | 26/09/2024          |
+| smart-garden-front-end  | feature/auth          | 755338    | feat(auth): add system validation using session storage, also logout for exit from platform | - | 25/09/2024          |
+| smart-garden-front-end  | feature/routing       | 32799b1   | update(navigation): update icons to toolbar         | -                   | 25/09/2024          |
+
 
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review 
 

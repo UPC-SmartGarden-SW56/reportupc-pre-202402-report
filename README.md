@@ -2591,6 +2591,9 @@ Tabla para identificarnos
 | CarlosDeLaCruzVillarreal  | Carlos Alejandro De La Cruz Villarreal |
 | nicxixs                   | Nicolas Alejandro Vera Nuñez        |
 
+**Link del Back End: https://github.com/UPC-SmartGarden-SW56/smartGarden-backend.git**
+**Link del Front End: https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend**
+
 
 
 ## [Conclusiones](#conclusiones)

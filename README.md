@@ -2503,6 +2503,19 @@ realizaron su aporte a través de commits en la herramienta Git Hub.
 
 #### 5.2.3.3 Development Evidence for Sprint Review
 
+| Repository | Branch             | Commit Id | Commit Message                     | Commit Message Body | Committed on (Date) |
+|------------|--------------------|-----------|------------------------------------|---------------------|---------------------|
+| front-end  | feature/register-user | 7b7b7b7   | feat: add register user            | -                   | 17/09/2024          |
+| front-end  | feature/login-user  | 7b7b7b7   | feat: add login user               | -                   | 17/09/2024          |
+| front-end  | feature/navbar-learners | 92cf437 | feat: add learners navbar          | -                   | 22/09/2024          |
+| front-end  | feature/payment      | 5009034   | feat: initial commit               | -                   | 22/09/2024          |
+| front-end  | feature/login-user  | 2c1d55c   | feat: initial commit               | -                   | 22/09/2024          |
+| front-end  | feature/login-user  | f0b5a61   | feat(add): components lessons of a course view | - | 23/09/2024      |
+| front-end  | feature/login-user  | 489f116   | update(code): delete warming code  | -                   | 23/09/2024          |
+| front-end  | feature/login-user  | ce4667f   | feature/ Add Login                 | -                   | 23/09/2024          |
+| front-end  | feature/login-user  | aeb1f83   | feat: add register test            | -                   | 24/09/2024          |
+| front-end  | feature/login-user  | 35e12d9   | feat(course): add view of          | -                   | 24/09/2024          |
+
 #### 5.2.3.4 Testing Suite Evidence for Sprint Review 
 
 En el proceso de desarrollo del Front End y Back End se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados

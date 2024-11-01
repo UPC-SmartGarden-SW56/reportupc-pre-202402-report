@@ -2473,8 +2473,8 @@ Tabla para poder identificarnos:
 Para este sprint se ha realizado la implementación del front end, para esto los integrantes del grupo
 realizaron su aporte a través de commits en la herramienta Git Hub.
 
-### 5.2.2. Sprint 3
-#### 5.2.2.1. Sprint Planning 3 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3 
 
 | Sprint #                        | Sprint 3                                           |
 |---------------------------------|----------------------------------------------------|

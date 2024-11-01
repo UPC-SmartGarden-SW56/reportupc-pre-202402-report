@@ -2551,11 +2551,11 @@ Colaboración por Alumno
 
 | Alumno                               | Actividad |
 |--------------------------------------|-----------|
-| Carlos Alejandro De La Cruz Villarreal | a         |
-| Quique Vladimir Jara Benites          | a         |
-| Nicolas Alejandro Vera Nuñez          | a         |
-| Camila Alessandra Conde Isla          | a         |
-| Alexander Paolo Justo Yauricasa       | a         |
+| Carlos Alejandro De La Cruz Villarreal | Implementación en el Front End         |
+| Quique Vladimir Jara Benites          | Implementación en el Front End         |
+| Nicolas Alejandro Vera Nuñez          | Implementación en el Front End         |
+| Camila Alessandra Conde Isla          | Implementación en el Back End        |
+| Alexander Paolo Justo Yauricasa       | Implementación en el Back End         |
 
 Tabla para identificarnos 
 

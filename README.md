@@ -2542,6 +2542,15 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 Durante el tercer Sprint se logró implementar los detalles finales para el Front End y comenzar respectivamente con el Back End. A continuación se muestra nuestro proyecto desplegado:
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
+![foto1](https://media.discordapp.net/attachments/1281809063390482563/1302052424760164362/1.jpeg?ex=6726b651&is=672564d1&hm=dc83c0d36ea0d151c3b7374b2cb5aebdf4c39b5b12f4d30e03998f900dadfeb5&=&format=webp&width=911&height=473)
+![foto2](https://media.discordapp.net/attachments/1281809063390482563/1302052448269111377/2.jpeg?ex=6726b656&is=672564d6&hm=b0b76bf29a604d6d031e0b11b3d06a60e06f7ddb850f548ed1b7461047ce8111&=&format=webp&width=943&height=473)
+![foto3](https://media.discordapp.net/attachments/1281809063390482563/1302052474705805353/3.jpeg?ex=6726b65c&is=672564dc&hm=ff9e8c57c82b4372a043d70c407cb727869302acb45d7ba1e086b5057f602b7c&=&format=webp&width=943&height=473)
+![foto4](https://media.discordapp.net/attachments/1281809063390482563/1302052498353426506/4.jpeg?ex=6726b662&is=672564e2&hm=297635c5531b0cf5996c2b0bad1322537c649f26e70d664ac6969595909d7b89&=&format=webp&width=949&height=473)
+![foto5](https://media.discordapp.net/attachments/1281809063390482563/1302052524404117606/5.jpeg?ex=6726b668&is=672564e8&hm=478a05e49259eb70de174045be36662fc1d0c7c9bdafe8690345abe138b8c27c&=&format=webp&width=908&height=473)
+![foto6](https://media.discordapp.net/attachments/1281809063390482563/1302052553525166110/6.jpeg?ex=6726b66f&is=672564ef&hm=e32e6b45f668f3c3b70ebb46676846d21e4e69ffed98c5f0d486c73bd79d053c&=&format=webp&width=938&height=473)
+
+Link: https://fake-api-smartgarden.vercel.app/
+
 
 #### 5.2.3.7 Software Deployment Evidence for Sprint Review
 

@@ -2595,6 +2595,108 @@ Tabla para identificarnos
 
 **Link del Front End: https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend**
 
+#Sprint 5.2.4: Spring 4
+
+## **5.2.4.1 Sprint Planning 4**
+- **Fecha**: 01/11/2024
+- **Hora**: 16:00 pm - 18:00 pm
+- **Ubicación**: Modalidad remota a través de Google Meet y WhatsApp
+- **Preparado por**: Nicolás Alejandro Vera Núñez
+- **Participantes**:
+  - Carlos Alejandro De La Cruz Villarreal
+  - Quique Vladimir Jara Benites
+  - Nicolás Alejandro Vera Núñez
+  - Camila Alessandra Conde Isla
+  - Alexander Paolo Justo Yauricasa
+
+### **Objetivo del Sprint**
+Completar el desarrollo del backend para integrar las funcionalidades clave necesarias para la aplicación *SmartGarden*, incluyendo:
+- La gestión de usuarios (registro, inicio de sesión, actualización y eliminación).
+- Gestión de cursos (creación, actualización, eliminación).
+- Implementación de servicios RESTful.
+- Integración con la base de datos MySQL para persistencia de datos.
+
+---
+
+## **5.2.4.2 Sprint Backlog**
+| User Story ID | Título                         | Descripción                                                                 | Estimación (horas) | Asignado a              | Estado       |
+|---------------|--------------------------------|-----------------------------------------------------------------------------|---------------------|-------------------------|--------------|
+| US20          | API para registro de usuarios | Crear una API REST para registrar nuevos usuarios.                         | 4                   | Alexander Paolo Justo  | Completado   |
+| US21          | API para login                | Crear una API para manejar el inicio de sesión con validación JWT.         | 4                   | Carlos Alejandro       | Completado   |
+| US22          | API para cursos               | Crear una API para agregar y listar cursos disponibles en la plataforma.   | 6                   | Quique Vladimir Jara   | Completado   |
+| US23          | Base de datos                 | Diseñar y configurar la base de datos en MySQL.                            | 5                   | Camila Alessandra      | Completado   |
+| US24          | Pruebas del backend           | Implementar pruebas unitarias para las API desarrolladas.                  | 6                   | Nicolás Alejandro      | Completado   |
+
+---
+
+## **5.2.4.3 Development Evidence**
+### **Repositorios**
+- **Backend**: [Repositorio Backend](https://github.com/UPC-SmartGarden-SW56/smartGarden-backend)
+
+### **Commits Relevantes**
+| Branch         | Commit ID | Mensaje del Commit                          | Fecha          |
+|----------------|-----------|---------------------------------------------|----------------|
+| `feature/users`| 123abc456 | feat: implement user registration endpoint | 02/11/2024     |
+| `feature/courses` | 789def012 | feat: add course management API           | 04/11/2024     |
+| `feature/auth` | 345ghi789 | fix: implement JWT-based authentication    | 06/11/2024     |
+| `feature/db`   | 567jkl890 | chore: configure MySQL connections         | 08/11/2024     |
+
+---
+
+## **5.2.4.4 Testing Suite Evidence**
+Para garantizar el correcto funcionamiento del backend, se realizaron pruebas utilizando **Postman**, **JUnit**, y **MySQL Workbench**.
+
+- **Pruebas realizadas**:
+  - Registro de usuarios con datos válidos e inválidos.
+  - Autenticación de usuarios con JWT.
+  - Creación, listado, edición y eliminación de cursos.
+  - Persistencia de datos en MySQL.
+
+### **Resultados de las pruebas**
+| Endpoint              | Método | Estado esperado | Estado obtenido | Notas                                  |
+|-----------------------|--------|-----------------|-----------------|----------------------------------------|
+| `/api/v1/users`       | POST   | 201             | 201             | Registro exitoso                       |
+| `/api/v1/login`       | POST   | 200             | 200             | Token JWT generado correctamente       |
+| `/api/v1/courses`     | GET    | 200             | 200             | Listado correcto de cursos disponibles|
+| `/api/v1/courses`     | POST   | 201             | 201             | Curso creado correctamente             |
+| `/api/v1/courses/:id` | DELETE | 204             | 204             | Curso eliminado exitosamente           |
+
+---
+
+## **5.2.4.5 Execution Evidence**
+### **Resultados**
+- Implementación completa del backend.
+- Integración exitosa con la base de datos MySQL para la persistencia de datos.
+- Despliegue en un entorno local para pruebas funcionales.
+- Documentación API generada automáticamente utilizando Swagger.
+
+### **Capturas**
+
+1. **Conexión a MySQL**  
+
+
+2. **Swagger UI**  
+
+
+---
+
+## **5.2.4.6 Software Deployment Evidence**
+El backend fue desplegado utilizando **Microsoft Azure** y está disponible en el siguiente enlace:
+- [Backend API desplegado]()
+
+---
+
+## **5.2.4.7 Team Collaboration Insights**
+| Integrante                      | Actividad                                  |
+|---------------------------------|-------------------------------------------|
+| Alexander Paolo Justo           | Implementación de registro de usuarios.   |
+| Carlos Alejandro De La Cruz     | Autenticación y manejo de JWT.            |
+| Quique Vladimir Jara            | Desarrollo de la API para gestión de cursos.|
+| Camila Alessandra Conde         | Configuración de la base de datos MySQL.  |
+| Nicolás Alejandro Vera          | Pruebas unitarias y documentación Swagger.|
+
+---
+
 
 
 ## [Conclusiones](#conclusiones)

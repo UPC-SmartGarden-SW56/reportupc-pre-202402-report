@@ -2599,9 +2599,56 @@ Tabla para identificarnos
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  1. **Gestión efectiva del proyecto**  
+   Durante el desarrollo de *SmartGarden*, el equipo logró implementar un flujo de trabajo colaborativo y estructurado. Esto permitió que las tareas asignadas en cada sprint se completaran dentro del plazo, asegurando que las entregas cumplieran con los requisitos técnicos y funcionales establecidos.
+
+2. **Adopción de buenas prácticas de desarrollo**  
+   Se implementaron estándares de codificación, como el uso de commits semánticos y control de versiones con Git, lo que garantizó un historial limpio y ordenado. Además, la arquitectura de software diseñada bajo el enfoque *Domain-Driven Design (DDD)* permitió la modularidad del sistema y una mayor claridad en la división de responsabilidades.
+
+3. **Diseño centrado en el usuario**  
+   A través de herramientas como *Figma*, *UXPressia* y *Miro*, se lograron identificar las necesidades de los usuarios objetivo mediante entrevistas, mapas de empatía y escenarios. Esto permitió que las interfaces de usuario, tanto de la *landing page* como de la aplicación web, fueran intuitivas, atractivas y alineadas con los intereses de los principiantes y expertos en hidroponía.
+
+4. **Entrega de una solución funcional**  
+   El equipo entregó una solución robusta que incluye una *landing page* responsiva, un *front-end* funcional y la implementación inicial del *back-end*. Esto asegura que *SmartGarden* pueda ser utilizada como una herramienta educativa y comunitaria para fomentar la hidroponía.
+
+5. **Colaboración interdisciplinaria**  
+   El trabajo en equipo fue clave para el éxito del proyecto, permitiendo que los integrantes combinaran sus habilidades técnicas y de diseño. Las reuniones periódicas y el uso de herramientas de colaboración, como *Google Meet* y *GitHub*, facilitaron la comunicación y coordinación.
+
+6. **Relevancia del producto**  
+   La aplicación aborda un problema real, la falta de información y comunidad en el ámbito de la hidroponía, ofreciendo soluciones concretas que impulsan la sostenibilidad y la autosuficiencia, alineadas con los intereses de los usuarios.
+
+7. **Planificación y mejora continua**  
+   La metodología ágil permitió iteraciones constantes y la integración de *feedback*, lo que asegura que el proyecto esté preparado para escalar y agregar nuevas funcionalidades en el futuro.
 - [Video about the team](#video-about-the-team)
 
 ## [Bibliografía](#bibliografía)
+
+- Figma. (2024). *Figma: Design, prototype, and collaborate all in one tool*. Recuperado de [https://www.figma.com](https://www.figma.com)
+
+- GitHub. (2024). *GitHub: Where the world builds software*. Recuperado de [https://github.com](https://github.com)
+
+- LucidChart. (2024). *Lucidchart: Online diagram and flowchart software*. Recuperado de [https://www.lucidchart.com](https://www.lucidchart.com)
+
+- Miro. (2024). *Miro: The online whiteboard platform*. Recuperado de [https://miro.com](https://miro.com)
+
+- Netlify. (2024). *Netlify: Develop & deploy the best web experiences*. Recuperado de [https://www.netlify.com](https://www.netlify.com)
+
+- UXPressia. (2024). *UXPressia: User journey mapping platform*. Recuperado de [https://uxpressia.com](https://uxpressia.com)
+
+- Visual Studio Code. (2024). *Live Server Extension*. Recuperado de [https://code.visualstudio.com](https://code.visualstudio.com)
+
+- Vertabelo. (2024). *Vertabelo: Online database modeler*. Recuperado de [https://www.vertabelo.com](https://www.vertabelo.com)
+
+- Structurizr. (2024). *Structurizr: Cloud-based architecture diagram tool*. Recuperado de [https://www.structurizr.com](https://www.structurizr.com)
+
+- W3C. (2024). *HTML & CSS Guidelines*. Recuperado de [https://www.w3.org/standards/](https://www.w3.org/standards/)
+
+- Git. (2024). *Git: Distributed version control*. Recuperado de [https://git-scm.com](https://git-scm.com)
+
+- SmartGarden Team. (2024). *SmartGarden Repositories*. Recuperado de:
+  - [https://github.com/UPC-SmartGarden-SW56/smartGarden-backend.git](https://github.com/UPC-SmartGarden-SW56/smartGarden-backend.git)
+  - [https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend](https://github.com/UPC-SmartGarden-SW56/smart-garden-frontend)
+
 ## [Anexos](#anexos)
 
 - Landing Page [Visita nuestro sitio](https://upc-smartgarden-sw56.github.io/Landing-Page.github.io/)
